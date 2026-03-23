@@ -9,9 +9,9 @@ categories:
 seoTitle: "How Small Teams Can Stay Contract-Organized Without a Legal Department"
 seoDescription: "Most small business owners didn't start their company to manage contracts."
 ---
-# TEST How Small Teams Can Stay Contract-Organized Without a Legal Department
+# How Small Teams Can Stay Contract-Organized Without a Legal Department
 
-Most small business owners didn't start their company to manage contracts.
+TEST Most small business owners didn't start their company to manage contracts.
 
 They started it to build something, serve clients, grow a team, or solve a problem they cared about. Contracts are just part of running a business: necessary, important, but rarely the part anyone looks forward to.
 
