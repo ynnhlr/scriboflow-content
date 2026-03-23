@@ -11,7 +11,7 @@ seoDescription: "Most small business owners didn't start their company to manage
 ---
 # How Small Teams Can Stay Contract-Organized Without a Legal Department
 
-TEST001 Most small business owners didn't start their company to manage contracts.
+Most small business owners didn't start their company to manage contracts.
 
 They started it to build something, serve clients, grow a team, or solve a problem they cared about. Contracts are just part of running a business: necessary, important, but rarely the part anyone looks forward to.
 
