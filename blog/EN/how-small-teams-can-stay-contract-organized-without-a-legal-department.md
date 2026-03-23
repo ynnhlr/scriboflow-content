@@ -9,7 +9,7 @@ categories:
 seoTitle: "How Small Teams Can Stay Contract-Organized Without a Legal Department"
 seoDescription: "Most small business owners didn't start their company to manage contracts."
 ---
-# How Small Teams Can Stay Contract-Organized Without a Legal Department
+# TEST How Small Teams Can Stay Contract-Organized Without a Legal Department
 
 Most small business owners didn't start their company to manage contracts.
 
