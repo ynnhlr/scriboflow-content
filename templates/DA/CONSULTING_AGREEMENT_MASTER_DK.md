@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til konsulentaftale"
 seoDescription: "Brug denne konsulentaftale til at beskrive scope, leverancer, honorar, fortrolighed og ejerskab til IP."
 ---
-# Konsulentaftale
 
-Denne konsulentaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne konsulentaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kunde**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CLIENT]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Konsulent**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CONSULTANT]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Kunde og Konsulent benævnes hver en "Part" og samlet "Parterne".
 
@@ -55,15 +52,15 @@ Aftalen løber, indtil Ydelserne er afsluttet, eller indtil ophør i henhold til
 
 ### 4.1 Vederlagsstruktur
 
-Kunden skal betale Konsulenten **[HOURLY RATE]** eller **[FIXED PROJECT FEE]** som angivet i Bilag 1.
+Kunden skal betale Konsulenten **[NUMMER] [VALUTA]** eller **[NUMMER] [VALUTA]** som angivet i Bilag 1.
 
 ### 4.2 Fakturering
 
-Fakturaer udstedes **[MONTHLY / PER MILESTONE / UPON COMPLETION]**.
+Fakturaer udstedes **[BETALINGSFREKVENS]**.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[X]** dage fra modtagelse.
+Fakturaer forfalder til betaling inden **[NUMMER]** dage fra modtagelse.
 
 ### 4.4 Forsinket betaling
 
@@ -147,7 +144,7 @@ Konsulenten skal holde Kunden skadesløs mod tredjemandskrav, der udspringer af:
 
 ### 12.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[X days’]** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[NUMMER] dage** skriftligt varsel.
 
 ### 12.2 Ophævelse ved misligholdelse
 
@@ -169,7 +166,7 @@ Konsulenten må ikke overdrage rettigheder eller forpligtelser uden forudgående
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, skal afgøres ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, skal afgøres ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Hele aftalen
 
@@ -183,23 +180,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Ydelser og honorar
 
-- Beskrivelse af ydelser: **[Detailed scope]**
-- Leverancer: **[List deliverables]**
-- Tidsplan: **[Milestones]**
-- Vederlag: **[Rate or fixed amount]**
-- Betalingsplan: **[Details]**
-
----
-
-## Underskrifter
-
-**For Kunden**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Konsulenten**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+- Beskrivelse af ydelser: **[OMFANG]**
+- Leverancer: **[LEVERANCER]**
+- Tidsplan: **[MILEPÆLE]**
+- Vederlag: **[NUMMER] [VALUTA]**
+- Betalingsplan: **[BESKRIVELSE]**

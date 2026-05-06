@@ -7,23 +7,22 @@ tags:
 seoTitle: "Vendor Agreement Template"
 seoDescription: "Use this vendor agreement template to define pricing, delivery, quality, and supplier responsibilities in an ongoing commercial relationship."
 ---
-# Vendor Agreement
 
-This Vendor Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Vendor Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Customer**
-- Full legal name: **[FULL LEGAL NAME OF CUSTOMER / BUYER]**
+- Full legal name: **[COMPANY NAME]**
 - Entity type: **[COMPANY TYPE]**
 - Registered address: **[ADDRESS]**
-- CVR No.: **[REGISTRATION NUMBER]**
+- CVR No.: **[CVR]**
 
 **Vendor**
-- Full legal name: **[FULL LEGAL NAME OF VENDOR]**
+- Full legal name: **[COMPANY NAME]**
 - Entity type: **[COMPANY TYPE]**
 - Registered address: **[ADDRESS]**
-- CVR No.: **[REGISTRATION NUMBER]**
+- CVR No.: **[CVR]**
 
 The Customer and the Vendor are each a "Party" and together the "Parties".
 
@@ -67,7 +66,7 @@ Prices are fixed unless otherwise agreed in writing.
 
 ### 4.3 Payment Terms
 
-Invoices shall be payable within **[X days]** from receipt, provided Deliverables comply with this Agreement.
+Invoices shall be payable within **[NUMBER] days** from receipt, provided Deliverables comply with this Agreement.
 
 ### 4.4 Disputed Amounts
 
@@ -77,7 +76,7 @@ The Customer may withhold payment for disputed amounts.
 
 ### 5.1 Delivery Terms
 
-Delivery shall take place at **[LOCATION / INCOTERM]**.
+Delivery shall take place at **[LOCATION] [INCOTERM]**.
 
 ### 5.2 Time of the Essence
 
@@ -117,7 +116,7 @@ The Vendor warrants that Deliverables:
 
 ### 7.2 Warranty Period
 
-The warranty period shall be **[X months]** from delivery unless otherwise agreed.
+The warranty period shall be **[NUMBER] months** from delivery unless otherwise agreed.
 
 ## 8. Compliance and Ethics
 
@@ -168,7 +167,7 @@ Neither Party shall be liable for indirect or consequential damages.
 
 ### 12.2 Liability Cap
 
-The Vendor’s total liability shall not exceed **[X amount or contract value]**, except in cases of gross negligence, wilful misconduct, or product liability.
+The Vendor’s total liability shall not exceed **[NUMBER] amount or contract value**, except in cases of gross negligence, wilful misconduct, or product liability.
 
 ## 13. Insurance
 
@@ -187,7 +186,7 @@ This Agreement shall commence on the Effective Date and continue until terminate
 
 ### 14.2 Termination for Convenience
 
-Either Party may terminate with **[X days/months]** written notice.
+Either Party may terminate with **[NUMBER] days/months** written notice.
 
 ### 14.3 Termination for Cause
 
@@ -206,7 +205,7 @@ The Vendor may not assign this Agreement without prior written consent. The Cust
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -220,24 +219,8 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Description of Deliverables
 
-**[Detailed scope / technical specifications]**
+**[SCOPE]**
 
 ## Schedule 2: Pricing
 
-**[Price list or fee structure]**
-
----
-
-## Signatures
-
-**For the Customer**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Vendor**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[PRICE STRUCTURE]**

@@ -7,23 +7,20 @@ tags:
 seoTitle: "Payment Agreement Template"
 seoDescription: "Use this payment agreement template to document instalments, due dates, and consequences if the debtor misses payments."
 ---
-# Payment Agreement
 
-This Payment Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Payment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Creditor**
-- Full legal name: **[FULL LEGAL NAME OF CREDITOR]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Debtor**
-- Full legal name: **[FULL LEGAL NAME OF DEBTOR]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No. / CPR No.: **[IDENTIFICATION NUMBER]**
+- CVR/ID No. / CPR No.: **[CVR]**
 
 The Creditor and the Debtor are each a "Party" and together the "Parties".
 
@@ -31,11 +28,11 @@ The Creditor and the Debtor are each a "Party" and together the "Parties".
 
 ### 2.1 Outstanding Amount
 
-The Debtor acknowledges that it owes the Creditor the amount of **[AMOUNT]** **[CURRENCY]** (the "Outstanding Amount").
+The Debtor acknowledges that it owes the Creditor the amount of **[NUMBER] [CURRENCY]** (the "Outstanding Amount").
 
 ### 2.2 Basis of Debt
 
-The Outstanding Amount arises from **[Describe underlying agreement, invoice numbers, or basis of debt]**.
+The Outstanding Amount arises from **[DESCRIPTION]**.
 
 ### 2.3 Repayment Plan
 
@@ -46,26 +43,26 @@ The Parties wish to establish a structured repayment plan.
 ### 3.1 Schedule
 
 The Debtor shall repay the Outstanding Amount as follows:
-- **[Installment 1 – Amount – Due Date]**
-- **[Installment 2 – Amount – Due Date]**
-- **[Installment 3 – Amount – Due Date]**
+- **[NUMBER] [CURRENCY] due [DATE]**
+- **[NUMBER] [CURRENCY] due [DATE]**
+- **[NUMBER] [CURRENCY] due [DATE]**
 
 OR
 
-- **[Monthly installments of AMOUNT starting DATE]**
+- **[NUMBER] [CURRENCY] starting [DATE]**
 
 ### 3.2 Payment Account
 
 Payments shall be made to the following bank account:
-- Bank: **[Bank Name]**
+- Bank: **[BANK NAME]**
 - IBAN: **[IBAN]**
-- Reference: **[Reference]**
+- Reference: **[REFERENCE]**
 
 ## 4. Interest
 
 ### 4.1 Interest Rate
 
-Interest shall accrue at **[STATUTORY INTEREST RATE / AGREED INTEREST RATE % PER ANNUM]** from **[DATE]** until full payment.
+Interest shall accrue at **[NUMBER]% per annum** from **[DATE]** until full payment.
 
 ### 4.2 Statutory Interest
 
@@ -79,7 +76,7 @@ The Debtor may repay the Outstanding Amount in full at any time without penalty 
 
 ### 6.1 Default Trigger
 
-The Debtor shall be in default if any installment is not paid within **[X days]** of its due date.
+The Debtor shall be in default if any installment is not paid within **[NUMBER] days** of its due date.
 
 ### 6.2 Remedies
 
@@ -99,9 +96,9 @@ Failure by the Creditor to enforce any provision shall not constitute a waiver o
 ## 8. Security (Optional)
 
 As security for payment, the Debtor provides:
-- **[Personal guarantee]**
-- **[Collateral description]**
-- **[Other security arrangement]**
+- **[PERSONAL GUARANTEE]**
+- **[DESCRIPTION]**
+- **[OTHER SECURITY ARRANGEMENT]**
 
 Details are set out in Schedule 1, if applicable.
 
@@ -115,7 +112,7 @@ The Parties shall keep the terms of this Agreement confidential unless disclosur
 
 ## 11. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 12. Entire Agreement
 
@@ -129,19 +126,4 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Security (If Applicable)
 
-**[Details of collateral, guarantees, or other security arrangements]**
-
----
-
-## Signatures
-
-**For the Creditor**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Debtor**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[DESCRIPTION]**

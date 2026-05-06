@@ -7,29 +7,26 @@ tags:
 seoTitle: "Mutual NDA Template"
 seoDescription: "Use this mutual NDA template to protect confidential information when both parties disclose sensitive business or technical details."
 ---
-# Mutual Non-Disclosure Agreement (NDA)
 
-This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Party A**
-- Full legal name: **[FULL LEGAL NAME OF PARTY A]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Party B**
-- Full legal name: **[FULL LEGAL NAME OF PARTY B]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 Party A and Party B are each a "Party" and together the "Parties".
 
 ## 2. Purpose
 
-The Parties wish to disclose certain Confidential Information to each other solely for **[PURPOSE OF DISCLOSURE]** (the "Purpose").
+The Parties wish to disclose certain Confidential Information to each other solely for **[PURPOSE]** (the "Purpose").
 
 ## 3. Definition of Confidential Information
 
@@ -68,7 +65,7 @@ All Confidential Information remains the exclusive property of the Disclosing Pa
 
 ## 8. Term and Survival
 
-This Agreement commences on the Effective Date and remains in force for **[TERM OF AGREEMENT]**. The confidentiality obligations survive termination or expiration for **[CONFIDENTIALITY SURVIVAL PERIOD]** years.
+This Agreement commences on the Effective Date and remains in force for **[NUMBER] [TIME UNIT]**. The confidentiality obligations survive termination or expiration for **[NUMBER] [TIME UNIT]** years.
 
 ## 9. Return or Destruction
 
@@ -88,7 +85,7 @@ Neither Party may assign this Agreement without prior written consent, except to
 
 ## 13. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 14. Language
 
@@ -101,19 +98,3 @@ This Agreement constitutes the entire agreement between the Parties regarding th
 ## 16. Execution
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be deemed an original.
-
----
-
-## Signatures
-
-**For Party A**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For Party B**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**

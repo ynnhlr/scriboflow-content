@@ -7,23 +7,22 @@ tags:
 seoTitle: "Skabelon til leverandøraftale"
 seoDescription: "Brug denne leverandøraftale til at fastlægge pris, levering, kvalitet og leverandørens ansvar i et løbende kommercielt forhold."
 ---
-# Leverandøraftale
 
-Denne leverandøraftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne leverandøraftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kunde**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CUSTOMER / BUYER]**
-- Enhedstype: **[COMPANY TYPE]**
-- Registreret adresse: **[ADDRESS]**
-- CVR-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Enhedstype: **[SELSKABSTYPE]**
+- Registreret adresse: **[ADRESSE]**
+- CVR-nr.: **[CVR]**
 
 **Leverandør**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF VENDOR]**
-- Enhedstype: **[COMPANY TYPE]**
-- Registreret adresse: **[ADDRESS]**
-- CVR-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Enhedstype: **[SELSKABSTYPE]**
+- Registreret adresse: **[ADRESSE]**
+- CVR-nr.: **[CVR]**
 
 Kunden og Leverandøren benævnes hver en "Part" og samlet "Parterne".
 
@@ -67,7 +66,7 @@ Priser er faste, medmindre andet er aftalt skriftligt.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[X days]** fra modtagelse, forudsat at Leverancerne er i overensstemmelse med Aftalen.
+Fakturaer forfalder til betaling inden **[NUMMER] dage** fra modtagelse, forudsat at Leverancerne er i overensstemmelse med Aftalen.
 
 ### 4.4 Omtvistede beløb
 
@@ -77,7 +76,7 @@ Kunden kan tilbageholde betaling af omtvistede beløb.
 
 ### 5.1 Leveringsvilkår
 
-Levering sker til **[LOCATION / INCOTERM]**.
+Levering sker til **[LOKATION] [INCOTERM]**.
 
 ### 5.2 Tid er væsentlig
 
@@ -117,7 +116,7 @@ Leverandøren garanterer, at Leverancerne:
 
 ### 7.2 Garantiperiode
 
-Garantiperioden er **[X months]** fra levering, medmindre andet er aftalt.
+Garantiperioden er **[NUMMER] måneder** fra levering, medmindre andet er aftalt.
 
 ## 8. Compliance og etik
 
@@ -168,7 +167,7 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader.
 
 ### 12.2 Ansvarsloft
 
-Leverandørens samlede ansvar kan ikke overstige **[X amount or contract value]**, dog ikke i tilfælde af grov uagtsomhed, forsæt eller produktansvar.
+Leverandørens samlede ansvar kan ikke overstige **[NUMMER] beløb eller kontraktværdi**, dog ikke i tilfælde af grov uagtsomhed, forsæt eller produktansvar.
 
 ## 13. Forsikring
 
@@ -187,7 +186,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen og fortsætter, indtil den op
 
 ### 14.2 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[X days/months]** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[NUMMER] dage/måneder** skriftligt varsel.
 
 ### 14.3 Ophør ved misligholdelse
 
@@ -206,7 +205,7 @@ Leverandøren må ikke overdrage Aftalen uden forudgående skriftligt samtykke. 
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -220,24 +219,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Beskrivelse af leverancer
 
-**[Detailed scope / technical specifications]**
+**[OMFANG]**
 
 ## Bilag 2: Priser
 
-**[Price list or fee structure]**
-
----
-
-## Underskrifter
-
-**For Kunden**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Leverandøren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[PRISSTRUKTUR]**

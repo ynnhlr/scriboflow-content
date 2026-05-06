@@ -7,22 +7,20 @@ tags:
 seoTitle: "Skabelon til timelønnet ansættelsesaftale"
 seoDescription: "Brug denne timelønnede ansættelsesaftale til at fastlægge timeløn, arbejdstid, overarbejde og medarbejderens forpligtelser."
 ---
-# Ansættelsesaftale (Timelønnet)
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYEE]**
-- Adresse: **[ADDRESS]**
-- CPR/ID-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
@@ -30,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes i stillingen som **[JOB TITLE]**.
+Medarbejderen ansættes i stillingen som **[STILLINGSBETEGNELSE]**.
 
 ### 2.2 Arbejdsopgaver
 
@@ -44,11 +42,11 @@ Medarbejderen skal udføre sine opgaver loyalt, samvittighedsfuldt og i Arbejdsg
 
 ### 3.1 Startdato
 
-Ansættelsen påbegyndes den **[START DATE]**.
+Ansættelsen påbegyndes den **[DATO]**.
 
 ### 3.2 Varighed
 
-Ansættelsen er **[INDEFINITE / FIXED-TERM UNTIL DATE]**. Der garanteres ikke et minimum antal arbejdstimer, medmindre dette udtrykkeligt fremgår af Aftalen.
+Ansættelsen er **[VILKÅRSTYPE] indtil [DATO]**. Der garanteres ikke et minimum antal arbejdstimer, medmindre dette udtrykkeligt fremgår af Aftalen.
 
 ## 4. Arbejdstid
 
@@ -68,11 +66,11 @@ Medmindre andet er aftalt, er Arbejdsgiveren ikke forpligtet til at tilbyde et m
 
 ### 5.1 Timeløn
 
-Medarbejderen modtager en timeløn på **[AMOUNT]** **[CURRENCY]** før skat.
+Medarbejderen modtager en timeløn på **[NUMMER] [VALUTA]** før skat.
 
 ### 5.2 Udbetaling
 
-Løn udbetales **[MONTHLY/BI-WEEKLY]** bagud til Medarbejderens oplyste bankkonto.
+Løn udbetales **[FREKVENS]** bagud til Medarbejderens oplyste bankkonto.
 
 ### 5.3 Overtid
 
@@ -134,7 +132,7 @@ Udstyr, dokumenter og materialer stillet til rådighed af Arbejdsgiveren forbliv
 
 ### 12.1 Opsigelse
 
-Hver Part kan opsige Aftalen med **[NOTICE PERIOD]** skriftligt varsel, medmindre andet følger af ufravigelig lovgivning.
+Hver Part kan opsige Aftalen med **[NUMMER] [TIDSENHED]** skriftligt varsel, medmindre andet følger af ufravigelig lovgivning.
 
 ### 12.2 Ophør med øjeblikkelig virkning
 
@@ -158,7 +156,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 
@@ -171,18 +169,3 @@ Aftalen udgør Parternes samlede aftale og erstatter alle tidligere aftaler elle
 ## 19. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
-
----
-
-## Underskrifter
-
-**For Arbejdsgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Medarbejderen**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

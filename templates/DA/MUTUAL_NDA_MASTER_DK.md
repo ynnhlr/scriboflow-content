@@ -7,29 +7,26 @@ tags:
 seoTitle: "Skabelon til gensidig fortrolighedsaftale"
 seoDescription: "Brug denne gensidige fortrolighedsaftale til at beskytte fortrolige oplysninger, når begge parter deler følsomme forretnings- eller tekniske oplysninger."
 ---
-# Gensidig fortrolighedsaftale (NDA)
 
-Denne gensidige fortrolighedsaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne gensidige fortrolighedsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Part A**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF PARTY A]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Part B**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF PARTY B]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Part A og Part B benævnes hver en "Part" og samlet "Parterne".
 
 ## 2. Formål
 
-Parterne ønsker at videregive visse Fortrolige oplysninger til hinanden alene med henblik på **[PURPOSE OF DISCLOSURE]** ("Formålet").
+Parterne ønsker at videregive visse Fortrolige oplysninger til hinanden alene med henblik på **[FORMÅL]** ("Formålet").
 
 ## 3. Definition af fortrolige oplysninger
 
@@ -68,7 +65,7 @@ Alle Fortrolige oplysninger forbliver den Videregivende Parts eksklusive ejendom
 
 ## 8. Løbetid og overlevelse
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[TERM OF AGREEMENT]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[CONFIDENTIALITY SURVIVAL PERIOD]** år.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[NUMMER] [TIDSENHED]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[NUMMER] [TIDSENHED]** år.
 
 ## 9. Returnering eller destruktion
 
@@ -88,7 +85,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 13. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 14. Sprog
 
@@ -101,19 +98,3 @@ Aftalen udgør Parternes samlede aftale om det regulerede forhold og erstatter a
 ## 16. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
-
----
-
-## Underskrifter
-
-**For Part A**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Part B**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

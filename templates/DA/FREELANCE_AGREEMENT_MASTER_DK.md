@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til freelanceaftale"
 seoDescription: "Brug denne freelanceaftale til at fastlægge projektets omfang, honorar, leveringsvilkår, fortrolighed og ejerskab til IP."
 ---
-# Freelanceaftale
 
-Denne freelanceaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne freelanceaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kunde**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CLIENT]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Freelancer**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF FREELANCER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Kunden og Freelanceren benævnes hver en "Part" og samlet "Parterne".
 
@@ -62,7 +59,7 @@ Intet i Aftalen etablerer et ansættelsesforhold.
 
 ### 4.1 Vederlag
 
-Kunden skal betale Freelanceren **[HOURLY RATE]** eller **[FIXED PROJECT FEE]**, som angivet i Bilag 1.
+Kunden skal betale Freelanceren **[NUMMER] [VALUTA]** eller **[NUMMER] [VALUTA]**, som angivet i Bilag 1.
 
 ### 4.2 Fakturering
 
@@ -70,7 +67,7 @@ Freelanceren fakturerer Kunden i overensstemmelse med aftalte milepæle eller m�
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[X]** dage fra modtagelse, medmindre andet er aftalt.
+Fakturaer forfalder til betaling inden **[NUMMER]** dage fra modtagelse, medmindre andet er aftalt.
 
 ### 4.4 Forsinket betaling
 
@@ -110,7 +107,7 @@ Denne forpligtelse gælder efter ophør uden tidsbegrænsning.
 
 ## 8. Kundeklausul (valgfrit)
 
-I Aftalens løbetid og i **[X months]** derefter må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser.
+I Aftalens løbetid og i **[NUMMER] måneder** derefter må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser.
 
 ## 9. Garantier
 
@@ -132,7 +129,7 @@ Hver Part er ansvarlig for tab forårsaget af misligholdelse af Aftalen.
 
 ### 10.2 Ansvarsloft
 
-Freelancerens samlede ansvar kan ikke overstige **[X amount or fee paid]**, dog ikke i tilfælde af grov uagtsomhed, svig eller forsæt.
+Freelancerens samlede ansvar kan ikke overstige **[NUMMER] beløb eller betalt gebyr**, dog ikke i tilfælde af grov uagtsomhed, svig eller forsæt.
 
 ### 10.3 Indirekte tab
 
@@ -146,7 +143,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber, indtil Ydelserne e
 
 ### 11.2 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[X days’]** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[NUMMER] dage** skriftligt varsel.
 
 ### 11.3 Ophør ved misligholdelse
 
@@ -166,7 +163,7 @@ Freelanceren må ikke overdrage rettigheder eller forpligtelser efter Aftalen ud
 
 ## 14. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 15. Sprog
 
@@ -184,23 +181,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Ydelser og honorar
 
-- Beskrivelse af ydelser: **[Detailed scope]**
-- Leverancer: **[List deliverables]**
-- Tidsplan / milepæle: **[Specify deadlines]**
-- Vederlag: **[Rate or fixed amount]**
-- Betalingsplan: **[Specify schedule]**
-
----
-
-## Underskrifter
-
-**For Kunden**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Freelanceren**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+- Beskrivelse af ydelser: **[OMFANG]**
+- Leverancer: **[LEVERANCER]**
+- Tidsplan / milepæle: **[FRIST]**
+- Vederlag: **[NUMMER] [VALUTA]**
+- Betalingsplan: **[TIDSPLAN]**

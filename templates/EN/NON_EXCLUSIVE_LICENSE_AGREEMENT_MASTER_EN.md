@@ -7,23 +7,20 @@ tags:
 seoTitle: "Non-Exclusive License Agreement Template"
 seoDescription: "Use this non-exclusive license agreement template to set out usage rights, royalties, restrictions, and termination rules for a non-exclusive license."
 ---
-# Non-Exclusive License Agreement
 
-This Non-Exclusive License Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Non-Exclusive License Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Licensor**
-- Full legal name: **[FULL LEGAL NAME OF LICENSOR]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Licensee**
-- Full legal name: **[FULL LEGAL NAME OF LICENSEE]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 Licensor and Licensee are each a "Party" and together the "Parties".
 
@@ -33,12 +30,12 @@ Subject to the terms of this Agreement, the Licensor grants the Licensee a non-e
 
 ## 3. Licensed Material
 
-"Licensed Material" means **[DESCRIPTION OF IP / MATERIAL / RIGHTS]**, including any related documentation, updates, or modifications expressly provided by the Licensor.
+"Licensed Material" means **[IP DESCRIPTION]**, including any related documentation, updates, or modifications expressly provided by the Licensor.
 
 ## 4. Scope of Use
 
 The Licensee may use the Licensed Material only:
-- for **[PERMITTED USE]**
+- for **[PURPOSE]**
 - within **[TERRITORY]**
 - during the Term of this Agreement
 
@@ -58,7 +55,7 @@ All rights, title, and interest in the Licensed Material remain with the Licenso
 
 ## 7. Fees and Payment
 
-In consideration for the license granted, the Licensee shall pay **[LICENSE FEE / ROYALTY / "NO FEE"]**. Payment terms: **[PAYMENT TERMS]**. Taxes: **[TAX ALLOCATION]**.
+In consideration for the license granted, the Licensee shall pay **[NUMBER] [CURRENCY]**. Payment terms: **[PAYMENT TERMS]**. Taxes: **[TAX ALLOCATION]**.
 
 ## 8. Confidentiality
 
@@ -70,11 +67,11 @@ The Licensor warrants that it has the right to grant the license described herei
 
 ## 10. Liability Limitation
 
-To the maximum extent permitted by Danish law, neither Party shall be liable for indirect, incidental, or consequential damages arising out of this Agreement. The Licensor’s total aggregate liability shall not exceed **[LIABILITY CAP]**, except in cases of gross negligence or wilful misconduct.
+To the maximum extent permitted by Danish law, neither Party shall be liable for indirect, incidental, or consequential damages arising out of this Agreement. The Licensor’s total aggregate liability shall not exceed **[NUMBER] [CURRENCY]**, except in cases of gross negligence or wilful misconduct.
 
 ## 11. Term and Termination
 
-This Agreement shall commence on the Effective Date and continue for **[TERM]**, unless terminated earlier. Either Party may terminate this Agreement:
+This Agreement shall commence on the Effective Date and continue for **[NUMBER] [TIME UNIT]**, unless terminated earlier. Either Party may terminate this Agreement:
 - for material breach not cured within **[NUMBER]** days after written notice
 - immediately if the other Party becomes insolvent or enters liquidation
 
@@ -90,7 +87,7 @@ The Licensee may not assign or transfer this Agreement without prior written con
 
 ## 14. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 15. Language
 
@@ -103,19 +100,3 @@ This Agreement constitutes the entire agreement between the Parties regarding th
 ## 17. Execution
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be deemed an original.
-
----
-
-## Signatures
-
-**For Licensor**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For Licensee**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**

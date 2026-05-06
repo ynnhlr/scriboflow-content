@@ -7,23 +7,20 @@ tags:
 seoTitle: "Exclusive License Agreement Template"
 seoDescription: "Use this exclusive license agreement template to set the scope, royalties, restrictions, and termination rules for an exclusive license."
 ---
-# Exclusive License Agreement
 
-This Exclusive License Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Exclusive License Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Licensor**
-- Full legal name: **[FULL LEGAL NAME OF LICENSOR]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Licensee**
-- Full legal name: **[FULL LEGAL NAME OF LICENSEE]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 Licensor and Licensee are each a "Party" and together the "Parties".
 
@@ -37,14 +34,14 @@ All rights not expressly granted are reserved by the Licensor.
 
 ## 3. Licensed Material
 
-"Licensed Material" means **[DESCRIPTION OF IP / RIGHTS / MATERIAL]**, including any related documentation, updates, or enhancements expressly provided by the Licensor.
+"Licensed Material" means **[IP DESCRIPTION]**, including any related documentation, updates, or enhancements expressly provided by the Licensor.
 
 ## 4. Scope of Use
 
 The exclusive license granted under this Agreement is limited to:
-- Permitted use: **[PERMITTED USE]**
+- Permitted use: **[PURPOSE]**
 - Territory: **[TERRITORY]**
-- Field of use (if any): **[FIELD OF USE]**
+- Field of use (if any): **[SCOPE]**
 
 Any use outside this Scope of Use constitutes a material breach of this Agreement.
 
@@ -63,14 +60,14 @@ Ownership of the Licensed Material remains with the Licensor at all times. This 
 ## 7. Consideration and Payment
 
 In consideration of the exclusive license, the Licensee shall pay the Licensor:
-- License fee / royalty: **[AMOUNT OR STRUCTURE]**
+- License fee / royalty: **[NUMBER] [CURRENCY]**
 - Payment schedule: **[PAYMENT TERMS]**
 
 All payments shall be made in **[CURRENCY]** and are exclusive of applicable taxes unless stated otherwise.
 
 ## 8. Performance Obligations
 
-The Licensee agrees to use commercially reasonable efforts to exploit the Licensed Material in accordance with the Purpose of this Agreement. Minimum performance requirements (if any): **[PERFORMANCE REQUIREMENTS OR "NONE"]**. Failure to meet such requirements may result in conversion of this license to non-exclusive or termination.
+The Licensee agrees to use commercially reasonable efforts to exploit the Licensed Material in accordance with the Purpose of this Agreement. Minimum performance requirements (if any): **[PERFORMANCE REQUIREMENTS]**. Failure to meet such requirements may result in conversion of this license to non-exclusive or termination.
 
 ## 9. Confidentiality
 
@@ -82,11 +79,11 @@ The Licensor warrants that it has the authority to grant the exclusive license d
 
 ## 11. Liability Limitation
 
-To the maximum extent permitted by Danish law, neither Party shall be liable for indirect or consequential damages. The Licensor’s total aggregate liability under this Agreement shall not exceed **[LIABILITY CAP]**, except in cases of gross negligence or wilful misconduct.
+To the maximum extent permitted by Danish law, neither Party shall be liable for indirect or consequential damages. The Licensor’s total aggregate liability under this Agreement shall not exceed **[NUMBER] [CURRENCY]**, except in cases of gross negligence or wilful misconduct.
 
 ## 12. Term and Termination
 
-This Agreement shall commence on the Effective Date and continue for **[TERM]**, unless terminated earlier. Either Party may terminate this Agreement:
+This Agreement shall commence on the Effective Date and continue for **[NUMBER] [TIME UNIT]**, unless terminated earlier. Either Party may terminate this Agreement:
 - upon material breach not cured within **[NUMBER]** days after written notice
 - immediately in the event of insolvency or cessation of business of the other Party
 
@@ -106,7 +103,7 @@ The Licensee may not assign or transfer this Agreement without prior written con
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 16. Language
 
@@ -119,19 +116,3 @@ This Agreement constitutes the entire agreement between the Parties and supersed
 ## 18. Execution
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be deemed an original.
-
----
-
-## Signatures
-
-**For Licensor**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For Licensee**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**

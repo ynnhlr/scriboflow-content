@@ -7,36 +7,33 @@ tags:
 seoTitle: "Skabelon til hensigtserklæring"
 seoDescription: "Brug denne hensigtserklæring til at samle hovedpunkter, samarbejdshensigt og en ikke-bindende ramme før en endelig aftale."
 ---
-# Hensigtserklæring (Memorandum of Understanding)
 
-Denne hensigtserklæring ("MoU") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne hensigtserklæring ("MoU") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Part A**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF PARTY A]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Part B**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF PARTY B]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Part A og Part B benævnes hver en "Part" og samlet "Parterne".
 
 ## 2. Formål
 
-Parterne ønsker at undersøge et muligt samarbejde om **[Describe project, initiative, or cooperation]**. Denne MoU beskriver Parternes overordnede hensigter.
+Parterne ønsker at undersøge et muligt samarbejde om **[PROJEKTBESKRIVELSE]**. Denne MoU beskriver Parternes overordnede hensigter.
 
 ## 3. Samarbejdets omfang
 
 Parterne har til hensigt at:
-- **[Describe expected activities]**
-- **[Define responsibilities at a high level]**
-- **[Outline anticipated contributions]**
+- **[FORRETNINGSAKTIVITETER]**
+- **[ANSVAR]**
+- **[BIDRAG]**
 
 Eventuelle detaljerede forpligtelser forudsætter en særskilt endelig aftale.
 
@@ -45,19 +42,19 @@ Eventuelle detaljerede forpligtelser forudsætter en særskilt endelig aftale.
 ### 4.1 Part A
 
 Part A har til hensigt at:
-- **[Responsibilities]**
+- **[ANSVAR]**
 
 ### 4.2 Part B
 
 Part B har til hensigt at:
-- **[Responsibilities]**
+- **[ANSVAR]**
 
 ## 5. Tidsplan
 
 Parterne forventer følgende tidsplan:
-- Indledende drøftelser: **[Date]**
-- Udkast til aftale: **[Date]**
-- Forventet opstart: **[Date]**
+- Indledende drøftelser: **[DATO]**
+- Udkast til aftale: **[DATO]**
+- Forventet opstart: **[DATO]**
 
 Datoerne er vejledende og ikke-bindende.
 
@@ -89,7 +86,7 @@ Ingen Part er forpligtet til at gennemføre det påtænkte samarbejde, medmindre
 
 ## 9. Eksklusivitet (valgfrit - bindende)
 
-I en periode på **[X months]** er Parterne enige om ikke at forhandle tilsvarende samarbejder med tredjemand uden fælles samtykke.
+I en periode på **[NUMMER] måneder** er Parterne enige om ikke at forhandle tilsvarende samarbejder med tredjemand uden fælles samtykke.
 
 ## 10. Løbetid og ophør
 
@@ -99,7 +96,7 @@ Denne MoU forbliver gældende indtil:
 
 ## 11. Lovvalg og værneting (bindende)
 
-Denne MoU er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af de bindende bestemmelser i denne MoU, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**.
+Denne MoU er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af de bindende bestemmelser i denne MoU, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**.
 
 ## 12. Hele forståelsen
 
@@ -108,19 +105,3 @@ Denne MoU udgør Parternes samlede forståelse af det påtænkte samarbejde og e
 ## 13. Underskrift
 
 Denne MoU kan underskrives i flere eksemplarer og ved elektronisk underskrift.
-
----
-
-## Underskrifter
-
-**For Part A**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Part B**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

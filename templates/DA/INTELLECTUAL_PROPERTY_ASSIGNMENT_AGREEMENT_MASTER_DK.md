@@ -7,22 +7,21 @@ tags:
 seoTitle: "Skabelon til overdragelse af immaterielle rettigheder"
 seoDescription: "Brug denne aftale om overdragelse af immaterielle rettigheder til at fastlægge IP-overdragelse, garantier, betaling og bistand efter underskrift."
 ---
-# Aftale om overdragelse af immaterielle rettigheder
 
-Denne aftale om overdragelse af immaterielle rettigheder ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne aftale om overdragelse af immaterielle rettigheder ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Selskab**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF ASSIGNEE / COMPANY]**
-- Enhedstype: **[COMPANY TYPE]**
-- Registreret adresse: **[ADDRESS]**
-- CVR-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Enhedstype: **[SELSKABSTYPE]**
+- Registreret adresse: **[ADRESSE]**
+- CVR-nr.: **[CVR]**
 
 **Overdrager**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF ASSIGNOR]**
-- Adresse: **[ADDRESS]**
-- CPR/CVR-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/CVR-nr.: **[CVR]**
 
 Selskabet og Overdrageren benævnes hver en "Part" og samlet "Parterne".
 
@@ -56,7 +55,7 @@ uanset om de er registrerede eller uregistrerede.
 ### 4.1 Overdragelse
 
 Overdrageren overdrager herved uigenkaldeligt til Selskabet alle rettigheder, adkomst og interesser i og til:
-- alle Immaterielle rettigheder skabt i forbindelse med **[EMPLOYMENT / ENGAGEMENT / PROJECT NAME]**
+- alle Immaterielle rettigheder skabt i forbindelse med **[ANSÆTTELSE / OPGAVE / PROJEKTNAVN]**
 - alle afledte værker og forbedringer heraf
 
 ### 4.2 Omfang
@@ -91,7 +90,7 @@ Denne forpligtelse består efter ophør af ansættelse eller engagement.
 
 Overdragelsen sker:
 - som led i Overdragerens ansættelse eller engagement, eller
-- mod **[SPECIFIED COMPENSATION]**
+- mod **[NUMMER] [VALUTA]**
 
 Medmindre andet følger af lovgivningen, ydes der ikke yderligere vederlag.
 
@@ -122,7 +121,7 @@ Overdrageren skal holde alle proprietære oplysninger vedrørende de overdragne 
 
 ## 12. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 13. Ugyldighed
 
@@ -140,19 +139,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Forudeksisterende immaterielle rettigheder (hvis relevant)
 
-**[List any excluded IP]**
-
----
-
-## Underskrifter
-
-**For Selskabet**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Overdrageren**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[UNDTAGET IP]**

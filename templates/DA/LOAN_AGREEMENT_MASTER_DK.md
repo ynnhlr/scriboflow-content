@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til låneaftale"
 seoDescription: "Brug denne låneaftale til at fastlægge hovedstol, rente, afdragsplan og konsekvenser ved misligholdelse."
 ---
-# Låneaftale
 
-Denne låneaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne låneaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Långiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LENDER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr. / CPR-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr. / CPR-nr.: **[CVR]**
 
 **Låntager**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF BORROWER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr. / CPR-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr. / CPR-nr.: **[CVR]**
 
 Långiveren og Låntageren benævnes hver en "Part" og samlet "Parterne".
 
@@ -31,23 +28,23 @@ Långiveren og Låntageren benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Hovedstol
 
-Långiveren accepterer at yde Låntageren et lån med en hovedstol på **[AMOUNT]** **[CURRENCY]** ("Lånebeløbet").
+Långiveren accepterer at yde Låntageren et lån med en hovedstol på **[NUMMER] [VALUTA]** ("Lånebeløbet").
 
 ### 2.2 Udbetaling
 
-Lånebeløbet overføres til Låntageren senest den **[DISBURSEMENT DATE]** til den konto, som Låntageren har anvist.
+Lånebeløbet overføres til Låntageren senest den **[DATO]** til den konto, som Låntageren har anvist.
 
 ## 3. Lånets formål (valgfrit)
 
-Lånet skal anvendes til **[Business operations / Investment / Working capital / Other]**. Låntageren må ikke anvende Lånet til ulovlige formål.
+Lånet skal anvendes til **[FORMÅL]**. Låntageren må ikke anvende Lånet til ulovlige formål.
 
 ## 4. Renter
 
 ### 4.1 Rentesats
 
 Lånet forrentes med:
-- **[X% per annum fixed rate]**, eller
-- **[Reference rate + margin]**, eller
+- **[NUMMER]% årligt**, eller
+- **[NUMMER]%**, eller
 - **Interest-free (if applicable)**
 
 ### 4.2 Renteberegning
@@ -56,22 +53,22 @@ Renter løber fra udbetalingsdatoen og indtil fuld tilbagebetaling.
 
 ### 4.3 Rentebetaling
 
-Renter betales **[MONTHLY / QUARTERLY / TOGETHER WITH PRINCIPAL REPAYMENTS]**.
+Renter betales **[BETALINGSFREKVENS]**.
 
 ## 5. Tilbagebetaling
 
 ### 5.1 Afdragsplan
 
 Låntageren skal tilbagebetale Lånebeløbet som følger:
-- **[Installment structure]**, eller
-- fuld tilbagebetaling den **[MATURITY DATE]**
+- **[BETALINGSBETINGELSER]**, eller
+- fuld tilbagebetaling den **[DATO]**
 
 ### 5.2 Betalingskonto
 
 Betaling sker til følgende konto:
-- Bank: **[Bank Name]**
+- Bank: **[BANKNAVN]**
 - IBAN: **[IBAN]**
-- Reference: **[Reference]**
+- Reference: **[REFERENCE]**
 
 ## 6. Førtidig indfrielse
 
@@ -82,7 +79,7 @@ Låntageren kan førtidsindfri Lånet helt eller delvist uden gebyr, medmindre a
 ### 7.1 Misligholdelsesbeføjelser
 
 Låntageren er i misligholdelse, hvis:
-- en betaling er forsinket med mere end **[X days]**
+- en betaling er forsinket med mere end **[NUMMER] dage**
 - Låntageren bliver insolvent
 - Låntageren væsentligt misligholder sine forpligtelser efter Aftalen
 
@@ -98,9 +95,9 @@ Ved misligholdelse kan Långiveren:
 ### 8.1 Stillet sikkerhed
 
 Som sikkerhed for tilbagebetaling stiller Låntageren:
-- **[Personal guarantee]**
-- **[Pledge over assets]**
-- **[Mortgage / Share pledge]**
+- **[PERSONLIG KAUTION]**
+- **[PANT I AKTIVER]**
+- **[SIKKERHEDSTYPE]**
 
 Detaljer fremgår af Bilag 1.
 
@@ -127,7 +124,7 @@ Låntageren må ikke overdrage rettigheder eller forpligtelser efter Aftalen ude
 
 ## 12. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 13. Ugyldighed
 
@@ -145,18 +142,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Sikkerhed (hvis relevant)
 
-**[Detailed description of collateral or guarantees]**
-
----
-
-## Underskrifter
-
-**For Långiveren**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Låntageren**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[BESKRIVELSE]**

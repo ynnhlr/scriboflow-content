@@ -7,23 +7,20 @@ tags:
 seoTitle: "Loan Agreement Template"
 seoDescription: "Use this loan agreement template to set out principal amount, interest, repayment schedule, and default consequences."
 ---
-# Loan Agreement
 
-This Loan Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Loan Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Lender**
-- Full legal name: **[FULL LEGAL NAME OF LENDER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No. / CPR No.: **[IDENTIFICATION NUMBER]**
+- CVR/ID No. / CPR No.: **[CVR]**
 
 **Borrower**
-- Full legal name: **[FULL LEGAL NAME OF BORROWER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No. / CPR No.: **[IDENTIFICATION NUMBER]**
+- CVR/ID No. / CPR No.: **[CVR]**
 
 The Lender and the Borrower are each a "Party" and together the "Parties".
 
@@ -31,23 +28,23 @@ The Lender and the Borrower are each a "Party" and together the "Parties".
 
 ### 2.1 Principal
 
-The Lender agrees to lend the Borrower the principal amount of **[AMOUNT]** **[CURRENCY]** (the "Loan Amount").
+The Lender agrees to lend the Borrower the principal amount of **[NUMBER] [CURRENCY]** (the "Loan Amount").
 
 ### 2.2 Disbursement
 
-The Loan Amount shall be transferred to the Borrower on or before **[DISBURSEMENT DATE]** to the account designated by the Borrower.
+The Loan Amount shall be transferred to the Borrower on or before **[DATE]** to the account designated by the Borrower.
 
 ## 3. Purpose of the Loan (Optional)
 
-The Loan shall be used for **[Business operations / Investment / Working capital / Other]**. The Borrower shall not use the Loan for unlawful purposes.
+The Loan shall be used for **[PURPOSE]**. The Borrower shall not use the Loan for unlawful purposes.
 
 ## 4. Interest
 
 ### 4.1 Interest Rate
 
 The Loan shall bear interest at:
-- **[X% per annum fixed rate]**, or
-- **[Reference rate + margin]**, or
+- **[NUMBER]% per annum**, or
+- **[NUMBER]%**, or
 - **Interest-free (if applicable)**
 
 ### 4.2 Accrual
@@ -56,22 +53,22 @@ Interest shall accrue from the date of disbursement until full repayment.
 
 ### 4.3 Payment of Interest
 
-Interest shall be payable **[MONTHLY / QUARTERLY / TOGETHER WITH PRINCIPAL REPAYMENTS]**.
+Interest shall be payable **[PAYMENT FREQUENCY]**.
 
 ## 5. Repayment
 
 ### 5.1 Repayment Schedule
 
 The Borrower shall repay the Loan Amount as follows:
-- **[Installment structure]**, or
-- full repayment on **[MATURITY DATE]**
+- **[PAYMENT TERMS]**, or
+- full repayment on **[DATE]**
 
 ### 5.2 Payment Account
 
 Payments shall be made to the following account:
-- Bank: **[Bank Name]**
+- Bank: **[BANK NAME]**
 - IBAN: **[IBAN]**
-- Reference: **[Reference]**
+- Reference: **[REFERENCE]**
 
 ## 6. Early Repayment
 
@@ -82,7 +79,7 @@ The Borrower may prepay the Loan in full or in part without penalty unless other
 ### 7.1 Events of Default
 
 The Borrower shall be in default if:
-- any payment is overdue by more than **[X days]**
+- any payment is overdue by more than **[NUMBER] days**
 - the Borrower becomes insolvent
 - the Borrower breaches material obligations under this Agreement
 
@@ -98,9 +95,9 @@ Upon default, the Lender may:
 ### 8.1 Security Provided
 
 As security for repayment, the Borrower provides:
-- **[Personal guarantee]**
-- **[Pledge over assets]**
-- **[Mortgage / Share pledge]**
+- **[PERSONAL GUARANTEE]**
+- **[PLEDGE OVER ASSETS]**
+- **[SECURITY TYPE]**
 
 Details are set out in Schedule 1.
 
@@ -127,7 +124,7 @@ The Borrower may not assign rights or obligations under this Agreement without w
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 13. Severability
 
@@ -145,18 +142,4 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Security (If Applicable)
 
-**[Detailed description of collateral or guarantees]**
-
----
-
-## Signatures
-
-**For the Lender**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Borrower**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[DESCRIPTION]**

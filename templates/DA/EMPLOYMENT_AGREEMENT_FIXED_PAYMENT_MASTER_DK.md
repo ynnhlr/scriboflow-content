@@ -7,22 +7,20 @@ tags:
 seoTitle: "Skabelon til ansættelsesaftale med fast løn"
 seoDescription: "Brug denne ansættelsesaftale med fast løn til at definere medarbejderens rolle, løn, arbejdstid og centrale vilkår."
 ---
-# Ansættelsesaftale (Fast løn)
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYEE]**
-- Adresse: **[ADDRESS]**
-- CPR/ID-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
@@ -30,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes som **[JOB TITLE]**.
+Medarbejderen ansættes som **[STILLINGSBETEGNELSE]**.
 
 ### 2.2 Ansvarsområder
 
@@ -44,21 +42,21 @@ Medarbejderen skal handle loyalt og i Arbejdsgiverens bedste interesse samt over
 
 ### 3.1 Startdato
 
-Ansættelsen påbegyndes den **[START DATE]**.
+Ansættelsen påbegyndes den **[DATO]**.
 
 ### 3.2 Ansættelsestype
 
-Ansættelsen er **[INDEFINITE / FIXED-TERM UNTIL DATE]**.
+Ansættelsen er **[VILKÅRSTYPE] indtil [DATO]**.
 
 ### 3.3 Prøvetid (hvis relevant)
 
-De første **[X months]** udgør en prøvetid, hvor ansættelsen kan bringes til ophør med **[SHORTENED NOTICE]**, med forbehold for gældende lovgivning.
+De første **[NUMMER] måneder** udgør en prøvetid, hvor ansættelsen kan bringes til ophør med **[NUMMER] [TIDSENHED]**, med forbehold for gældende lovgivning.
 
 ## 4. Arbejdstid
 
 ### 4.1 Normal arbejdstid
 
-Medarbejderens normale arbejdstid er **[NUMBER]** timer pr. uge, typisk placeret mellem **[WORKING DAYS AND HOURS]**.
+Medarbejderens normale arbejdstid er **[NUMMER]** timer pr. uge, typisk placeret mellem **[ARBEJDSPLAN]**.
 
 ### 4.2 Merarbejde
 
@@ -68,7 +66,7 @@ Medarbejderen kan være forpligtet til at udføre rimeligt merarbejde efter virk
 
 ### 5.1 Løn
 
-Medarbejderen modtager en fast månedlig bruttoløn på **[AMOUNT]** **[CURRENCY]**.
+Medarbejderen modtager en fast månedlig bruttoløn på **[NUMMER] [VALUTA]**.
 
 ### 5.2 Udbetaling
 
@@ -143,8 +141,8 @@ Arbejdsgiveren behandler Medarbejderens personoplysninger i overensstemmelse med
 ### 13.1 Varsel
 
 Hver Part kan opsige ansættelsen med skriftligt varsel i overensstemmelse med gældende lovgivning eller som følger:
-- Arbejdsgiverens varsel: **[X months]**
-- Medarbejderens varsel: **[X months]**
+- Arbejdsgiverens varsel: **[NUMMER] måneder**
+- Medarbejderens varsel: **[NUMMER] måneder**
 
 ### 13.2 Bortvisning
 
@@ -164,7 +162,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 
@@ -182,28 +180,13 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Personalegoder (hvis relevant)
 
-- Pensionsbidrag: **[DETAILS]**
-- Sundhedsforsikring: **[DETAILS]**
-- Bonusordning: **[DETAILS]**
-- Øvrige goder: **[DETAILS]**
+- Pensionsbidrag: **[BESKRIVELSE]**
+- Sundhedsforsikring: **[BESKRIVELSE]**
+- Bonusordning: **[BESKRIVELSE]**
+- Øvrige goder: **[BESKRIVELSE]**
 
 ## Bilag 2: Efteransættelsesrestriktioner (hvis relevant)
 
-- Varighed af konkurrenceklausul: **[PERIOD]**
-- Omfang af kundeklausul: **[SCOPE]**
-- Kompensationsvilkår (hvis krævet ved lov): **[DETAILS]**
-
----
-
-## Underskrifter
-
-**For Arbejdsgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Medarbejderen**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+- Varighed af konkurrenceklausul: **[NUMMER] [TIDSENHED]**
+- Omfang af kundeklausul: **[OMFANG]**
+- Kompensationsvilkår (hvis krævet ved lov): **[BESKRIVELSE]**

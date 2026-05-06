@@ -7,22 +7,20 @@ tags:
 seoTitle: "Non-Compete Agreement Template"
 seoDescription: "Use this non-compete agreement template to define post-termination restrictions, scope, duration, and enforcement terms."
 ---
-# Non-Compete Agreement
 
-This Non-Compete Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Non-Compete Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Company**
-- Full legal name: **[FULL LEGAL NAME OF COMPANY]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Restricted Party**
-- Full legal name: **[FULL LEGAL NAME OF INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Address: **[ADDRESS]**
-- CPR/ID No.: **[IDENTIFICATION NUMBER]**
+- CPR/ID No.: **[CVR]**
 
 The Company and the Restricted Party are each a "Party" and together the "Parties".
 
@@ -47,21 +45,21 @@ During the Restricted Period, the Restricted Party shall not, directly or indire
 
 ### 3.2 Passive Ownership
 
-Passive ownership of publicly traded shares not exceeding **[5%]** shall not constitute a breach.
+Passive ownership of publicly traded shares not exceeding **[NUMBER]%** shall not constitute a breach.
 
 ## 4. Scope of Restriction
 
 ### 4.1 Activity Scope
 
-The restriction applies only to activities substantially similar to those performed by the Restricted Party during the last **[X months]** of engagement.
+The restriction applies only to activities substantially similar to those performed by the Restricted Party during the last **[NUMBER] months** of engagement.
 
 ### 4.2 Geographical Scope
 
-The restriction applies within **[Define country / region / market area]**.
+The restriction applies within **[TERRITORY]**.
 
 ### 4.3 Restricted Period
 
-The non-compete obligation applies for **[X months]** following termination.
+The non-compete obligation applies for **[NUMBER] months** following termination.
 
 ## 5. Compensation (If Required by Law)
 
@@ -83,7 +81,7 @@ Nothing in this Agreement limits the Restricted Party’s ongoing obligation to 
 
 ## 8. Non-Solicitation (Optional Clause)
 
-For a period of **[X months]** following termination, the Restricted Party shall not:
+For a period of **[NUMBER] months** following termination, the Restricted Party shall not:
 - solicit or attempt to solicit the Company’s customers with whom the Restricted Party had material contact
 - solicit or hire the Company’s employees
 
@@ -113,7 +111,7 @@ The Company may waive the non-compete obligation in writing, in which case compe
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 13. Entire Agreement
 
@@ -122,18 +120,3 @@ This Agreement constitutes the entire agreement between the Parties regarding po
 ## 14. Execution
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be deemed an original.
-
----
-
-## Signatures
-
-**For the Company**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Restricted Party**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**

@@ -7,17 +7,16 @@ tags:
 seoTitle: "Shareholders' Agreement Template"
 seoDescription: "Use this shareholders' agreement template to define ownership relations, voting rights, transfer restrictions, and governance rules."
 ---
-# Shareholders’ Agreement
 
-This Shareholders’ Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Shareholders’ Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Company**
-- Full legal name: **[FULL LEGAL NAME OF COMPANY]**
+- Full legal name: **[COMPANY NAME]**
 - Entity type: **[COMPANY TYPE]**
 - Registered address: **[ADDRESS]**
-- CVR No.: **[REGISTRATION NUMBER]**
+- CVR No.: **[CVR]**
 
 **Shareholders**
 - The shareholders listed in Schedule 1 (each a "Shareholder" and together the "Shareholders")
@@ -52,7 +51,7 @@ The Company shall be managed by a board of directors and/or executive management
 
 ### 4.2 Reserved Matters
 
-The following matters require approval of **[E.G., 2/3 MAJORITY / UNANIMOUS CONSENT]**:
+The following matters require approval of **[APPROVAL THRESHOLD]**:
 - issuance of new shares
 - amendments to Articles of Association
 - sale of material assets
@@ -68,7 +67,7 @@ Dividends shall be declared in accordance with applicable law and based on the C
 
 ### 6.1 Approval
 
-Shares may not be transferred without prior written approval of **[MAJORITY/UNANIMOUS]** Shareholders.
+Shares may not be transferred without prior written approval of **[APPROVAL THRESHOLD]** Shareholders.
 
 ### 6.2 Right of First Refusal
 
@@ -80,11 +79,11 @@ Transfers in violation of this Agreement shall be null and void.
 
 ## 7. Drag-Along Rights
 
-If Shareholders holding at least **[X%]** of the shares agree to sell the Company to a third party, they may require remaining Shareholders to sell their shares on the same terms ("Drag-Along").
+If Shareholders holding at least **[NUMBER]%** of the shares agree to sell the Company to a third party, they may require remaining Shareholders to sell their shares on the same terms ("Drag-Along").
 
 ## 8. Tag-Along Rights
 
-If one or more Shareholders propose to sell shares representing more than **[X%]** of the share capital, the remaining Shareholders shall have the right to participate in the sale on the same terms ("Tag-Along").
+If one or more Shareholders propose to sell shares representing more than **[NUMBER]%** of the share capital, the remaining Shareholders shall have the right to participate in the sale on the same terms ("Tag-Along").
 
 ## 9. Deadlock
 
@@ -94,7 +93,7 @@ In the event of a deadlock on reserved matters, the Parties shall attempt resolu
 
 ### 9.2 Mediation
 
-If unresolved within **[X days]**, the matter shall be escalated to mediation.
+If unresolved within **[NUMBER] days**, the matter shall be escalated to mediation.
 
 ### 9.3 Buy-Sell or Dissolution
 
@@ -108,7 +107,7 @@ The Shareholders shall keep confidential all non-public information relating to 
 
 ## 11. Non-Competition and Non-Solicitation (Optional)
 
-During their shareholding and for **[X months]** thereafter, Shareholders actively involved in the business shall not compete with the Company. Shareholders shall not solicit employees or customers. Such restrictions shall comply with applicable law.
+During their shareholding and for **[NUMBER] months** thereafter, Shareholders actively involved in the business shall not compete with the Company. Shareholders shall not solicit employees or customers. Such restrictions shall comply with applicable law.
 
 ## 12. Exit and Buyout Events
 
@@ -119,8 +118,8 @@ In case of death, incapacity, or material breach by a Shareholder, the remaining
 ### 12.2 Valuation
 
 Share price shall be determined by:
-- **[AGREED VALUATION FORMULA]**, or
-- **[INDEPENDENT VALUATION BY AUDITOR]**
+- **[VALUATION METHOD]**, or
+- **[VALUATION METHOD]**
 
 Details are set out in Schedule 2.
 
@@ -144,7 +143,7 @@ This Agreement remains in force as long as two or more Shareholders hold shares 
 
 ## 16. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 17. Entire Agreement
 
@@ -158,23 +157,8 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Shareholders and Ownership
 
-**[List Shareholders and ownership percentages]**
+**[OWNERSHIP STRUCTURE]**
 
 ## Schedule 2: Valuation Formula (If Applicable)
 
-**[EBIT multiple / revenue multiple / independent valuation mechanism]**
-
----
-
-## Signatures
-
-**For the Company**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For each Shareholder**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[VALUATION METHOD]**

@@ -7,22 +7,20 @@ tags:
 seoTitle: "Skabelon til konkurrenceklausul"
 seoDescription: "Brug denne konkurrenceklausul til at fastlægge begrænsninger efter ophør, omfang, varighed og håndhævelse."
 ---
-# Konkurrenceklausulaftale
 
-Denne konkurrenceklausulaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne konkurrenceklausulaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Virksomhed**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF COMPANY]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Begrænset Part**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF INDIVIDUAL]**
-- Adresse: **[ADDRESS]**
-- CPR/ID-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/ID-nr.: **[CVR]**
 
 Virksomheden og den Begrænsede Part benævnes hver en "Part" og samlet "Parterne".
 
@@ -47,21 +45,21 @@ I den Begrænsede Periode må den Begrænsede Part ikke, direkte eller indirekte
 
 ### 3.2 Passivt ejerskab
 
-Passivt ejerskab af børsnoterede aktier på højst **[5%]** udgør ikke misligholdelse.
+Passivt ejerskab af børsnoterede aktier på højst **[NUMMER]%** udgør ikke misligholdelse.
 
 ## 4. Begrænsningens omfang
 
 ### 4.1 Aktivitetsmæssigt omfang
 
-Begrænsningen gælder kun for aktiviteter, der i væsentlig grad svarer til dem, den Begrænsede Part udførte i de sidste **[X months]** af engagementet.
+Begrænsningen gælder kun for aktiviteter, der i væsentlig grad svarer til dem, den Begrænsede Part udførte i de sidste **[NUMMER] måneder** af engagementet.
 
 ### 4.2 Geografisk omfang
 
-Begrænsningen gælder inden for **[Define country / region / market area]**.
+Begrænsningen gælder inden for **[OMRÅDE]**.
 
 ### 4.3 Begrænset periode
 
-Konkurrenceforpligtelsen gælder i **[X months]** efter ophør.
+Konkurrenceforpligtelsen gælder i **[NUMMER] måneder** efter ophør.
 
 ## 5. Kompensation (hvis påkrævet ved lov)
 
@@ -83,7 +81,7 @@ Intet i Aftalen begrænser den Begrænsede Parts fortsatte pligt til at bevare f
 
 ## 8. Kundeklausul (valgfri bestemmelse)
 
-I en periode på **[X months]** efter ophør må den Begrænsede Part ikke:
+I en periode på **[NUMMER] måneder** efter ophør må den Begrænsede Part ikke:
 - hverve eller forsøge at hverve Virksomhedens kunder, som den Begrænsede Part har haft væsentlig kontakt med
 - hverve eller ansætte Virksomhedens medarbejdere
 
@@ -113,7 +111,7 @@ Virksomheden kan skriftligt frafalde konkurrenceforpligtelsen, hvorefter kompens
 
 ## 12. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 13. Hele aftalen
 
@@ -122,18 +120,3 @@ Aftalen udgør Parternes samlede aftale vedrørende konkurrencerestriktioner eft
 ## 14. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
-
----
-
-## Underskrifter
-
-**For Virksomheden**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For den Begrænsede Part**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

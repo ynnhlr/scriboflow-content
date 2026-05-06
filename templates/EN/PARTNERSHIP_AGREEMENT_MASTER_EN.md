@@ -7,15 +7,14 @@ tags:
 seoTitle: "Partnership Agreement Template"
 seoDescription: "Use this partnership agreement template to define contributions, profit sharing, decision-making, and exit rules between partners."
 ---
-# Partnership Agreement
 
-This Partnership Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Partnership Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 The following persons/entities (each a "Partner" and together the "Partners"):
-- **[FULL LEGAL NAME OF PARTNER 1]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[IDENTIFICATION NUMBER]**
-- **[FULL LEGAL NAME OF PARTNER 2]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[IDENTIFICATION NUMBER]**
+- **[COMPANY NAME]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[CVR]**
+- **[COMPANY NAME]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[CVR]**
 
 Additional Partners may be listed in Schedule 1.
 
@@ -31,15 +30,15 @@ The Partnership shall commence on the Effective Date.
 
 ## 3. Purpose
 
-The purpose of the Partnership is **[Describe business activities]** and related lawful activities.
+The purpose of the Partnership is **[BUSINESS ACTIVITIES]** and related lawful activities.
 
 ## 4. Contributions
 
 ### 4.1 Contributions
 
 Each Partner shall contribute the following:
-- Partner 1: **[Cash / Assets / Services]**
-- Partner 2: **[Cash / Assets / Services]**
+- Partner 1: **[CONSIDERATION TYPE]**
+- Partner 2: **[CONSIDERATION TYPE]**
 
 ### 4.2 Ownership
 
@@ -50,8 +49,8 @@ Contributions and ownership percentages are set out in Schedule 1.
 ### 5.1 Sharing
 
 Profits and losses shall be shared as follows:
-- Partner 1: **[X%]**
-- Partner 2: **[X%]**
+- Partner 1: **[NUMBER]%**
+- Partner 2: **[NUMBER]%**
 
 ### 5.2 Distributions
 
@@ -67,7 +66,7 @@ Each Partner has equal rights in management unless otherwise agreed.
 
 The following decisions require unanimous approval:
 - admission of new Partners
-- incurrence of debt exceeding **[AMOUNT]**
+- incurrence of debt exceeding **[NUMBER] [CURRENCY]**
 - sale of material assets
 - dissolution of the Partnership
 
@@ -101,7 +100,7 @@ Proper accounting records shall be maintained.
 
 ### 9.3 Financial Year
 
-The financial year runs from **[START DATE]** to **[END DATE]**.
+The financial year runs from **[DATE]** to **[DATE]**.
 
 ## 10. Admission of New Partners
 
@@ -111,13 +110,13 @@ New Partners may only be admitted by unanimous consent. Terms of admission shall
 
 ### 11.1 Notice
 
-A Partner may withdraw by giving **[X months’]** written notice.
+A Partner may withdraw by giving **[NUMBER] months** written notice.
 
 ### 11.2 Buyout
 
 The remaining Partners may purchase the withdrawing Partner’s interest at fair market value determined by:
-- **[AGREED VALUATION FORMULA]**, or
-- **[INDEPENDENT VALUATION]**
+- **[VALUATION METHOD]**, or
+- **[VALUATION METHOD]**
 
 ## 12. Death or Incapacity
 
@@ -154,11 +153,11 @@ Partners shall first attempt to resolve disputes through negotiation.
 
 ### 16.2 Mediation
 
-If unresolved within **[X days]**, the dispute shall be referred to mediation before court proceedings.
+If unresolved within **[NUMBER] days**, the dispute shall be referred to mediation before court proceedings.
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -172,18 +171,4 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Contributions and Ownership
 
-**[List capital contributions and ownership percentages]**
-
----
-
-## Signatures
-
-**Partner 1**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**Partner 2**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[OWNERSHIP STRUCTURE]**

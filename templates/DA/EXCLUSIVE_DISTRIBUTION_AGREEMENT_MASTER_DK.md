@@ -7,23 +7,22 @@ tags:
 seoTitle: "Skabelon til eksklusiv distributionsaftale"
 seoDescription: "Brug denne eksklusive distributionsaftale til at fastlægge eksklusivitet, territorium, salgsforpligtelser og ophørsrettigheder."
 ---
-# Eksklusiv distributionsaftale
 
-Denne eksklusive distributionsaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne eksklusive distributionsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Leverandør**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF SUPPLIER]**
-- Enhedstype: **[COMPANY TYPE]**
-- Registreret adresse: **[ADDRESS]**
-- CVR-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Enhedstype: **[SELSKABSTYPE]**
+- Registreret adresse: **[ADRESSE]**
+- CVR-nr.: **[CVR]**
 
 **Distributør**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF DISTRIBUTOR]**
-- Enhedstype: **[COMPANY TYPE]**
-- Registreret adresse: **[ADDRESS]**
-- CVR-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Enhedstype: **[SELSKABSTYPE]**
+- Registreret adresse: **[ADRESSE]**
+- CVR-nr.: **[CVR]**
 
 Leverandøren og Distributøren benævnes hver en "Part" og samlet "Parterne".
 
@@ -45,7 +44,7 @@ Distributøren accepterer udpegningen og forpligter sig til aktivt at markedsfø
 
 ### 3.1 Område
 
-Det Område, som Aftalen omfatter, er **[DEFINE GEOGRAPHICAL AREA]** ("Området").
+Det Område, som Aftalen omfatter, er **[OMRÅDE]** ("Området").
 
 ### 3.2 Salg uden for Området
 
@@ -99,11 +98,11 @@ Distributøren skal købe Produkterne til de priser, der fremgår af Bilag 3.
 
 ### 7.2 Prisændringer
 
-Leverandøren kan justere priser med **[X days’]** skriftligt varsel.
+Leverandøren kan justere priser med **[NUMMER] dage** skriftligt varsel.
 
 ### 7.3 Betalingsvilkår
 
-Betalingsfristen er **[X days]** fra fakturadato.
+Betalingsfristen er **[NUMMER] dage** fra fakturadato.
 
 ### 7.4 Forsinket betaling
 
@@ -151,18 +150,18 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader.
 
 ### 11.1 Indledende periode
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[X years]**.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[NUMMER] år**.
 
 ### 11.2 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[X months’]** skriftligt varsel.
+Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[NUMMER] måneder** skriftligt varsel.
 
 ## 12. Ophør
 
 ### 12.1 Ophør med øjeblikkelig virkning
 
 Hver Part kan ophøre Aftalen med øjeblikkelig virkning i tilfælde af:
-- væsentlig misligholdelse, som ikke afhjælpes inden **[X days]**
+- væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER] dage**
 - insolvens
 - gentagen manglende opfyldelse af resultatforpligtelser
 
@@ -191,7 +190,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -205,28 +204,12 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Produkter
 
-**[List products]**
+**[PRODUKTER]**
 
 ## Bilag 2: Minimumskøbsmål
 
-**[Annual volume or revenue targets]**
+**[MÅL]**
 
 ## Bilag 3: Priser
 
-**[Wholesale pricing structure]**
-
----
-
-## Underskrifter
-
-**For Leverandøren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Distributøren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[ENGROSPRISSTRUKTUR]**

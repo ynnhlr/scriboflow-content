@@ -7,23 +7,20 @@ tags:
 seoTitle: "Commercial Lease Agreement Template"
 seoDescription: "Use this commercial lease agreement template to document rent, lease term, premises use, and key landlord-tenant obligations."
 ---
-# Commercial Lease Agreement
 
-This Commercial Lease Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Commercial Lease Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Landlord**
-- Full legal name: **[FULL LEGAL NAME OF LANDLORD]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Tenant**
-- Full legal name: **[FULL LEGAL NAME OF TENANT]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 The Landlord and the Tenant are each a "Party" and together the "Parties".
 
@@ -31,12 +28,12 @@ The Landlord and the Tenant are each a "Party" and together the "Parties".
 
 ### 2.1 Premises
 
-The Landlord leases to the Tenant the premises located at **[FULL ADDRESS + DESCRIPTION]** (the "Premises").
+The Landlord leases to the Tenant the premises located at **[ADDRESS]** (the "Premises").
 
 ### 2.2 Included Areas
 
 The Premises include:
-- **[Office space / storage / parking spaces / etc.]**
+- **[PREMISES TYPE]**
 
 Further description is set out in Schedule 1.
 
@@ -44,7 +41,7 @@ Further description is set out in Schedule 1.
 
 ### 3.1 Permitted Use
 
-The Premises shall be used solely for **[Describe permitted business activity]**.
+The Premises shall be used solely for **[BUSINESS ACTIVITIES]**.
 
 ### 3.2 Legal Compliance
 
@@ -54,11 +51,11 @@ The Tenant shall not use the Premises for unlawful purposes or in violation of z
 
 ### 4.1 Commencement
 
-The lease commences on **[START DATE]**.
+The lease commences on **[DATE]**.
 
 ### 4.2 Fixed Term
 
-The lease runs for a fixed term of **[X years]**, expiring on **[END DATE]**, unless terminated earlier in accordance with this Agreement.
+The lease runs for a fixed term of **[NUMBER] years**, expiring on **[DATE]**, unless terminated earlier in accordance with this Agreement.
 
 ### 4.3 Continuation
 
@@ -68,7 +65,7 @@ If no notice of termination is given, the lease may continue on a rolling basis 
 
 ### 5.1 Rent Amount
 
-The annual rent is **[AMOUNT]** **[CURRENCY]**, payable in **[MONTHLY/QUARTERLY]** installments.
+The annual rent is **[NUMBER] [CURRENCY]**, payable in **[FREQUENCY]** installments.
 
 ### 5.2 Due Date
 
@@ -77,14 +74,14 @@ Rent shall be paid in advance no later than **[DATE]** each payment period.
 ### 5.3 Payment Details
 
 Payment shall be made to:
-- Bank: **[Bank Name]**
+- Bank: **[BANK NAME]**
 - IBAN: **[IBAN]**
 
 ## 6. Rent Adjustment
 
 ### 6.1 Indexation
 
-Rent shall be adjusted annually based on **[Net Price Index (NPI) / other agreed index]**.
+Rent shall be adjusted annually based on **[NET PRICE INDEX (NPI) / OTHER AGREED INDEX]**.
 
 ### 6.2 No Decrease
 
@@ -108,7 +105,7 @@ Details are set out in Schedule 2.
 
 ### 8.1 Deposit
 
-The Tenant shall pay a security deposit of **[AMOUNT]** **[CURRENCY]**, equivalent to **[X months’]** rent.
+The Tenant shall pay a security deposit of **[NUMBER] [CURRENCY]**, equivalent to **[NUMBER] months** rent.
 
 ### 8.2 Use
 
@@ -163,7 +160,7 @@ Consent shall not be unreasonably withheld unless otherwise permitted by law.
 ### 13.1 Events of Default
 
 The Tenant is in default if:
-- rent is overdue by more than **[X days]**
+- rent is overdue by more than **[NUMBER] days**
 - material breach occurs
 
 ### 13.2 Remedies
@@ -192,7 +189,7 @@ Neither Party shall be liable for failure to perform due to events beyond reason
 
 ## 16. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory tenancy law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory tenancy law provides otherwise.
 
 ## 17. Entire Agreement
 
@@ -206,22 +203,8 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Description of Premises
 
-**[Detailed floor plan / square meters / attachments]**
+**[DESCRIPTION]**
 
 ## Schedule 2: Operating Costs
 
-**[List of recoverable costs and allocation method]**
-
----
-
-## Signatures
-
-**For the Landlord**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Tenant**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[COST ALLOCATION]**

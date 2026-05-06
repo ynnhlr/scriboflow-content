@@ -7,15 +7,14 @@ tags:
 seoTitle: "Skabelon til interessentskabsaftale"
 seoDescription: "Brug denne interessentskabsaftale til at fastlægge indskud, overskudsdeling, beslutningsprocesser og exitregler mellem partnere."
 ---
-# Interessentskabsaftale
 
-Denne interessentskabsaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne interessentskabsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 Følgende personer/enheder (hver en "Interessent" og samlet "Interessenterne"):
-- **[FULL LEGAL NAME OF PARTNER 1]**, med bopæl / registreret adresse på **[ADDRESS]**, CPR/CVR-nr.: **[IDENTIFICATION NUMBER]**
-- **[FULL LEGAL NAME OF PARTNER 2]**, med bopæl / registreret adresse på **[ADDRESS]**, CPR/CVR-nr.: **[IDENTIFICATION NUMBER]**
+- **[VIRKSOMHEDSNAVN]**, med bopæl / registreret adresse på **[ADRESSE]**, CPR/CVR-nr.: **[CVR]**
+- **[VIRKSOMHEDSNAVN]**, med bopæl / registreret adresse på **[ADRESSE]**, CPR/CVR-nr.: **[CVR]**
 
 Yderligere Interessenter kan anføres i Bilag 1.
 
@@ -23,7 +22,7 @@ Yderligere Interessenter kan anføres i Bilag 1.
 
 ### 2.1 Etablering
 
-Interessenterne etablerer herved et interessentskab under navnet **[PARTNERSHIP NAME]** ("Interessentskabet").
+Interessenterne etablerer herved et interessentskab under navnet **[INTERESSENTSKABSNAVN]** ("Interessentskabet").
 
 ### 2.2 Ikrafttræden
 
@@ -31,15 +30,15 @@ Interessentskabet træder i kraft på Ikrafttrædelsesdatoen.
 
 ## 3. Formål
 
-Interessentskabets formål er **[Describe business activities]** samt dertil knyttede lovlige aktiviteter.
+Interessentskabets formål er **[FORRETNINGSAKTIVITETER]** samt dertil knyttede lovlige aktiviteter.
 
 ## 4. Indskud
 
 ### 4.1 Indskud
 
 Hver Interessent skal yde følgende indskud:
-- Interessent 1: **[Cash / Assets / Services]**
-- Interessent 2: **[Cash / Assets / Services]**
+- Interessent 1: **[VEDERLAGSTYPE]**
+- Interessent 2: **[VEDERLAGSTYPE]**
 
 ### 4.2 Ejerandele
 
@@ -50,8 +49,8 @@ Indskud og ejerandele fremgår af Bilag 1.
 ### 5.1 Fordeling
 
 Overskud og underskud fordeles som følger:
-- Interessent 1: **[X%]**
-- Interessent 2: **[X%]**
+- Interessent 1: **[NUMMER]%**
+- Interessent 2: **[NUMMER]%**
 
 ### 5.2 Udlodninger
 
@@ -67,7 +66,7 @@ Hver Interessent har lige rettigheder i ledelsen, medmindre andet er aftalt.
 
 Følgende beslutninger kræver enstemmig godkendelse:
 - optagelse af nye Interessenter
-- stiftelse af gæld over **[AMOUNT]**
+- stiftelse af gæld over **[NUMMER] [VALUTA]**
 - salg af væsentlige aktiver
 - opløsning af Interessentskabet
 
@@ -101,7 +100,7 @@ Der skal føres et fyldestgørende regnskab.
 
 ### 9.3 Regnskabsår
 
-Regnskabsåret løber fra **[START DATE]** til **[END DATE]**.
+Regnskabsåret løber fra **[DATO]** til **[DATO]**.
 
 ## 10. Optagelse af nye interessenter
 
@@ -111,13 +110,13 @@ Nye Interessenter kan kun optages ved enstemmigt samtykke. Vilkår for optagelse
 
 ### 11.1 Varsel
 
-En Interessent kan udtræde med **[X months’]** skriftligt varsel.
+En Interessent kan udtræde med **[NUMMER] måneder** skriftligt varsel.
 
 ### 11.2 Udkøb
 
 De tilbageværende Interessenter kan købe den udtrædende Interessents andel til markedsværdi fastsat ved:
-- **[AGREED VALUATION FORMULA]**, eller
-- **[INDEPENDENT VALUATION]**
+- **[VÆRDIANSÆTTELSESMETODE]**, eller
+- **[VÆRDIANSÆTTELSESMETODE]**
 
 ## 12. Dødsfald eller varig uarbejdsdygtighed
 
@@ -154,11 +153,11 @@ Interessenterne skal først søge tvister løst ved forhandling.
 
 ### 16.2 Mægling
 
-Hvis tvisten ikke er løst inden **[X days]**, skal tvisten søges løst ved mægling før retssag.
+Hvis tvisten ikke er løst inden **[NUMMER] dage**, skal tvisten søges løst ved mægling før retssag.
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -172,18 +171,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Indskud og ejerandele
 
-**[List capital contributions and ownership percentages]**
-
----
-
-## Underskrifter
-
-**Interessent 1**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**Interessent 2**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[EJERSTRUKTUR]**

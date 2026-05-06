@@ -7,38 +7,36 @@ tags:
 seoTitle: "Skabelon til tilbudsbrev"
 seoDescription: "Brug dette tilbudsbrev til at præsentere jobvilkår klart, herunder rolle, løn, startdato og acceptbetingelser."
 ---
-# Tilbudsbrev
 
-Dette tilbudsbrev ("Tilbuddet") er udstedt den **[DATE]**.
+Dette tilbudsbrev ("Tilbuddet") er udstedt den **[DATO]**.
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Kandidat**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CANDIDATE]**
-- Adresse: **[ADDRESS]**
-- CPR/ID-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Kandidaten benævnes hver en "Part" og samlet "Parterne".
 
 ## 2. Stilling
 
-Arbejdsgiveren tilbyder hermed Kandidaten stillingen som **[JOB TITLE]**. Kandidaten refererer til **[MANAGER / DEPARTMENT]** og skal udføre opgaver, der med rimelighed er forbundet med stillingen.
+Arbejdsgiveren tilbyder hermed Kandidaten stillingen som **[STILLINGSBETEGNELSE]**. Kandidaten refererer til **[LEDER / AFDELING]** og skal udføre opgaver, der med rimelighed er forbundet med stillingen.
 
 ## 3. Startdato
 
-Forventet startdato er **[START DATE]**, med forbehold for opfyldelse af betingelserne i afsnit 8.
+Forventet startdato er **[DATO]**, med forbehold for opfyldelse af betingelserne i afsnit 8.
 
 ## 4. Vederlag
 
 ### 4.1 Løn
 
-Kandidaten modtager en månedlig bruttoløn på **[AMOUNT]** **[CURRENCY]**, der udbetales månedsvis bagud.
+Kandidaten modtager en månedlig bruttoløn på **[NUMMER] [VALUTA]**, der udbetales månedsvis bagud.
 
 ### 4.2 Bonus (hvis relevant)
 
@@ -47,13 +45,13 @@ Ret til bonus eller variabel aflønning reguleres af særskilte skriftlige vilk�
 ### 4.3 Personalegoder (hvis relevant)
 
 Kandidaten er berettiget til virksomhedens standardpersonalegoder, herunder:
-- Pension: **[DETAILS]**
-- Forsikring: **[DETAILS]**
-- Andre goder: **[DETAILS]**
+- Pension: **[BESKRIVELSE]**
+- Forsikring: **[BESKRIVELSE]**
+- Andre goder: **[BESKRIVELSE]**
 
 ## 5. Arbejdstid
 
-Den normale arbejdstid er **[NUMBER]** timer pr. uge, med forbehold for driftsmæssige behov og gældende lovgivning.
+Den normale arbejdstid er **[NUMMER]** timer pr. uge, med forbehold for driftsmæssige behov og gældende lovgivning.
 
 ## 6. Ferie og fravær
 
@@ -61,7 +59,7 @@ Kandidaten har ret til ferie og lovbestemt fravær i overensstemmelse med gælde
 
 ## 7. Prøvetid (hvis relevant)
 
-Ansættelsen er betinget af en prøvetid på **[X months]**, hvor ansættelsen kan bringes til ophør med forkortet varsel i overensstemmelse med gældende lovgivning.
+Ansættelsen er betinget af en prøvetid på **[NUMMER] måneder**, hvor ansættelsen kan bringes til ophør med forkortet varsel i overensstemmelse med gældende lovgivning.
 
 ## 8. Ansættelsesbetingelser
 
@@ -87,19 +85,4 @@ Dette Tilbud er underlagt dansk ret.
 
 ## 12. Accept
 
-For at acceptere Tilbuddet bedes Kandidaten underskrive nedenfor og returnere en kopi senest **[DATE]**. Manglende accept inden denne dato kan medføre tilbagekaldelse af Tilbuddet.
-
----
-
-## Underskrifter
-
-**For Arbejdsgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**Accepteret af Kandidaten**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+For at acceptere Tilbuddet bedes Kandidaten bekræfte accepten skriftligt senest **[DATO]**. Manglende accept inden denne dato kan medføre tilbagekaldelse af Tilbuddet.

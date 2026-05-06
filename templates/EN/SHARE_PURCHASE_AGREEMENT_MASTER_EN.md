@@ -7,23 +7,20 @@ tags:
 seoTitle: "Share Purchase Agreement Template"
 seoDescription: "Use this share purchase agreement template to document purchase price, completion steps, warranties, and obligations after closing."
 ---
-# Share Purchase Agreement
 
-This Share Purchase Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Share Purchase Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Seller**
-- Full legal name: **[FULL LEGAL NAME OF SELLER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR No. / CPR No.: **[IDENTIFICATION NUMBER]**
+- CVR No. / CPR No.: **[CVR]**
 
 **Buyer**
-- Full legal name: **[FULL LEGAL NAME OF BUYER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR No. / CPR No.: **[IDENTIFICATION NUMBER]**
+- CVR No. / CPR No.: **[CVR]**
 
 The Seller and the Buyer are each a "Party" and together the "Parties".
 
@@ -41,7 +38,7 @@ The Buyer wishes to purchase such shares on the terms set out in this Agreement.
 
 ### 3.1 Sale
 
-The Seller agrees to sell and transfer to the Buyer **[NUMBER]** shares in **[COMPANY NAME]**, representing **[X%]** of the share capital (the "Shares").
+The Seller agrees to sell and transfer to the Buyer **[NUMBER]** shares in **[COMPANY NAME]**, representing **[NUMBER]%** of the share capital (the "Shares").
 
 ### 3.2 Title
 
@@ -51,7 +48,7 @@ The Shares are sold free from any liens, encumbrances, or third-party rights unl
 
 ### 4.1 Price
 
-The total purchase price for the Shares is **[AMOUNT]** **[CURRENCY]** (the "Purchase Price").
+The total purchase price for the Shares is **[NUMBER] [CURRENCY]** (the "Purchase Price").
 
 ### 4.2 Payment
 
@@ -67,7 +64,7 @@ Payment shall be made to the Seller’s designated bank account.
 
 ### 5.1 Closing Date
 
-Closing shall take place on **[CLOSING DATE]** (the "Closing Date").
+Closing shall take place on **[DATE]** (the "Closing Date").
 
 ### 5.2 Deliveries
 
@@ -100,7 +97,7 @@ The Seller shall indemnify the Buyer for losses arising from breach of Seller’
 
 ### 8.2 Claims Period
 
-Claims must be notified within **[X months]** after Closing.
+Claims must be notified within **[NUMBER] months** after Closing.
 
 ### 8.3 Liability Cap
 
@@ -122,7 +119,7 @@ The Parties shall keep confidential all non-public information relating to this 
 
 ## 11. Non-Competition (Optional)
 
-The Seller agrees not to compete with the Company for a period of **[X months/years]** within **[Territory]**, subject to applicable law.
+The Seller agrees not to compete with the Company for a period of **[NUMBER] months/years** within **[TERRITORY]**, subject to applicable law.
 
 ## 12. Taxes and Costs
 
@@ -132,7 +129,7 @@ Each Party shall bear its own costs related to this transaction.
 
 ### 12.2 Transfer Taxes
 
-Any transfer taxes shall be borne by **[Buyer/Seller]**, unless otherwise required by law.
+Any transfer taxes shall be borne by **[PARTY REFERENCE]**, unless otherwise required by law.
 
 ## 13. Termination
 
@@ -146,7 +143,7 @@ If terminated before Closing, neither Party shall have further obligations excep
 
 ## 14. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 15. Severability
 
@@ -164,22 +161,8 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Disclosure Schedule
 
-**[List known liabilities, encumbrances, litigation, exceptions]**
+**[EXCEPTIONS]**
 
 ## Schedule 2: Payment Structure (If Applicable)
 
-**[Installment details / escrow terms / earn-out calculation]**
-
----
-
-## Signatures
-
-**For the Seller**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Buyer**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[PAYMENT TERMS]**

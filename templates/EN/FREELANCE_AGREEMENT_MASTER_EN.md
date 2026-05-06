@@ -7,23 +7,20 @@ tags:
 seoTitle: "Freelance Agreement Template"
 seoDescription: "Use this freelance agreement template to define project scope, fees, delivery terms, confidentiality, and IP ownership."
 ---
-# Freelance Agreement
 
-This Freelance Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Freelance Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Client**
-- Full legal name: **[FULL LEGAL NAME OF CLIENT]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Freelancer**
-- Full legal name: **[FULL LEGAL NAME OF FREELANCER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 The Client and the Freelancer are each a "Party" and together the "Parties".
 
@@ -62,7 +59,7 @@ Nothing in this Agreement shall create an employment relationship.
 
 ### 4.1 Compensation
 
-The Client shall pay the Freelancer **[HOURLY RATE]** or **[FIXED PROJECT FEE]**, as specified in Schedule 1.
+The Client shall pay the Freelancer **[NUMBER] [CURRENCY]** or **[NUMBER] [CURRENCY]**, as specified in Schedule 1.
 
 ### 4.2 Invoicing
 
@@ -70,7 +67,7 @@ The Freelancer shall invoice the Client in accordance with agreed milestones or 
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[X]** days from receipt unless otherwise agreed.
+Invoices are payable within **[NUMBER]** days from receipt unless otherwise agreed.
 
 ### 4.4 Late Payment
 
@@ -110,7 +107,7 @@ This obligation continues after termination without limitation in time.
 
 ## 8. Non-Solicitation (Optional)
 
-During the term of this Agreement and for **[X months]** thereafter, the Freelancer shall not solicit the Client’s employees or customers for competing services without prior written consent.
+During the term of this Agreement and for **[NUMBER] months** thereafter, the Freelancer shall not solicit the Client’s employees or customers for competing services without prior written consent.
 
 ## 9. Warranties
 
@@ -132,7 +129,7 @@ Each Party shall be liable for damages caused by breach of this Agreement.
 
 ### 10.2 Liability Cap
 
-The Freelancer’s total liability shall not exceed **[X amount or fee paid]**, except in cases of gross negligence, fraud, or wilful misconduct.
+The Freelancer’s total liability shall not exceed **[NUMBER] amount or fee paid**, except in cases of gross negligence, fraud, or wilful misconduct.
 
 ### 10.3 Indirect Damages
 
@@ -146,7 +143,7 @@ This Agreement shall commence on the Effective Date and continue until completio
 
 ### 11.2 Termination for Convenience
 
-Either Party may terminate with **[X days’]** written notice.
+Either Party may terminate with **[NUMBER] days** written notice.
 
 ### 11.3 Termination for Cause
 
@@ -166,7 +163,7 @@ The Freelancer may not assign rights or obligations under this Agreement without
 
 ## 14. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 15. Language
 
@@ -184,23 +181,8 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Services and Fees
 
-- Description of Services: **[Detailed scope]**
-- Deliverables: **[List deliverables]**
-- Timeline / Milestones: **[Specify deadlines]**
-- Compensation: **[Rate or fixed amount]**
-- Payment Schedule: **[Specify schedule]**
-
----
-
-## Signatures
-
-**For the Client**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Freelancer**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+- Description of Services: **[SCOPE]**
+- Deliverables: **[DELIVERABLES]**
+- Timeline / Milestones: **[DEADLINE]**
+- Compensation: **[NUMBER] [CURRENCY]**
+- Payment Schedule: **[SCHEDULE]**

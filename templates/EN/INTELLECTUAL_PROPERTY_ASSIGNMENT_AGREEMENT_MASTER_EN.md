@@ -7,22 +7,21 @@ tags:
 seoTitle: "Intellectual Property Assignment Agreement Template"
 seoDescription: "Use this intellectual property assignment agreement template to transfer IP ownership and document warranties, payment, and post-signing assistance."
 ---
-# Intellectual Property Assignment Agreement
 
-This Intellectual Property Assignment Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Intellectual Property Assignment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Company**
-- Full legal name: **[FULL LEGAL NAME OF ASSIGNEE / COMPANY]**
+- Full legal name: **[COMPANY NAME]**
 - Entity type: **[COMPANY TYPE]**
 - Registered address: **[ADDRESS]**
-- CVR No.: **[REGISTRATION NUMBER]**
+- CVR No.: **[CVR]**
 
 **Assignor**
-- Full legal name: **[FULL LEGAL NAME OF ASSIGNOR]**
+- Full legal name: **[COMPANY NAME]**
 - Address: **[ADDRESS]**
-- CPR/CVR No.: **[IDENTIFICATION NUMBER]**
+- CPR/CVR No.: **[CVR]**
 
 The Company and the Assignor are each a "Party" and together the "Parties".
 
@@ -91,7 +90,7 @@ This obligation survives termination of employment or engagement.
 
 The assignment is made:
 - as part of the Assignor’s employment or engagement, or
-- in consideration of **[SPECIFIED COMPENSATION]**
+- in consideration of **[NUMBER] [CURRENCY]**
 
 Unless otherwise required by law, no additional compensation shall be payable.
 
@@ -122,7 +121,7 @@ The Assignor shall keep confidential all proprietary information relating to the
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 13. Severability
 
@@ -140,19 +139,4 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Pre-Existing Intellectual Property (If Applicable)
 
-**[List any excluded IP]**
-
----
-
-## Signatures
-
-**For the Company**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Assignor**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+**[EXCLUDED IP]**

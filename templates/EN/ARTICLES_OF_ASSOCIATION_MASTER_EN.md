@@ -7,10 +7,9 @@ tags:
 seoTitle: "Articles of Association Template"
 seoDescription: "Use this articles of association template to define your company's constitutional rules, share structure, and governance framework."
 ---
-# Articles of Association
 
-**Company name:** **[COMPANY NAME]**  
-**CVR No.:** **[REGISTRATION NUMBER]**  
+**Company name:** **[COMPANY NAME]**
+**CVR No.:** **[CVR]**
 **Adopted on:** **[DATE]**
 
 ## 1. Name
@@ -19,23 +18,23 @@ The name of the Company is **[COMPANY NAME]**.
 
 ## 2. Registered Office
 
-The registered office of the Company is located in **[MUNICIPALITY]**, Denmark.
+The registered office of the Company is located in **[LOCATION]**, Denmark.
 
 ## 3. Purpose
 
 The purpose of the Company is:
-- **[Describe business activities]**
+- **[BUSINESS ACTIVITIES]**
 - any activities related thereto
 
 ## 4. Share Capital
 
 ### 4.1 Amount
 
-The share capital of the Company amounts to **[AMOUNT]** **[CURRENCY]**.
+The share capital of the Company amounts to **[NUMBER] [CURRENCY]**.
 
 ### 4.2 Nominal Value
 
-The share capital is divided into shares of **[NOMINAL VALUE]** each.
+The share capital is divided into shares of **[NUMBER] [CURRENCY]** each.
 
 ### 4.3 Paid-In
 
@@ -81,7 +80,7 @@ The general meeting is the supreme authority of the Company.
 
 ### 7.2 Annual General Meeting
 
-The annual general meeting shall be held within **[X months]** after the end of each financial year.
+The annual general meeting shall be held within **[NUMBER] months** after the end of each financial year.
 
 ### 7.3 Notice
 
@@ -89,7 +88,7 @@ Notice of general meetings shall be given in accordance with applicable law.
 
 ### 7.4 Voting
 
-Each share of **[NOMINAL VALUE]** carries one vote unless otherwise provided in Section 5.
+Each share of **[NUMBER] [CURRENCY]** carries one vote unless otherwise provided in Section 5.
 
 ## 8. Management
 
@@ -110,13 +109,13 @@ The board of directors shall adopt rules of procedure if applicable.
 ## 9. Signing Authority
 
 The Company shall be bound by:
-- **[Two directors jointly]**, or
-- **[One director together with the CEO]**, or
-- **[Specify signing structure]**
+- **[TWO DIRECTORS JOINTLY]**, or
+- **[ONE DIRECTOR TOGETHER WITH THE CEO]**, or
+- **[SPECIFY SIGNING STRUCTURE]**
 
 ## 10. Financial Year
 
-The financial year of the Company runs from **[START DATE]** to **[END DATE]**.
+The financial year of the Company runs from **[DATE]** to **[DATE]**.
 
 ## 11. Dividends
 
@@ -144,5 +143,5 @@ The Company may be dissolved by resolution of the general meeting in accordance 
 
 ## Schedule 1: Share Classes (If Applicable)
 
-- Class A Shares: **[Rights]**
-- Class B Shares: **[Rights]**
+- Class A Shares: **[RIGHTS]**
+- Class B Shares: **[RIGHTS]**

@@ -7,22 +7,20 @@ tags:
 seoTitle: "Fixed Term Employment Agreement Template"
 seoDescription: "Use this fixed term employment agreement template to define salary, term length, job duties, and end-of-contract conditions."
 ---
-# Employment Agreement (Salaried – Fixed Term)
 
-This Employment Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Employment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Employer**
-- Full legal name: **[FULL LEGAL NAME OF EMPLOYER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Employee**
-- Full legal name: **[FULL LEGAL NAME OF EMPLOYEE]**
+- Full legal name: **[COMPANY NAME]**
 - Address: **[ADDRESS]**
-- CPR/ID No.: **[IDENTIFICATION NUMBER]**
+- CPR/ID No.: **[CVR]**
 
 The Employer and the Employee are each a "Party" and together the "Parties".
 
@@ -44,11 +42,11 @@ The Employee shall act loyally and in the best interests of the Employer and com
 
 ### 3.1 Fixed Term
 
-Employment commences on **[START DATE]** and automatically terminates on **[END DATE]**, without further notice, unless extended in writing.
+Employment commences on **[DATE]** and automatically terminates on **[DATE]**, without further notice, unless extended in writing.
 
 ### 3.2 Reason for Fixed Term (If Required by Law)
 
-The fixed term is justified by **[PROJECT-BASED WORK / TEMPORARY REPLACEMENT / SEASONAL NEED / OTHER OBJECTIVE REASON]**.
+The fixed term is justified by **[OBJECTIVE REASON]**.
 
 ### 3.3 No Expectation of Renewal
 
@@ -72,7 +70,7 @@ The Employee may be required to perform reasonable additional work in line with 
 
 ### 5.1 Salary
 
-The Employee shall receive a fixed gross salary of **[AMOUNT]** **[CURRENCY]** per month.
+The Employee shall receive a fixed gross salary of **[NUMBER] [CURRENCY]** per month.
 
 ### 5.2 Payment
 
@@ -146,7 +144,7 @@ The Employer processes personal data relating to the Employee in accordance with
 
 ### 13.1 Notice
 
-Unless otherwise required by law, either Party may terminate the Agreement before the expiry date with written notice of **[NOTICE PERIOD]**.
+Unless otherwise required by law, either Party may terminate the Agreement before the expiry date with written notice of **[NUMBER] [TIME UNIT]**.
 
 ### 13.2 Immediate Termination
 
@@ -166,7 +164,7 @@ The Employee may not assign rights or obligations under this Agreement. The Empl
 
 ## 16. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 17. Language
 
@@ -184,27 +182,12 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Benefits
 
-- Pension contribution: **[DETAILS]**
-- Insurance coverage: **[DETAILS]**
-- Bonus structure (if applicable): **[DETAILS]**
+- Pension contribution: **[DESCRIPTION]**
+- Insurance coverage: **[DESCRIPTION]**
+- Bonus structure (if applicable): **[DESCRIPTION]**
 
 ## Schedule 2: Post-Employment Restrictions (If Applicable)
 
-- Non-compete duration: **[PERIOD]**
+- Non-compete duration: **[NUMBER] [TIME UNIT]**
 - Non-solicitation scope: **[SCOPE]**
-- Compensation (if legally required): **[DETAILS]**
-
----
-
-## Signatures
-
-**For the Employer**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Employee**
-- Name: **[NAME]**
-- Signature: ________________________
-- Date: **[DATE]**
+- Compensation (if legally required): **[DESCRIPTION]**

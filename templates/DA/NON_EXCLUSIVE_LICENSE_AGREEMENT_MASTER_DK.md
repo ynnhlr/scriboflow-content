@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til ikke-eksklusiv licensaftale"
 seoDescription: "Brug denne ikke-eksklusive licensaftale til at beskrive brugsrettigheder, royalties, begrænsninger og ophør for en ikke-eksklusiv licens."
 ---
-# Ikke-eksklusiv licensaftale
 
-Denne ikke-eksklusive licensaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne ikke-eksklusive licensaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Licensgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LICENSOR]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Licenstager**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LICENSEE]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Licensgiveren og Licenstageren benævnes hver en "Part" og samlet "Parterne".
 
@@ -33,13 +30,13 @@ Med forbehold for Aftalens vilkår tildeler Licensgiveren Licenstageren en ikke-
 
 ## 3. Licenseret materiale
 
-"Licenseret materiale" betyder **[DESCRIPTION OF IP / MATERIAL / RIGHTS]**, herunder tilhørende dokumentation, opdateringer eller ændringer, som udtrykkeligt stilles til rådighed af Licensgiveren.
+"Licenseret materiale" betyder **[IP-BESKRIVELSE]**, herunder tilhørende dokumentation, opdateringer eller ændringer, som udtrykkeligt stilles til rådighed af Licensgiveren.
 
 ## 4. Anvendelsesområde
 
 Licenstageren må kun anvende det Licenserede materiale:
-- til **[PERMITTED USE]**
-- inden for **[TERRITORY]**
+- til **[FORMÅL]**
+- inden for **[OMRÅDE]**
 - i Aftalens løbetid
 
 Enhver brug uden for dette omfang udgør væsentlig misligholdelse.
@@ -58,7 +55,7 @@ Alle rettigheder, adkomst og interesser i det Licenserede materiale forbliver ho
 
 ## 7. Afgifter og betaling
 
-Som modydelse for den tildelte licens skal Licenstageren betale **[LICENSE FEE / ROYALTY / "NO FEE"]**. Betalingsvilkår: **[PAYMENT TERMS]**. Skatter og afgifter: **[TAX ALLOCATION]**.
+Som modydelse for den tildelte licens skal Licenstageren betale **[NUMMER] [VALUTA]**. Betalingsvilkår: **[BETALINGSBETINGELSER]**. Skatter og afgifter: **[SKATTEFORDELING]**.
 
 ## 8. Fortrolighed
 
@@ -70,12 +67,12 @@ Licensgiveren garanterer at have ret til at tildele den licens, der er beskrevet
 
 ## 10. Ansvarsbegrænsning
 
-I det maksimale omfang, dansk ret tillader, er ingen af Parterne ansvarlige for indirekte tab, hændelige tab eller følgeskader, der udspringer af Aftalen. Licensgiverens samlede ansvar kan ikke overstige **[LIABILITY CAP]**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
+I det maksimale omfang, dansk ret tillader, er ingen af Parterne ansvarlige for indirekte tab, hændelige tab eller følgeskader, der udspringer af Aftalen. Licensgiverens samlede ansvar kan ikke overstige **[NUMMER] [VALUTA]**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
 
 ## 11. Løbetid og ophør
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i **[TERM]**, medmindre den ophører tidligere. Hver Part kan ophøre Aftalen:
-- ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMBER]** dage efter skriftligt påkrav
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i **[NUMMER] [TIDSENHED]**, medmindre den ophører tidligere. Hver Part kan ophøre Aftalen:
+- ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER]** dage efter skriftligt påkrav
 - med øjeblikkelig virkning, hvis den anden Part bliver insolvent eller træder i likvidation
 
 Ved ophør skal Licenstageren straks ophøre enhver brug af det Licenserede materiale.
@@ -90,7 +87,7 @@ Licenstageren må ikke overdrage eller videreføre Aftalen uden Licensgiverens f
 
 ## 14. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 15. Sprog
 
@@ -103,19 +100,3 @@ Aftalen udgør Parternes samlede aftale om det regulerede forhold og erstatter a
 ## 17. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
-
----
-
-## Underskrifter
-
-**For Licensgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Licenstageren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

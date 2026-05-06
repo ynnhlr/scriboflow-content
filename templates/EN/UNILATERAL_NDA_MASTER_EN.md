@@ -7,29 +7,26 @@ tags:
 seoTitle: "Unilateral NDA Template"
 seoDescription: "Use this unilateral NDA template to protect confidential information when only one party is disclosing sensitive business or technical details."
 ---
-# Unilateral Non-Disclosure Agreement (NDA)
 
-This Unilateral Non-Disclosure Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Unilateral Non-Disclosure Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Disclosing Party**
-- Full legal name: **[FULL LEGAL NAME OF DISCLOSING PARTY]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Receiving Party**
-- Full legal name: **[FULL LEGAL NAME OF RECEIVING PARTY]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 The Disclosing Party and the Receiving Party are collectively the "Parties".
 
 ## 2. Purpose
 
-The Disclosing Party agrees to provide certain confidential and proprietary information to the Receiving Party solely for **[PURPOSE OF DISCLOSURE]** (the "Purpose").
+The Disclosing Party agrees to provide certain confidential and proprietary information to the Receiving Party solely for **[PURPOSE]** (the "Purpose").
 
 ## 3. Definition of Confidential Information
 
@@ -76,7 +73,7 @@ The Receiving Party may retain copies only to the extent required by applicable 
 
 ## 8. Duration of Confidentiality
 
-This Agreement remains in effect from the Effective Date until **[TERM OF AGREEMENT]**. The confidentiality obligations shall survive for **[CONFIDENTIALITY SURVIVAL PERIOD]** years after the last disclosure of Confidential Information.
+This Agreement remains in effect from the Effective Date until **[NUMBER] [TIME UNIT]**. The confidentiality obligations shall survive for **[NUMBER] [TIME UNIT]** years after the last disclosure of Confidential Information.
 
 ## 9. Remedies
 
@@ -92,7 +89,7 @@ The Receiving Party may not assign its rights or obligations under this Agreemen
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 13. Language
 
@@ -105,19 +102,3 @@ This Agreement represents the entire understanding between the Parties concernin
 ## 15. Counterparts and Signatures
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be considered an original.
-
----
-
-## Signatures
-
-**For Disclosing Party**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For Receiving Party**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**

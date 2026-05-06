@@ -7,22 +7,20 @@ tags:
 seoTitle: "Skabelon til tidsbegrænset ansættelsesaftale"
 seoDescription: "Brug denne tidsbegrænsede ansættelsesaftale til at beskrive løn, kontraktperiode, arbejdsopgaver og vilkår ved ophør."
 ---
-# Ansættelsesaftale (Månedslønnet - tidsbegrænset)
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF EMPLOYEE]**
-- Adresse: **[ADDRESS]**
-- CPR/ID-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Adresse: **[ADRESSE]**
+- CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
@@ -30,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes som **[JOB TITLE]**.
+Medarbejderen ansættes som **[STILLINGSBETEGNELSE]**.
 
 ### 2.2 Ansvarsområder
 
@@ -44,11 +42,11 @@ Medarbejderen skal handle loyalt og i Arbejdsgiverens bedste interesse samt over
 
 ### 3.1 Tidsbegrænset ansættelse
 
-Ansættelsen påbegyndes den **[START DATE]** og ophører automatisk den **[END DATE]** uden yderligere varsel, medmindre den forlænges skriftligt.
+Ansættelsen påbegyndes den **[DATO]** og ophører automatisk den **[DATO]** uden yderligere varsel, medmindre den forlænges skriftligt.
 
 ### 3.2 Begrundelse for tidsbegrænsning (hvis krævet ved lov)
 
-Tidsbegrænsningen er begrundet i **[PROJECT-BASED WORK / TEMPORARY REPLACEMENT / SEASONAL NEED / OTHER OBJECTIVE REASON]**.
+Tidsbegrænsningen er begrundet i **[OBJEKTIV BEGRUNDELSE]**.
 
 ### 3.3 Ingen forventning om forlængelse
 
@@ -62,7 +60,7 @@ Hvis Medarbejderen fortsætter arbejdet efter slutdatoen uden en ny skriftlig af
 
 ### 4.1 Normal arbejdstid
 
-Medarbejderens normale arbejdstid er **[NUMBER]** timer pr. uge.
+Medarbejderens normale arbejdstid er **[NUMMER]** timer pr. uge.
 
 ### 4.2 Merarbejde
 
@@ -72,7 +70,7 @@ Medarbejderen kan være forpligtet til at udføre rimeligt merarbejde i overenss
 
 ### 5.1 Løn
 
-Medarbejderen modtager en fast månedlig bruttoløn på **[AMOUNT]** **[CURRENCY]**.
+Medarbejderen modtager en fast månedlig bruttoløn på **[NUMMER] [VALUTA]**.
 
 ### 5.2 Udbetaling
 
@@ -146,7 +144,7 @@ Arbejdsgiveren behandler personoplysninger om Medarbejderen i overensstemmelse m
 
 ### 13.1 Varsel
 
-Medmindre andet følger af lovgivningen, kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[NOTICE PERIOD]**.
+Medmindre andet følger af lovgivningen, kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[NUMMER] [TIDSENHED]**.
 
 ### 13.2 Ophør med øjeblikkelig virkning
 
@@ -166,7 +164,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 
@@ -184,27 +182,12 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Personalegoder
 
-- Pensionsbidrag: **[DETAILS]**
-- Forsikringsdækning: **[DETAILS]**
-- Bonusstruktur (hvis relevant): **[DETAILS]**
+- Pensionsbidrag: **[BESKRIVELSE]**
+- Forsikringsdækning: **[BESKRIVELSE]**
+- Bonusstruktur (hvis relevant): **[BESKRIVELSE]**
 
 ## Bilag 2: Efteransættelsesrestriktioner (hvis relevant)
 
-- Varighed af konkurrenceklausul: **[PERIOD]**
-- Omfang af kundeklausul: **[SCOPE]**
-- Kompensation (hvis lovpligtig): **[DETAILS]**
-
----
-
-## Underskrifter
-
-**For Arbejdsgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Medarbejderen**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+- Varighed af konkurrenceklausul: **[NUMMER] [TIDSENHED]**
+- Omfang af kundeklausul: **[OMFANG]**
+- Kompensation (hvis lovpligtig): **[BESKRIVELSE]**

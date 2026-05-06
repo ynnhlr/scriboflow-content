@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til købs- og salgsaftale"
 seoDescription: "Brug denne købs- og salgsaftale til at fastlægge pris, overtagelsesmekanik, garantier og centrale forpligtelser mellem køber og sælger."
 ---
-# Købs- og salgsaftale
 
-Denne købs- og salgsaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne købs- og salgsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Sælger**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF SELLER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Køber**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF BUYER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Sælgeren og Køberen benævnes hver en "Part" og samlet "Parterne".
 
@@ -41,7 +38,7 @@ Salget omfatter alene de udtrykkeligt anførte Aktiver. Ingen øvrige aktiver, f
 
 ### 3.1 Pris
 
-Den samlede købesum for Aktiverne er **[AMOUNT]** **[CURRENCY]** ("Købesummen").
+Den samlede købesum for Aktiverne er **[NUMMER] [VALUTA]** ("Købesummen").
 
 ### 3.2 Betaling
 
@@ -57,7 +54,7 @@ Købesummen er eksklusive moms, medmindre andet er angivet.
 
 ### 4.1 Closingdato
 
-Closing finder sted den **[CLOSING DATE]** ("Closingdatoen").
+Closing finder sted den **[DATO]** ("Closingdatoen").
 
 ### 4.2 Dokumenter ved closing
 
@@ -107,7 +104,7 @@ Køberen skal holde Sælgeren skadesløs for tab, der udspringer af misbrug af A
 
 ### 8.3 Frist for krav
 
-Krav skal fremsættes inden **[X months]** efter Closing, medmindre ufravigelig lovgivning bestemmer andet.
+Krav skal fremsættes inden **[NUMMER] måneder** efter Closing, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 9. Ansvarsbegrænsning
 
@@ -127,7 +124,7 @@ Parterne skal behandle Aftalens vilkår fortroligt, medmindre videregivelse kræ
 
 Medmindre andet er aftalt:
 - afholder hver Part egne advokat- og rådgiveromkostninger
-- afholdes overdragelsesskatter eller registreringsafgifter af **[Buyer/Seller/specify]**
+- afholdes overdragelsesskatter eller registreringsafgifter af **[PARTSREFERENCE]**
 
 ## 12. Ophør
 
@@ -141,7 +138,7 @@ Hvis Aftalen ophører før Closing, har ingen af Parterne yderligere forpligtels
 
 ## 13. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 14. Ugyldighed
 
@@ -159,24 +156,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Beskrivelse af aktiver
 
-**[List assets in detail, including serial numbers, specifications, condition, etc.]**
+**[AKTIVBESKRIVELSE]**
 
 ## Bilag 2: Betalingsvilkår (hvis relevant)
 
-**[Installment structure, escrow details, earn-out terms if applicable]**
-
----
-
-## Underskrifter
-
-**For Sælgeren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Køberen**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[BETALINGSBETINGELSER]**

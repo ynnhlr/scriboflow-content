@@ -7,23 +7,20 @@ tags:
 seoTitle: "Service Agreement Template"
 seoDescription: "Use this service agreement template to define scope, service levels, pricing, responsibilities, and termination provisions."
 ---
-# Service Agreement
 
-This Service Agreement (the "Agreement") is entered into on **[EFFECTIVE DATE]** (the "Effective Date").
+This Service Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
 
 ## 1. Parties
 
 **Provider**
-- Full legal name: **[FULL LEGAL NAME OF SERVICE PROVIDER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 **Customer**
-- Full legal name: **[FULL LEGAL NAME OF CUSTOMER]**
-- Entity type: **[COMPANY/INDIVIDUAL]**
+- Full legal name: **[COMPANY NAME]**
 - Registered address: **[ADDRESS]**
-- CVR/ID No.: **[REGISTRATION NUMBER]**
+- CVR/ID No.: **[CVR]**
 
 The Provider and the Customer are each a "Party" and together the "Parties".
 
@@ -51,21 +48,21 @@ This Agreement shall commence on the Effective Date.
 
 The Agreement shall continue:
 - until completion of the Services, or
-- for an initial term of **[X months/years]**, automatically renewing unless terminated in accordance with Section 11
+- for an initial term of **[NUMBER] months/years**, automatically renewing unless terminated in accordance with Section 11
 
 ## 4. Fees and Payment
 
 ### 4.1 Compensation
 
-The Customer shall pay the Provider **[FIXED RECURRING FEE]** or **[HOURLY/PROJECT-BASED FEE]**, as set out in Schedule 1.
+The Customer shall pay the Provider **[NUMBER] [CURRENCY]** or **[NUMBER] [CURRENCY]**, as set out in Schedule 1.
 
 ### 4.2 Invoicing
 
-Invoices shall be issued **[MONTHLY / QUARTERLY / PER MILESTONE]**.
+Invoices shall be issued **[PAYMENT FREQUENCY]**.
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[X days]** from receipt.
+Invoices are payable within **[NUMBER] days** from receipt.
 
 ### 4.4 Late Payment
 
@@ -137,17 +134,17 @@ Neither Party shall be liable for indirect or consequential damages, including l
 
 ### 10.2 Liability Cap
 
-The Provider’s total liability under this Agreement shall not exceed the total fees paid under this Agreement during the preceding **[12 months]**, except in cases of fraud, gross negligence, or wilful misconduct.
+The Provider’s total liability under this Agreement shall not exceed the total fees paid under this Agreement during the preceding **[NUMBER] months**, except in cases of fraud, gross negligence, or wilful misconduct.
 
 ## 11. Termination
 
 ### 11.1 Termination for Convenience
 
-Either Party may terminate this Agreement with **[X days/months]** written notice.
+Either Party may terminate this Agreement with **[NUMBER] days/months** written notice.
 
 ### 11.2 Termination for Cause
 
-Either Party may terminate immediately in case of material breach not remedied within **[X days]** after written notice.
+Either Party may terminate immediately in case of material breach not remedied within **[NUMBER] days** after written notice.
 
 ### 11.3 Effects of Termination
 
@@ -169,7 +166,7 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[CITY, DENMARK]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
 
 ## 16. Entire Agreement
 
@@ -183,23 +180,7 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Services and Fees
 
-- Description of Services: **[Detailed scope]**
-- Deliverables / SLAs (if applicable): **[List deliverables or performance standards]**
-- Fee Structure: **[Details]**
-- Payment Schedule: **[Details]**
-
----
-
-## Signatures
-
-**For the Provider**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
-
-**For the Customer**
-- Name: **[NAME]**
-- Title: **[TITLE]**
-- Signature: ________________________
-- Date: **[DATE]**
+- Description of Services: **[SCOPE]**
+- Deliverables / SLAs (if applicable): **[DELIVERABLES]**
+- Fee Structure: **[DESCRIPTION]**
+- Payment Schedule: **[DESCRIPTION]**

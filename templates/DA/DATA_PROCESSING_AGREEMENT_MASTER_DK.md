@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til databehandleraftale"
 seoDescription: "Brug denne databehandleraftale til at beskrive GDPR-compliant roller, instrukser og sikkerhedsforanstaltninger mellem parterne."
 ---
-# Databehandleraftale (DPA)
 
-Denne databehandleraftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne databehandleraftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Dataansvarlig**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CONTROLLER]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Databehandler**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF PROCESSOR]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Den Dataansvarlige og Databehandleren benævnes hver en "Part" og samlet "Parterne".
 
@@ -103,7 +100,7 @@ Databehandleren må ikke anvende underdatabehandlere uden den Dataansvarliges fo
 
 ### 8.2 Generel godkendelse
 
-Hvor der er givet generel godkendelse, skal Databehandleren informere den Dataansvarlige om planlagte ændringer og give mulighed for indsigelse inden **[X]** dage.
+Hvor der er givet generel godkendelse, skal Databehandleren informere den Dataansvarlige om planlagte ændringer og give mulighed for indsigelse inden **[NUMMER]** dage.
 
 ### 8.3 Videreførte forpligtelser
 
@@ -147,7 +144,7 @@ Bistand kan være betinget af rimeligt vederlag, hvor dette er lovligt.
 
 ### 11.1 Underretning
 
-Databehandleren skal underrette den Dataansvarlige uden unødig forsinkelse og senest **[X]** timer efter at være blevet bekendt med et brud på persondatasikkerheden.
+Databehandleren skal underrette den Dataansvarlige uden unødig forsinkelse og senest **[NUMMER]** timer efter at være blevet bekendt med et brud på persondatasikkerheden.
 
 ### 11.2 Indhold
 
@@ -165,7 +162,7 @@ Databehandleren skal stille de oplysninger til rådighed, som er nødvendige for
 
 ### 12.2 Revision
 
-Den Dataansvarlige kan gennemføre revision med rimeligt varsel, højst **[ONCE PER YEAR]**, medmindre andet er nødvendigt efter lovgivningen eller efter en sikkerhedshændelse.
+Den Dataansvarlige kan gennemføre revision med rimeligt varsel, højst **[FREKVENS]**, medmindre andet er nødvendigt efter lovgivningen eller efter en sikkerhedshændelse.
 
 ## 13. Returnering eller sletning af data
 
@@ -193,7 +190,7 @@ Eventuelle ansvarsbegrænsninger i Hovedaftalen gælder ikke for brud på databe
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og skal fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og skal fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Hele aftalen
 
@@ -207,7 +204,7 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Behandlingsbeskrivelse
 
-- Kategorier af registrerede: **[Customers / Employees / Users / etc.]**
-- Typer af Personoplysninger: **[Names, emails, phone numbers, payment data, etc.]**
-- Formål med behandlingen: **[Describe purpose]**
-- Opbevaringsperiode: **[Specify period]**
+- Kategorier af registrerede: **[REGISTREREDE]**
+- Typer af Personoplysninger: **[NAVNE, E-MAILS, TELEFONNUMRE, BETALINGSDATA, MV.]**
+- Formål med behandlingen: **[FORMÅL]**
+- Opbevaringsperiode: **[NUMMER] [TIDSENHED]**

@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til eksklusiv licensaftale"
 seoDescription: "Brug denne eksklusive licensaftale til at fastlægge omfang, royalties, begrænsninger og ophør for en eksklusiv licens."
 ---
-# Eksklusiv licensaftale
 
-Denne eksklusive licensaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne eksklusive licensaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Licensgiver**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LICENSOR]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Licenstager**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LICENSEE]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Licensgiveren og Licenstageren benævnes hver en "Part" og samlet "Parterne".
 
@@ -37,14 +34,14 @@ Alle rettigheder, der ikke udtrykkeligt er tildelt, forbeholdes Licensgiveren.
 
 ## 3. Licenseret materiale
 
-"Licenseret materiale" betyder **[DESCRIPTION OF IP / RIGHTS / MATERIAL]**, herunder tilhørende dokumentation, opdateringer eller forbedringer, som udtrykkeligt stilles til rådighed af Licensgiveren.
+"Licenseret materiale" betyder **[IP-BESKRIVELSE]**, herunder tilhørende dokumentation, opdateringer eller forbedringer, som udtrykkeligt stilles til rådighed af Licensgiveren.
 
 ## 4. Anvendelsesområde
 
 Den eksklusive licens, der tildeles i henhold til Aftalen, er begrænset til:
-- Tilladt brug: **[PERMITTED USE]**
-- Territorium: **[TERRITORY]**
-- Anvendelsesfelt (hvis relevant): **[FIELD OF USE]**
+- Tilladt brug: **[FORMÅL]**
+- Territorium: **[OMRÅDE]**
+- Anvendelsesfelt (hvis relevant): **[OMFANG]**
 
 Enhver brug uden for dette Anvendelsesområde udgør væsentlig misligholdelse af Aftalen.
 
@@ -63,14 +60,14 @@ Ejerskabet til det Licenserede materiale forbliver til enhver tid hos Licensgive
 ## 7. Vederlag og betaling
 
 Som modydelse for den eksklusive licens skal Licenstageren betale Licensgiveren:
-- Licensafgift / royalty: **[AMOUNT OR STRUCTURE]**
-- Betalingsplan: **[PAYMENT TERMS]**
+- Licensafgift / royalty: **[NUMMER] [VALUTA]**
+- Betalingsplan: **[BETALINGSBETINGELSER]**
 
-Alle betalinger skal ske i **[CURRENCY]** og er eksklusive gældende skatter og afgifter, medmindre andet er angivet.
+Alle betalinger skal ske i **[VALUTA]** og er eksklusive gældende skatter og afgifter, medmindre andet er angivet.
 
 ## 8. Resultatforpligtelser
 
-Licenstageren forpligter sig til at anvende kommercielt rimelige bestræbelser på at udnytte det Licenserede materiale i overensstemmelse med Aftalens formål. Minimumskrav til præstation (hvis relevant): **[PERFORMANCE REQUIREMENTS OR "NONE"]**. Manglende opfyldelse af sådanne krav kan medføre ændring af licensen til ikke-eksklusiv eller ophør.
+Licenstageren forpligter sig til at anvende kommercielt rimelige bestræbelser på at udnytte det Licenserede materiale i overensstemmelse med Aftalens formål. Minimumskrav til præstation (hvis relevant): **[YDELSESKRAV]**. Manglende opfyldelse af sådanne krav kan medføre ændring af licensen til ikke-eksklusiv eller ophør.
 
 ## 9. Fortrolighed
 
@@ -82,12 +79,12 @@ Licensgiveren garanterer at have bemyndigelse til at tildele den eksklusive lice
 
 ## 11. Ansvarsbegrænsning
 
-I det maksimale omfang, dansk ret tillader, er ingen af Parterne ansvarlige for indirekte tab eller følgeskader. Licensgiverens samlede ansvar efter Aftalen kan ikke overstige **[LIABILITY CAP]**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
+I det maksimale omfang, dansk ret tillader, er ingen af Parterne ansvarlige for indirekte tab eller følgeskader. Licensgiverens samlede ansvar efter Aftalen kan ikke overstige **[NUMMER] [VALUTA]**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
 
 ## 12. Løbetid og ophør
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i **[TERM]**, medmindre den ophører tidligere. Hver Part kan ophøre Aftalen:
-- ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMBER]** dage efter skriftligt påkrav
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i **[NUMMER] [TIDSENHED]**, medmindre den ophører tidligere. Hver Part kan ophøre Aftalen:
+- ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER]** dage efter skriftligt påkrav
 - med øjeblikkelig virkning ved den anden Parts insolvens eller ophør af virksomhed
 
 Ved ophør skal Licenstageren straks ophøre enhver brug af det Licenserede materiale.
@@ -106,7 +103,7 @@ Licenstageren må ikke overdrage eller videreføre Aftalen uden Licensgiverens f
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Sprog
 
@@ -119,19 +116,3 @@ Aftalen udgør Parternes samlede aftale og erstatter alle tidligere aftaler elle
 ## 18. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
-
----
-
-## Underskrifter
-
-**For Licensgiveren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Licenstageren**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**

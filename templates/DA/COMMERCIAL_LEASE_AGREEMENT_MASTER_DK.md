@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til erhvervslejekontrakt"
 seoDescription: "Brug denne skabelon til erhvervslejekontrakt til at fastlægge leje, løbetid, anvendelse og centrale forpligtelser."
 ---
-# Erhvervslejekontrakt
 
-Denne erhvervslejekontrakt ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne erhvervslejekontrakt ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Udlejer**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF LANDLORD]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Lejer**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF TENANT]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 Udlejer og Lejer benævnes hver en "Part" og samlet "Parterne".
 
@@ -31,12 +28,12 @@ Udlejer og Lejer benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Lejemålet
 
-Udlejer udlejer til Lejer de lokaler, der er beliggende på **[FULL ADDRESS + DESCRIPTION]** ("Lejemålet").
+Udlejer udlejer til Lejer de lokaler, der er beliggende på **[ADRESSE]** ("Lejemålet").
 
 ### 2.2 Omfattede arealer
 
 Lejemålet omfatter:
-- **[Office space / storage / parking spaces / etc.]**
+- **[LOKALETYPE]**
 
 Yderligere beskrivelse fremgår af Bilag 1.
 
@@ -44,7 +41,7 @@ Yderligere beskrivelse fremgår af Bilag 1.
 
 ### 3.1 Tilladt anvendelse
 
-Lejemålet må alene anvendes til **[Describe permitted business activity]**.
+Lejemålet må alene anvendes til **[FORRETNINGSAKTIVITETER]**.
 
 ### 3.2 Lovlig anvendelse
 
@@ -54,11 +51,11 @@ Lejer må ikke anvende Lejemålet til ulovlige formål eller i strid med plan- o
 
 ### 4.1 Start
 
-Lejeperioden begynder den **[START DATE]**.
+Lejeperioden begynder den **[DATO]**.
 
 ### 4.2 Fast løbetid
 
-Lejemålet løber i en fast periode på **[X years]** og udløber den **[END DATE]**, medmindre det ophører tidligere i henhold til denne Aftale.
+Lejemålet løber i en fast periode på **[NUMMER] år** og udløber den **[DATO]**, medmindre det ophører tidligere i henhold til denne Aftale.
 
 ### 4.3 Fortsættelse
 
@@ -68,23 +65,23 @@ Hvis der ikke gives opsigelse, kan lejemålet fortsætte løbende i overensstemm
 
 ### 5.1 Lejebeløb
 
-Den årlige leje udgør **[AMOUNT]** **[CURRENCY]**, der betales i **[MONTHLY/QUARTERLY]** rater.
+Den årlige leje udgør **[NUMMER] [VALUTA]**, der betales i **[FREKVENS]** rater.
 
 ### 5.2 Forfald
 
-Lejen betales forud senest den **[DATE]** i hver betalingsperiode.
+Lejen betales forud senest den **[DATO]** i hver betalingsperiode.
 
 ### 5.3 Betalingsoplysninger
 
 Betaling skal ske til:
-- Bank: **[Bank Name]**
+- Bank: **[BANKNAVN]**
 - IBAN: **[IBAN]**
 
 ## 6. Lejeregulering
 
 ### 6.1 Indeksering
 
-Lejen reguleres årligt på baggrund af **[Net Price Index (NPI) / other agreed index]**.
+Lejen reguleres årligt på baggrund af **[NETTOPRISINDEKS (NPI) / ANDET AFTALT INDEKS]**.
 
 ### 6.2 Ingen nedregulering
 
@@ -108,7 +105,7 @@ Detaljer fremgår af Bilag 2.
 
 ### 8.1 Depositum
 
-Lejer indbetaler et depositum på **[AMOUNT]** **[CURRENCY]**, svarende til **[X months’]** leje.
+Lejer indbetaler et depositum på **[NUMMER] [VALUTA]**, svarende til **[NUMMER] måneder** leje.
 
 ### 8.2 Anvendelse
 
@@ -163,7 +160,7 @@ Samtykke må ikke nægtes usagligt, medmindre andet er tilladt efter loven.
 ### 13.1 Misligholdelsesgrunde
 
 Lejer er i misligholdelse, hvis:
-- leje er forfalden i mere end **[X days]**
+- leje er forfalden i mere end **[NUMMER] dage**
 - væsentlig misligholdelse foreligger
 
 ### 13.2 Beføjelser
@@ -192,7 +189,7 @@ Ingen af Parterne er ansvarlige for manglende opfyldelse som følge af forhold u
 
 ## 16. Lovvalg og værneting
 
-Denne Aftale er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist afgøres ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lejelovgivning bestemmer andet.
+Denne Aftale er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist afgøres ved domstolene i **[LOKATION]**, medmindre ufravigelig lejelovgivning bestemmer andet.
 
 ## 17. Hele aftalen
 
@@ -206,22 +203,8 @@ Denne Aftale kan underskrives i flere eksemplarer og ved elektronisk underskrift
 
 ## Bilag 1: Beskrivelse af lejemålet
 
-**[Detailed floor plan / square meters / attachments]**
+**[BESKRIVELSE]**
 
 ## Bilag 2: Driftsomkostninger
 
-**[List of recoverable costs and allocation method]**
-
----
-
-## Underskrifter
-
-**For Udlejer**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Lejer**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[OMKOSTNINGSFORDELING]**

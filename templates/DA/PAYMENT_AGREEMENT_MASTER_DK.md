@@ -7,23 +7,20 @@ tags:
 seoTitle: "Skabelon til betalingsaftale"
 seoDescription: "Brug denne betalingsaftale til at dokumentere afdrag, betalingsfrister og konsekvenser, hvis skyldner ikke betaler."
 ---
-# Betalingsaftale
 
-Denne betalingsaftale ("Aftalen") er indgået den **[EFFECTIVE DATE]** ("Ikrafttrædelsesdatoen").
+Denne betalingsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kreditor**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF CREDITOR]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr.: **[REGISTRATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr.: **[CVR]**
 
 **Debitor**
-- Fulde juridiske navn: **[FULL LEGAL NAME OF DEBTOR]**
-- Enhedstype: **[COMPANY/INDIVIDUAL]**
-- Registreret adresse: **[ADDRESS]**
-- CVR/ID-nr. / CPR-nr.: **[IDENTIFICATION NUMBER]**
+- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
+- Registreret adresse: **[ADRESSE]**
+- CVR/ID-nr. / CPR-nr.: **[CVR]**
 
 Kreditor og Debitor benævnes hver en "Part" og samlet "Parterne".
 
@@ -31,11 +28,11 @@ Kreditor og Debitor benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Restgæld
 
-Debitor anerkender at skylde Kreditor **[AMOUNT]** **[CURRENCY]** ("Restgælden").
+Debitor anerkender at skylde Kreditor **[NUMMER] [VALUTA]** ("Restgælden").
 
 ### 2.2 Grundlag for gælden
 
-Restgælden udspringer af **[Describe underlying agreement, invoice numbers, or basis of debt]**.
+Restgælden udspringer af **[BESKRIVELSE]**.
 
 ### 2.3 Afdragsordning
 
@@ -46,26 +43,26 @@ Parterne ønsker at etablere en struktureret afdragsordning.
 ### 3.1 Betalingsplan
 
 Debitor skal betale Restgælden som følger:
-- **[Installment 1 – Amount – Due Date]**
-- **[Installment 2 – Amount – Due Date]**
-- **[Installment 3 – Amount – Due Date]**
+- **[NUMMER] [VALUTA] forfalder [DATO]**
+- **[NUMMER] [VALUTA] forfalder [DATO]**
+- **[NUMMER] [VALUTA] forfalder [DATO]**
 
 ELLER
 
-- **[Monthly installments of AMOUNT starting DATE]**
+- **[NUMMER] [VALUTA] med start [DATO]**
 
 ### 3.2 Betalingskonto
 
 Betaling skal ske til følgende bankkonto:
-- Bank: **[Bank Name]**
+- Bank: **[BANKNAVN]**
 - IBAN: **[IBAN]**
-- Reference: **[Reference]**
+- Reference: **[REFERENCE]**
 
 ## 4. Renter
 
 ### 4.1 Rentesats
 
-Renter løber med **[STATUTORY INTEREST RATE / AGREED INTEREST RATE % PER ANNUM]** fra **[DATE]** og indtil fuld betaling.
+Renter løber med **[NUMMER]% årligt** fra **[DATO]** og indtil fuld betaling.
 
 ### 4.2 Lovbestemt rente
 
@@ -79,7 +76,7 @@ Debitor kan til enhver tid indfri Restgælden helt uden gebyr, medmindre andet e
 
 ### 6.1 Misligholdelse
 
-Debitor er i misligholdelse, hvis et afdrag ikke betales inden **[X days]** efter forfaldsdato.
+Debitor er i misligholdelse, hvis et afdrag ikke betales inden **[NUMMER] dage** efter forfaldsdato.
 
 ### 6.2 Beføjelser
 
@@ -99,9 +96,9 @@ Hvis Kreditor undlader at håndhæve en bestemmelse, udgør dette ikke afkald p�
 ## 8. Sikkerhed (valgfrit)
 
 Som sikkerhed for betaling stiller Debitor:
-- **[Personal guarantee]**
-- **[Collateral description]**
-- **[Other security arrangement]**
+- **[PERSONLIG KAUTION]**
+- **[BESKRIVELSE]**
+- **[ANDEN SIKKERHED]**
 
 Detaljer fremgår af Bilag 1, hvis relevant.
 
@@ -115,7 +112,7 @@ Parterne skal holde Aftalens vilkår fortrolige, medmindre videregivelse kræves
 
 ## 11. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[CITY, DENMARK]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 12. Hele aftalen
 
@@ -129,19 +126,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Sikkerhed (hvis relevant)
 
-**[Details of collateral, guarantees, or other security arrangements]**
-
----
-
-## Underskrifter
-
-**For Kreditor**
-- Navn: **[NAME]**
-- Titel: **[TITLE]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
-
-**For Debitor**
-- Navn: **[NAME]**
-- Underskrift: ________________________
-- Dato: **[DATE]**
+**[BESKRIVELSE]**
