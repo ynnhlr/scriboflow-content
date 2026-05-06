@@ -8,18 +8,18 @@ seoTitle: "Hourly Employment Agreement Template"
 seoDescription: "Use this hourly employment agreement template to document pay rate, working time, overtime, and employee obligations."
 ---
 
-This Employment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Employment Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Employer**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Employee**
-- Full legal name: **[COMPANY NAME]**
-- Address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Address: **[Address]**
 - CPR/ID No.: **[CVR]**
 
 The Employer and the Employee are each a "Party" and together the "Parties".
@@ -28,7 +28,7 @@ The Employer and the Employee are each a "Party" and together the "Parties".
 
 ### 2.1 Position
 
-The Employee is employed in the position of **[JOB TITLE]**.
+The Employee is employed in the position of **[Job title]**.
 
 ### 2.2 Duties
 
@@ -42,11 +42,11 @@ The Employee shall perform duties loyally, diligently, and in the best interests
 
 ### 3.1 Start Date
 
-Employment commences on **[DATE]**.
+Employment commences on **[Date]**.
 
 ### 3.2 Duration
 
-The employment is **[TERM TYPE] until [DATE]**. No minimum number of working hours is guaranteed unless expressly stated in this Agreement.
+The employment is **[Term type] until [Date]**. No minimum number of working hours is guaranteed unless expressly stated in this Agreement.
 
 ## 4. Working Hours
 
@@ -66,11 +66,11 @@ Unless otherwise agreed, the Employer is not obliged to offer a minimum number o
 
 ### 5.1 Hourly Wage
 
-The Employee shall receive an hourly wage of **[NUMBER] [CURRENCY]** before tax.
+The Employee shall receive an hourly wage of **[Number] [Currency]** before tax.
 
 ### 5.2 Payment
 
-Wages shall be paid **[FREQUENCY]** in arrears to the Employee’s designated bank account.
+Wages shall be paid **[Number]** in arrears to the Employee’s designated bank account.
 
 ### 5.3 Overtime
 
@@ -132,7 +132,7 @@ Any equipment, documents, or materials provided by the Employer remain the Emplo
 
 ### 12.1 Notice
 
-Either Party may terminate this Agreement with **[NUMBER] [TIME UNIT]** written notice, unless otherwise required by mandatory law.
+Either Party may terminate this Agreement with **[Number] [Time unit]** written notice, unless otherwise required by mandatory law.
 
 ### 12.2 Immediate Termination
 
@@ -156,7 +156,7 @@ The Employee may not assign rights or obligations under this Agreement. The Empl
 
 ## 16. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 17. Language
 

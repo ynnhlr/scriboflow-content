@@ -8,25 +8,25 @@ seoTitle: "Skabelon til ensidig fortrolighedsaftale"
 seoDescription: "Brug denne ensidige fortrolighedsaftale til at beskytte fortrolige oplysninger, når kun den ene part deler følsomme forretnings- eller tekniske oplysninger."
 ---
 
-Denne ensidige fortrolighedsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne ensidige fortrolighedsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Videregivende Part**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Modtagende Part**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Den Videregivende Part og den Modtagende Part benævnes samlet "Parterne".
 
 ## 2. Formål
 
-Den Videregivende Part accepterer at videregive visse fortrolige og proprietære oplysninger til den Modtagende Part alene med henblik på **[FORMÅL]** ("Formålet").
+Den Videregivende Part accepterer at videregive visse fortrolige og proprietære oplysninger til den Modtagende Part alene med henblik på **[Formål]** ("Formålet").
 
 ## 3. Definition af fortrolige oplysninger
 
@@ -73,7 +73,7 @@ Den Modtagende Part må kun opbevare kopier i det omfang, gældende lovgivning k
 
 ## 8. Fortrolighedens varighed
 
-Aftalen er gældende fra Ikrafttrædelsesdatoen til **[NUMMER] [TIDSENHED]**. Fortrolighedsforpligtelserne består i **[NUMMER] [TIDSENHED]** år efter sidste videregivelse af Fortrolige oplysninger.
+Aftalen er gældende fra Ikrafttrædelsesdatoen til **[Nummer] [Tidsenhed]**. Fortrolighedsforpligtelserne består i **[Nummer] [Tidsenhed]** år efter sidste videregivelse af Fortrolige oplysninger.
 
 ## 9. Retsmidler
 
@@ -89,7 +89,7 @@ Den Modtagende Part må ikke overdrage rettigheder eller forpligtelser efter Aft
 
 ## 12. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 13. Sprog
 

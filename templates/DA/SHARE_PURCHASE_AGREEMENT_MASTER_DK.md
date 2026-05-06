@@ -8,18 +8,18 @@ seoTitle: "Skabelon til aktieoverdragelsesaftale"
 seoDescription: "Brug denne aktieoverdragelsesaftale til at fastlægge købesum, gennemførelsestrin, garantier og forpligtelser efter closing."
 ---
 
-Denne aktieoverdragelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne aktieoverdragelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Sælger**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr. / CPR-nr.: **[CVR]**
 
 **Køber**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr. / CPR-nr.: **[CVR]**
 
 Sælgeren og Køberen benævnes hver en "Part" og samlet "Parterne".
@@ -38,7 +38,7 @@ Køberen ønsker at købe disse aktier på de vilkår, der fremgår af Aftalen.
 
 ### 3.1 Salg
 
-Sælgeren accepterer at sælge og overdrage til Køberen **[NUMMER]** aktier i **[VIRKSOMHEDSNAVN]**, svarende til **[NUMMER]%** af selskabskapitalen ("Aktierne").
+Sælgeren accepterer at sælge og overdrage til Køberen **[Nummer]** aktier i **[Virksomhedsnavn]**, svarende til **[Nummer]%** af selskabskapitalen ("Aktierne").
 
 ### 3.2 Adkomst
 
@@ -48,7 +48,7 @@ Aktierne sælges fri for pant, byrder og tredjemandsrettigheder, medmindre andet
 
 ### 4.1 Pris
 
-Den samlede købesum for Aktierne er **[NUMMER] [VALUTA]** ("Købesummen").
+Den samlede købesum for Aktierne er **[Nummer] [Valuta]** ("Købesummen").
 
 ### 4.2 Betaling
 
@@ -64,7 +64,7 @@ Betaling skal ske til Sælgerens anviste bankkonto.
 
 ### 5.1 Closingdato
 
-Closing finder sted den **[DATO]** ("Closingdatoen").
+Closing finder sted den **[Dato]** ("Closingdatoen").
 
 ### 5.2 Dokumenter ved closing
 
@@ -97,7 +97,7 @@ Sælgeren skal holde Køberen skadesløs for tab, der udspringer af brud på Sæ
 
 ### 8.2 Frist for krav
 
-Krav skal meddeles inden **[NUMMER] måneder** efter Closing.
+Krav skal meddeles inden **[Nummer] måneder** efter Closing.
 
 ### 8.3 Ansvarsloft
 
@@ -119,7 +119,7 @@ Parterne skal holde alle ikke-offentlige oplysninger vedrørende transaktionen f
 
 ## 11. Konkurrenceklausul (valgfrit)
 
-Sælgeren forpligter sig til ikke at konkurrere med Selskabet i **[NUMMER] måneder/år** inden for **[OMRÅDE]**, med forbehold for gældende lovgivning.
+Sælgeren forpligter sig til ikke at konkurrere med Selskabet i **[Nummer] måneder/år** inden for **[Område]**, med forbehold for gældende lovgivning.
 
 ## 12. Skatter og omkostninger
 
@@ -129,7 +129,7 @@ Hver Part afholder egne omkostninger ved transaktionen.
 
 ### 12.2 Overdragelsesskatter
 
-Eventuelle overdragelsesskatter afholdes af **[PARTSREFERENCE]**, medmindre andet følger af lovgivningen.
+Eventuelle overdragelsesskatter afholdes af **[Partsreference]**, medmindre andet følger af lovgivningen.
 
 ## 13. Ophør
 
@@ -143,7 +143,7 @@ Hvis Aftalen ophører før Closing, har ingen af Parterne yderligere forpligtels
 
 ## 14. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 15. Ugyldighed
 
@@ -161,8 +161,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Oplysningsbilag
 
-**[UNDTAGELSER]**
+**[Undtagelser]**
 
 ## Bilag 2: Betalingsstruktur (hvis relevant)
 
-**[BETALINGSBETINGELSER]**
+**[Betalingsbetingelser]**

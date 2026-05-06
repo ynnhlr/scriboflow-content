@@ -8,32 +8,32 @@ seoTitle: "Skabelon til hensigtserklæring"
 seoDescription: "Brug denne hensigtserklæring til at samle hovedpunkter, samarbejdshensigt og en ikke-bindende ramme før en endelig aftale."
 ---
 
-Denne hensigtserklæring ("MoU") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne hensigtserklæring ("MoU") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Part A**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Part B**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Part A og Part B benævnes hver en "Part" og samlet "Parterne".
 
 ## 2. Formål
 
-Parterne ønsker at undersøge et muligt samarbejde om **[PROJEKTBESKRIVELSE]**. Denne MoU beskriver Parternes overordnede hensigter.
+Parterne ønsker at undersøge et muligt samarbejde om **[Projektbeskrivelse]**. Denne MoU beskriver Parternes overordnede hensigter.
 
 ## 3. Samarbejdets omfang
 
 Parterne har til hensigt at:
-- **[FORRETNINGSAKTIVITETER]**
-- **[ANSVAR]**
-- **[BIDRAG]**
+- **[Forretningsaktiviteter]**
+- **[Ansvar]**
+- **[Bidrag]**
 
 Eventuelle detaljerede forpligtelser forudsætter en særskilt endelig aftale.
 
@@ -42,19 +42,19 @@ Eventuelle detaljerede forpligtelser forudsætter en særskilt endelig aftale.
 ### 4.1 Part A
 
 Part A har til hensigt at:
-- **[ANSVAR]**
+- **[Ansvar]**
 
 ### 4.2 Part B
 
 Part B har til hensigt at:
-- **[ANSVAR]**
+- **[Ansvar]**
 
 ## 5. Tidsplan
 
 Parterne forventer følgende tidsplan:
-- Indledende drøftelser: **[DATO]**
-- Udkast til aftale: **[DATO]**
-- Forventet opstart: **[DATO]**
+- Indledende drøftelser: **[Dato]**
+- Udkast til aftale: **[Dato]**
+- Forventet opstart: **[Dato]**
 
 Datoerne er vejledende og ikke-bindende.
 
@@ -86,7 +86,7 @@ Ingen Part er forpligtet til at gennemføre det påtænkte samarbejde, medmindre
 
 ## 9. Eksklusivitet (valgfrit - bindende)
 
-I en periode på **[NUMMER] måneder** er Parterne enige om ikke at forhandle tilsvarende samarbejder med tredjemand uden fælles samtykke.
+I en periode på **[Nummer] måneder** er Parterne enige om ikke at forhandle tilsvarende samarbejder med tredjemand uden fælles samtykke.
 
 ## 10. Løbetid og ophør
 
@@ -96,7 +96,7 @@ Denne MoU forbliver gældende indtil:
 
 ## 11. Lovvalg og værneting (bindende)
 
-Denne MoU er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af de bindende bestemmelser i denne MoU, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**.
+Denne MoU er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af de bindende bestemmelser i denne MoU, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**.
 
 ## 12. Hele forståelsen
 

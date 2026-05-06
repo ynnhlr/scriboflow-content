@@ -12,9 +12,9 @@ Disse generelle salgs- og leveringsbetingelser ("Vilkår") gælder for alle tilb
 
 ## 1. Oplysninger om Leverandøren
 
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 Disse Vilkår regulerer alt salg til kunder ("Kunden"), medmindre andet er skriftligt aftalt.
@@ -51,11 +51,11 @@ Leverandøren forbeholder sig retten til at afvise ordrer uden begrundelse.
 
 ### 4.1 Priser
 
-Alle priser er angivet i **[VALUTA]** og er eksklusive moms og andre gældende afgifter, medmindre andet er angivet.
+Alle priser er angivet i **[Valuta]** og er eksklusive moms og andre gældende afgifter, medmindre andet er angivet.
 
 ### 4.2 Betalingsbetingelser
 
-Fakturaer forfalder til betaling **[NUMMER] dage** fra fakturadato, medmindre andet er aftalt.
+Fakturaer forfalder til betaling **[Nummer] dage** fra fakturadato, medmindre andet er aftalt.
 
 ### 4.3 Forsinket betaling
 
@@ -76,7 +76,7 @@ Leveringstider er vejledende, medmindre de udtrykkeligt er aftalt som bindende.
 
 ### 5.2 Leveringsvilkår
 
-Levering sker **[INCOTERM] [LOKATION]**, medmindre andet er aftalt.
+Levering sker **[INCOTERM] [Lokation]**, medmindre andet er aftalt.
 
 ### 5.3 Delleverancer
 
@@ -108,7 +108,7 @@ Kunden skal undersøge varerne straks ved levering.
 
 ### 7.2 Reklamationsfrist
 
-Reklamationer skal fremsættes skriftligt inden for **[NUMMER] dage** fra levering.
+Reklamationer skal fremsættes skriftligt inden for **[Nummer] dage** fra levering.
 
 ### 7.3 Accept
 
@@ -195,7 +195,7 @@ Kunden kan ikke overdrage rettigheder eller forpligtelser uden forudgående skri
 
 ## 15. Lovvalg og værneting
 
-Disse Vilkår er underlagt og skal fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Enhver tvist skal afgøres ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Disse Vilkår er underlagt og skal fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Enhver tvist skal afgøres ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Delvis ugyldighed
 

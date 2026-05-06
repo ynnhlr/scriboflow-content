@@ -8,13 +8,13 @@ seoTitle: "Partnership Agreement Template"
 seoDescription: "Use this partnership agreement template to define contributions, profit sharing, decision-making, and exit rules between partners."
 ---
 
-This Partnership Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Partnership Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 The following persons/entities (each a "Partner" and together the "Partners"):
-- **[COMPANY NAME]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[CVR]**
-- **[COMPANY NAME]**, residing at / registered at **[ADDRESS]**, CPR/CVR No.: **[CVR]**
+- **[Company name]**, residing at / registered at **[Address]**, CPR/CVR No.: **[CVR]**
+- **[Company name]**, residing at / registered at **[Address]**, CPR/CVR No.: **[CVR]**
 
 Additional Partners may be listed in Schedule 1.
 
@@ -22,7 +22,7 @@ Additional Partners may be listed in Schedule 1.
 
 ### 2.1 Formation
 
-The Partners hereby form a partnership under the name **[PARTNERSHIP NAME]** (the "Partnership").
+The Partners hereby form a partnership under the name **[Partnership name]** (the "Partnership").
 
 ### 2.2 Commencement
 
@@ -30,15 +30,15 @@ The Partnership shall commence on the Effective Date.
 
 ## 3. Purpose
 
-The purpose of the Partnership is **[BUSINESS ACTIVITIES]** and related lawful activities.
+The purpose of the Partnership is **[Business activities]** and related lawful activities.
 
 ## 4. Contributions
 
 ### 4.1 Contributions
 
 Each Partner shall contribute the following:
-- Partner 1: **[CONSIDERATION TYPE]**
-- Partner 2: **[CONSIDERATION TYPE]**
+- Partner 1: **[Consideration type]**
+- Partner 2: **[Consideration type]**
 
 ### 4.2 Ownership
 
@@ -49,8 +49,8 @@ Contributions and ownership percentages are set out in Schedule 1.
 ### 5.1 Sharing
 
 Profits and losses shall be shared as follows:
-- Partner 1: **[NUMBER]%**
-- Partner 2: **[NUMBER]%**
+- Partner 1: **[Number]%**
+- Partner 2: **[Number]%**
 
 ### 5.2 Distributions
 
@@ -66,7 +66,7 @@ Each Partner has equal rights in management unless otherwise agreed.
 
 The following decisions require unanimous approval:
 - admission of new Partners
-- incurrence of debt exceeding **[NUMBER] [CURRENCY]**
+- incurrence of debt exceeding **[Number] [Currency]**
 - sale of material assets
 - dissolution of the Partnership
 
@@ -100,7 +100,7 @@ Proper accounting records shall be maintained.
 
 ### 9.3 Financial Year
 
-The financial year runs from **[DATE]** to **[DATE]**.
+The financial year runs from **[Date]** to **[Date]**.
 
 ## 10. Admission of New Partners
 
@@ -110,13 +110,13 @@ New Partners may only be admitted by unanimous consent. Terms of admission shall
 
 ### 11.1 Notice
 
-A Partner may withdraw by giving **[NUMBER] months** written notice.
+A Partner may withdraw by giving **[Number] months** written notice.
 
 ### 11.2 Buyout
 
 The remaining Partners may purchase the withdrawing Partner’s interest at fair market value determined by:
-- **[VALUATION METHOD]**, or
-- **[VALUATION METHOD]**
+- **[Valuation method]**, or
+- **[Valuation method]**
 
 ## 12. Death or Incapacity
 
@@ -153,11 +153,11 @@ Partners shall first attempt to resolve disputes through negotiation.
 
 ### 16.2 Mediation
 
-If unresolved within **[NUMBER] days**, the dispute shall be referred to mediation before court proceedings.
+If unresolved within **[Number] days**, the dispute shall be referred to mediation before court proceedings.
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -171,4 +171,4 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Contributions and Ownership
 
-**[OWNERSHIP STRUCTURE]**
+**[Ownership structure]**

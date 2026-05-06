@@ -8,18 +8,18 @@ seoTitle: "Skabelon til konsignationsaftale"
 seoDescription: "Brug denne konsignationsaftale til at fastlægge ejerskab, videresalgsvilkår, rapportering og betaling for varer i konsignation."
 ---
 
-Denne konsignationsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne konsignationsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Konsignant**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Konsignatar**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Konsignant og Konsignatar benævnes hver en "Part" og samlet "Parterne".
@@ -70,7 +70,7 @@ Konsignatar må ikke pantsætte, overdrage, udleje eller på anden måde belaste
 
 ### 6.1 Salgsrapporter
 
-Konsignatar skal afgive skriftlige salgsrapporter med **[FREKVENS]** intervaller med oplysninger om:
+Konsignatar skal afgive skriftlige salgsrapporter med **[Nummer]** intervaller med oplysninger om:
 - solgte enheder
 - salgspriser
 - returneringer
@@ -84,11 +84,11 @@ Konsignant kan med rimeligt varsel kontrollere dokumentation vedrørende Konsign
 
 ### 7.1 Provision
 
-Konsignatar er berettiget til provision på **[NUMMER]% / [NUMMER] [VALUTA]** pr. solgt enhed som angivet i Bilag 1.
+Konsignatar er berettiget til provision på **[Nummer]% / [Nummer] [Valuta]** pr. solgt enhed som angivet i Bilag 1.
 
 ### 7.2 Afregning
 
-Betaling af beløb til Konsignant skal ske senest **[NUMMER]** dage efter udløbet af hver rapporteringsperiode.
+Betaling af beløb til Konsignant skal ske senest **[Nummer]** dage efter udløbet af hver rapporteringsperiode.
 
 ### 7.3 Optjening af provision
 
@@ -106,7 +106,7 @@ Kunderetur håndteres i overensstemmelse med Bilag 3. Returnerede varer forblive
 
 ### 8.2 Usolgte varer
 
-Ved ophør eller skriftligt krav skal usolgte Konsignationsvarer returneres til Konsignant inden **[NUMMER]** dage for Konsignatars regning i rimelig salgbar stand.
+Ved ophør eller skriftligt krav skal usolgte Konsignationsvarer returneres til Konsignant inden **[Nummer]** dage for Konsignatars regning i rimelig salgbar stand.
 
 ## 9. Omsorg, forsikring og compliance
 
@@ -134,7 +134,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber, indtil den opsiges
 
 ### 11.2 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[NUMMER]** dages skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer]** dages skriftligt varsel.
 
 ### 11.3 Øjeblikkelig ophævelse
 
@@ -160,7 +160,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, u
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Enhver tvist afgøres ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Enhver tvist afgøres ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Sprog
 

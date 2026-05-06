@@ -8,18 +8,18 @@ seoTitle: "Skabelon til betalingsaftale"
 seoDescription: "Brug denne betalingsaftale til at dokumentere afdrag, betalingsfrister og konsekvenser, hvis skyldner ikke betaler."
 ---
 
-Denne betalingsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne betalingsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kreditor**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Debitor**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr. / CPR-nr.: **[CVR]**
 
 Kreditor og Debitor benævnes hver en "Part" og samlet "Parterne".
@@ -28,11 +28,11 @@ Kreditor og Debitor benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Restgæld
 
-Debitor anerkender at skylde Kreditor **[NUMMER] [VALUTA]** ("Restgælden").
+Debitor anerkender at skylde Kreditor **[Nummer] [Valuta]** ("Restgælden").
 
 ### 2.2 Grundlag for gælden
 
-Restgælden udspringer af **[BESKRIVELSE]**.
+Restgælden udspringer af **[Beskrivelse]**.
 
 ### 2.3 Afdragsordning
 
@@ -43,26 +43,26 @@ Parterne ønsker at etablere en struktureret afdragsordning.
 ### 3.1 Betalingsplan
 
 Debitor skal betale Restgælden som følger:
-- **[NUMMER] [VALUTA] forfalder [DATO]**
-- **[NUMMER] [VALUTA] forfalder [DATO]**
-- **[NUMMER] [VALUTA] forfalder [DATO]**
+- **[Nummer] [Valuta] forfalder [Dato]**
+- **[Nummer] [Valuta] forfalder [Dato]**
+- **[Nummer] [Valuta] forfalder [Dato]**
 
 ELLER
 
-- **[NUMMER] [VALUTA] med start [DATO]**
+- **[Nummer] [Valuta] med start [Dato]**
 
 ### 3.2 Betalingskonto
 
 Betaling skal ske til følgende bankkonto:
-- Bank: **[BANKNAVN]**
+- Bank: **[Banknavn]**
 - IBAN: **[IBAN]**
-- Reference: **[REFERENCE]**
+- Reference: **[Reference]**
 
 ## 4. Renter
 
 ### 4.1 Rentesats
 
-Renter løber med **[NUMMER]% årligt** fra **[DATO]** og indtil fuld betaling.
+Renter løber med **[Nummer]% årligt** fra **[Dato]** og indtil fuld betaling.
 
 ### 4.2 Lovbestemt rente
 
@@ -76,7 +76,7 @@ Debitor kan til enhver tid indfri Restgælden helt uden gebyr, medmindre andet e
 
 ### 6.1 Misligholdelse
 
-Debitor er i misligholdelse, hvis et afdrag ikke betales inden **[NUMMER] dage** efter forfaldsdato.
+Debitor er i misligholdelse, hvis et afdrag ikke betales inden **[Nummer] dage** efter forfaldsdato.
 
 ### 6.2 Beføjelser
 
@@ -96,9 +96,9 @@ Hvis Kreditor undlader at håndhæve en bestemmelse, udgør dette ikke afkald p�
 ## 8. Sikkerhed (valgfrit)
 
 Som sikkerhed for betaling stiller Debitor:
-- **[PERSONLIG KAUTION]**
-- **[BESKRIVELSE]**
-- **[ANDEN SIKKERHED]**
+- **[Personlig kaution]**
+- **[Beskrivelse]**
+- **[Anden sikkerhed]**
 
 Detaljer fremgår af Bilag 1, hvis relevant.
 
@@ -112,7 +112,7 @@ Parterne skal holde Aftalens vilkår fortrolige, medmindre videregivelse kræves
 
 ## 11. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 12. Hele aftalen
 
@@ -126,4 +126,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Sikkerhed (hvis relevant)
 
-**[BESKRIVELSE]**
+**[Beskrivelse]**

@@ -8,19 +8,19 @@ seoTitle: "Skabelon til overdragelse af immaterielle rettigheder"
 seoDescription: "Brug denne aftale om overdragelse af immaterielle rettigheder til at fastlægge IP-overdragelse, garantier, betaling og bistand efter underskrift."
 ---
 
-Denne aftale om overdragelse af immaterielle rettigheder ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne aftale om overdragelse af immaterielle rettigheder ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Selskab**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 **Overdrager**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/CVR-nr.: **[CVR]**
 
 Selskabet og Overdrageren benævnes hver en "Part" og samlet "Parterne".
@@ -55,7 +55,7 @@ uanset om de er registrerede eller uregistrerede.
 ### 4.1 Overdragelse
 
 Overdrageren overdrager herved uigenkaldeligt til Selskabet alle rettigheder, adkomst og interesser i og til:
-- alle Immaterielle rettigheder skabt i forbindelse med **[ANSÆTTELSE / OPGAVE / PROJEKTNAVN]**
+- alle Immaterielle rettigheder skabt i forbindelse med **[Ansættelse / opgave / projektnavn]**
 - alle afledte værker og forbedringer heraf
 
 ### 4.2 Omfang
@@ -90,7 +90,7 @@ Denne forpligtelse består efter ophør af ansættelse eller engagement.
 
 Overdragelsen sker:
 - som led i Overdragerens ansættelse eller engagement, eller
-- mod **[NUMMER] [VALUTA]**
+- mod **[Nummer] [Valuta]**
 
 Medmindre andet følger af lovgivningen, ydes der ikke yderligere vederlag.
 
@@ -121,7 +121,7 @@ Overdrageren skal holde alle proprietære oplysninger vedrørende de overdragne 
 
 ## 12. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 13. Ugyldighed
 
@@ -139,4 +139,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Forudeksisterende immaterielle rettigheder (hvis relevant)
 
-**[UNDTAGET IP]**
+**[Undtaget IP]**

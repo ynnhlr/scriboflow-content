@@ -8,25 +8,25 @@ seoTitle: "Mutual NDA Template"
 seoDescription: "Use this mutual NDA template to protect confidential information when both parties disclose sensitive business or technical details."
 ---
 
-This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Party A**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Party B**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 Party A and Party B are each a "Party" and together the "Parties".
 
 ## 2. Purpose
 
-The Parties wish to disclose certain Confidential Information to each other solely for **[PURPOSE]** (the "Purpose").
+The Parties wish to disclose certain Confidential Information to each other solely for **[Purpose]** (the "Purpose").
 
 ## 3. Definition of Confidential Information
 
@@ -65,7 +65,7 @@ All Confidential Information remains the exclusive property of the Disclosing Pa
 
 ## 8. Term and Survival
 
-This Agreement commences on the Effective Date and remains in force for **[NUMBER] [TIME UNIT]**. The confidentiality obligations survive termination or expiration for **[NUMBER] [TIME UNIT]** years.
+This Agreement commences on the Effective Date and remains in force for **[Number] [Time unit]**. The confidentiality obligations survive termination or expiration for **[Number] [Time unit]** years.
 
 ## 9. Return or Destruction
 
@@ -85,7 +85,7 @@ Neither Party may assign this Agreement without prior written consent, except to
 
 ## 13. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 14. Language
 

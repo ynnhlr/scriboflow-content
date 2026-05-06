@@ -8,18 +8,18 @@ seoTitle: "Skabelon til konsulentaftale"
 seoDescription: "Brug denne konsulentaftale til at beskrive scope, leverancer, honorar, fortrolighed og ejerskab til IP."
 ---
 
-Denne konsulentaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne konsulentaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kunde**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Konsulent**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Kunde og Konsulent benævnes hver en "Part" og samlet "Parterne".
@@ -52,15 +52,15 @@ Aftalen løber, indtil Ydelserne er afsluttet, eller indtil ophør i henhold til
 
 ### 4.1 Vederlagsstruktur
 
-Kunden skal betale Konsulenten **[NUMMER] [VALUTA]** eller **[NUMMER] [VALUTA]** som angivet i Bilag 1.
+Kunden skal betale Konsulenten **[Nummer] [Valuta]** eller **[Nummer] [Valuta]** som angivet i Bilag 1.
 
 ### 4.2 Fakturering
 
-Fakturaer udstedes **[BETALINGSFREKVENS]**.
+Fakturaer udstedes **[Betalingsfrekvens]**.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[NUMMER]** dage fra modtagelse.
+Fakturaer forfalder til betaling inden **[Nummer]** dage fra modtagelse.
 
 ### 4.4 Forsinket betaling
 
@@ -144,7 +144,7 @@ Konsulenten skal holde Kunden skadesløs mod tredjemandskrav, der udspringer af:
 
 ### 12.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[NUMMER] dage** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] dage** skriftligt varsel.
 
 ### 12.2 Ophævelse ved misligholdelse
 
@@ -166,7 +166,7 @@ Konsulenten må ikke overdrage rettigheder eller forpligtelser uden forudgående
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, skal afgøres ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, skal afgøres ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Hele aftalen
 
@@ -180,8 +180,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Ydelser og honorar
 
-- Beskrivelse af ydelser: **[OMFANG]**
-- Leverancer: **[LEVERANCER]**
-- Tidsplan: **[MILEPÆLE]**
-- Vederlag: **[NUMMER] [VALUTA]**
-- Betalingsplan: **[BESKRIVELSE]**
+- Beskrivelse af ydelser: **[Omfang]**
+- Leverancer: **[Leverancer]**
+- Tidsplan: **[Milepæle]**
+- Vederlag: **[Nummer] [Valuta]**
+- Betalingsplan: **[Beskrivelse]**

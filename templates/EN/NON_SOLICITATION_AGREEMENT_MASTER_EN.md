@@ -8,18 +8,18 @@ seoTitle: "Non-Solicitation Agreement Template"
 seoDescription: "Use this non-solicitation agreement template to protect customer and employee relationships after the parties part ways."
 ---
 
-This Non-Solicitation Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Non-Solicitation Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Company**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Restricted Party**
-- Full legal name: **[COMPANY NAME]**
-- Address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Address: **[Address]**
 - CPR/ID No. / CVR No.: **[CVR]**
 
 The Company and the Restricted Party are each a "Party" and together the "Parties".
@@ -38,8 +38,8 @@ This Agreement protects the Company’s legitimate business interests following 
 
 ### 3.1 Restrictions
 
-For a period of **[NUMBER] months** following termination of employment or engagement (the "Restricted Period"), the Restricted Party shall not, directly or indirectly:
-- solicit, approach, or attempt to solicit customers of the Company with whom the Restricted Party had material contact during the last **[NUMBER] months** of engagement
+For a period of **[Number] months** following termination of employment or engagement (the "Restricted Period"), the Restricted Party shall not, directly or indirectly:
+- solicit, approach, or attempt to solicit customers of the Company with whom the Restricted Party had material contact during the last **[Number] months** of engagement
 - induce such customers to reduce, terminate, or alter their business relationship with the Company
 - provide competing services to such customers where such services relate to the same business area handled by the Restricted Party
 
@@ -104,7 +104,7 @@ The Company may waive the restrictions in writing, in whole or in part, without 
 
 ## 10. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 11. Entire Agreement
 
@@ -118,4 +118,4 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Contractual Penalty (Optional)
 
-In case of breach, the Restricted Party shall pay a contractual penalty of **[NUMBER] [CURRENCY]**, without prejudice to the Company’s right to claim additional damages.
+In case of breach, the Restricted Party shall pay a contractual penalty of **[Number] [Currency]**, without prejudice to the Company’s right to claim additional damages.

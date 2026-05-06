@@ -8,18 +8,18 @@ seoTitle: "Skabelon til timelønnet ansættelsesaftale"
 seoDescription: "Brug denne timelønnede ansættelsesaftale til at fastlægge timeløn, arbejdstid, overarbejde og medarbejderens forpligtelser."
 ---
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
@@ -28,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes i stillingen som **[STILLINGSBETEGNELSE]**.
+Medarbejderen ansættes i stillingen som **[Stillingsbetegnelse]**.
 
 ### 2.2 Arbejdsopgaver
 
@@ -42,11 +42,11 @@ Medarbejderen skal udføre sine opgaver loyalt, samvittighedsfuldt og i Arbejdsg
 
 ### 3.1 Startdato
 
-Ansættelsen påbegyndes den **[DATO]**.
+Ansættelsen påbegyndes den **[Dato]**.
 
 ### 3.2 Varighed
 
-Ansættelsen er **[VILKÅRSTYPE] indtil [DATO]**. Der garanteres ikke et minimum antal arbejdstimer, medmindre dette udtrykkeligt fremgår af Aftalen.
+Ansættelsen er **[Vilkårstype] indtil [Dato]**. Der garanteres ikke et minimum antal arbejdstimer, medmindre dette udtrykkeligt fremgår af Aftalen.
 
 ## 4. Arbejdstid
 
@@ -66,11 +66,11 @@ Medmindre andet er aftalt, er Arbejdsgiveren ikke forpligtet til at tilbyde et m
 
 ### 5.1 Timeløn
 
-Medarbejderen modtager en timeløn på **[NUMMER] [VALUTA]** før skat.
+Medarbejderen modtager en timeløn på **[Nummer] [Valuta]** før skat.
 
 ### 5.2 Udbetaling
 
-Løn udbetales **[FREKVENS]** bagud til Medarbejderens oplyste bankkonto.
+Løn udbetales **[Nummer]** bagud til Medarbejderens oplyste bankkonto.
 
 ### 5.3 Overtid
 
@@ -132,7 +132,7 @@ Udstyr, dokumenter og materialer stillet til rådighed af Arbejdsgiveren forbliv
 
 ### 12.1 Opsigelse
 
-Hver Part kan opsige Aftalen med **[NUMMER] [TIDSENHED]** skriftligt varsel, medmindre andet følger af ufravigelig lovgivning.
+Hver Part kan opsige Aftalen med **[Nummer] [Tidsenhed]** skriftligt varsel, medmindre andet følger af ufravigelig lovgivning.
 
 ### 12.2 Ophør med øjeblikkelig virkning
 
@@ -156,7 +156,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 

@@ -8,20 +8,20 @@ seoTitle: "Product Supply Agreement Template"
 seoDescription: "Use this product supply agreement template to define pricing, delivery commitments, quality standards, and warranty responsibilities."
 ---
 
-This Product Supply Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Product Supply Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Supplier**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 **Buyer**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 The Supplier and the Buyer are each a "Party" and together the "Parties".
@@ -48,11 +48,11 @@ This Agreement shall commence on the Effective Date.
 
 ### 3.2 Initial Term
 
-The Agreement shall continue for an initial term of **[NUMBER] years**, unless terminated in accordance with Section 13.
+The Agreement shall continue for an initial term of **[Number] years**, unless terminated in accordance with Section 13.
 
 ### 3.3 Renewal
 
-Thereafter, it shall automatically renew unless terminated with **[NUMBER] months** written notice.
+Thereafter, it shall automatically renew unless terminated with **[Number] months** written notice.
 
 ## 4. Orders
 
@@ -76,7 +76,7 @@ Prices are set out in Schedule 2.
 
 ### 5.2 Adjustments
 
-Prices may be adjusted upon **[NUMBER] days** written notice due to:
+Prices may be adjusted upon **[Number] days** written notice due to:
 - changes in raw material costs
 - exchange rate fluctuations
 - regulatory changes
@@ -89,7 +89,7 @@ All prices are exclusive of VAT unless otherwise stated.
 
 ### 6.1 Payment
 
-Invoices are payable within **[NUMBER] days** from invoice date.
+Invoices are payable within **[Number] days** from invoice date.
 
 ### 6.2 Late Payment
 
@@ -103,7 +103,7 @@ The Supplier may suspend deliveries in case of overdue payments.
 
 ### 7.1 Delivery Terms
 
-Delivery shall take place in accordance with **[INCOTERM] [LOCATION]**.
+Delivery shall take place in accordance with **[INCOTERM] [Location]**.
 
 ### 7.2 Delivery Times
 
@@ -125,7 +125,7 @@ The Buyer shall inspect Products promptly upon delivery.
 
 ### 8.2 Complaint Period
 
-Complaints must be submitted in writing within **[NUMBER] days** of delivery.
+Complaints must be submitted in writing within **[Number] days** of delivery.
 
 ### 8.3 Remedies
 
@@ -172,17 +172,17 @@ Neither Party shall be liable for indirect or consequential damages, including l
 
 ### 12.2 Liability Cap
 
-The Supplier’s total liability under this Agreement shall not exceed the total value of Products delivered during the preceding **[NUMBER] months**, except in cases of gross negligence or wilful misconduct.
+The Supplier’s total liability under this Agreement shall not exceed the total value of Products delivered during the preceding **[Number] months**, except in cases of gross negligence or wilful misconduct.
 
 ## 13. Termination
 
 ### 13.1 Termination for Convenience
 
-Either Party may terminate this Agreement with **[NUMBER] months** written notice.
+Either Party may terminate this Agreement with **[Number] months** written notice.
 
 ### 13.2 Termination for Cause
 
-Either Party may terminate immediately in case of material breach not remedied within **[NUMBER] days**.
+Either Party may terminate immediately in case of material breach not remedied within **[Number] days**.
 
 ### 13.3 Effects
 
@@ -202,7 +202,7 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -216,8 +216,8 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Product Specifications
 
-**[DESCRIPTION]**
+**[Description]**
 
 ## Schedule 2: Pricing
 
-**[PRICE STRUCTURE]**
+**[Price structure]**

@@ -8,18 +8,18 @@ seoTitle: "Sales and Purchase Agreement Template"
 seoDescription: "Use this sales and purchase agreement template to record price, closing mechanics, warranties, and key obligations between buyer and seller."
 ---
 
-This Sales and Purchase Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Sales and Purchase Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Seller**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Buyer**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 The Seller and the Buyer are each a "Party" and together the "Parties".
@@ -38,7 +38,7 @@ The sale includes only the Assets expressly listed. No other assets, liabilities
 
 ### 3.1 Price
 
-The total purchase price for the Assets is **[NUMBER] [CURRENCY]** (the "Purchase Price").
+The total purchase price for the Assets is **[Number] [Currency]** (the "Purchase Price").
 
 ### 3.2 Payment
 
@@ -54,7 +54,7 @@ The Purchase Price is exclusive of VAT unless otherwise specified.
 
 ### 4.1 Closing Date
 
-Closing shall take place on **[DATE]** (the "Closing Date").
+Closing shall take place on **[Date]** (the "Closing Date").
 
 ### 4.2 Closing Deliveries
 
@@ -104,7 +104,7 @@ The Buyer shall indemnify the Seller for losses arising from misuse of the Asset
 
 ### 8.3 Claims Period
 
-Claims must be made within **[NUMBER] months** after Closing unless mandatory law provides otherwise.
+Claims must be made within **[Number] months** after Closing unless mandatory law provides otherwise.
 
 ## 9. Limitation of Liability
 
@@ -124,7 +124,7 @@ The Parties shall keep the terms of this Agreement confidential unless disclosur
 
 Unless otherwise agreed:
 - each Party bears its own legal and advisory costs
-- transfer taxes or registration fees shall be borne by **[PARTY REFERENCE]**
+- transfer taxes or registration fees shall be borne by **[Party reference]**
 
 ## 12. Termination
 
@@ -138,7 +138,7 @@ If terminated before Closing, neither Party shall have further obligations excep
 
 ## 13. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 14. Severability
 
@@ -156,8 +156,8 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Description of Assets
 
-**[ASSET DESCRIPTION]**
+**[Asset description]**
 
 ## Schedule 2: Payment Terms (If Applicable)
 
-**[PAYMENT TERMS]**
+**[Payment terms]**

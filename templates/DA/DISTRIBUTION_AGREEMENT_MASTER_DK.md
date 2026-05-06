@@ -8,20 +8,20 @@ seoTitle: "Skabelon til distributionsaftale"
 seoDescription: "Brug denne distributionsaftale til at fastlægge territorium, salgsansvar, priser og ophør mellem leverandør og distributør."
 ---
 
-Denne distributionsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne distributionsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Leverandør**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 **Distributør**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 Leverandøren og Distributøren benævnes hver en "Part" og samlet "Parterne".
@@ -38,13 +38,13 @@ Distributøren accepterer udpegningen og forpligter sig til aktivt at promovere 
 
 ### 2.3 Eksklusivitet
 
-Aftalen er **[EKSKLUSIVITET]** inden for Området.
+Aftalen er **[Eksklusivitet]** inden for Området.
 
 ## 3. Område
 
 ### 3.1 Område
 
-Distributøren er bemyndiget til at distribuere Produkterne inden for **[OMRÅDE]** ("Området").
+Distributøren er bemyndiget til at distribuere Produkterne inden for **[Område]** ("Området").
 
 ### 3.2 Salg uden for Området
 
@@ -76,11 +76,11 @@ Distributøren skal købe Produkterne til engrospriserne i Bilag 2.
 
 ### 5.2 Prisændringer
 
-Leverandøren kan justere priser med **[NUMMER] dage** skriftligt varsel.
+Leverandøren kan justere priser med **[Nummer] dage** skriftligt varsel.
 
 ### 5.3 Betalingsvilkår
 
-Betalingsfristen er **[NUMMER] dage** fra fakturadato, medmindre andet er aftalt.
+Betalingsfristen er **[Nummer] dage** fra fakturadato, medmindre andet er aftalt.
 
 ### 5.4 Forsinket betaling
 
@@ -157,16 +157,16 @@ Distributøren må ikke anerkende ansvar på Leverandørens vegne uden forudgåe
 
 ### 11.1 Indledende periode
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[NUMMER] år**.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] år**.
 
 ### 11.2 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[NUMMER] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
 
 ### 11.3 Ophør med øjeblikkelig virkning
 
 Hver Part kan ophøre Aftalen med øjeblikkelig virkning i tilfælde af:
-- væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER] dage**
+- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**
 - insolvens
 - alvorlig overtrædelse af brand- eller konkurrenceforpligtelser
 
@@ -207,7 +207,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -221,12 +221,12 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Produkter
 
-**[PRODUKTER]**
+**[Produkter]**
 
 ## Bilag 2: Priser
 
-**[ENGROSPRISSTRUKTUR]**
+**[Engrosprisstruktur]**
 
 ## Bilag 3: Minimumskøbsmål (hvis relevant)
 
-**[MÅL]**
+**[Mål]**

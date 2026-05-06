@@ -8,18 +8,18 @@ seoTitle: "Skabelon til tidsbegrænset ansættelsesaftale"
 seoDescription: "Brug denne tidsbegrænsede ansættelsesaftale til at beskrive løn, kontraktperiode, arbejdsopgaver og vilkår ved ophør."
 ---
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
@@ -28,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes som **[STILLINGSBETEGNELSE]**.
+Medarbejderen ansættes som **[Stillingsbetegnelse]**.
 
 ### 2.2 Ansvarsområder
 
@@ -42,11 +42,11 @@ Medarbejderen skal handle loyalt og i Arbejdsgiverens bedste interesse samt over
 
 ### 3.1 Tidsbegrænset ansættelse
 
-Ansættelsen påbegyndes den **[DATO]** og ophører automatisk den **[DATO]** uden yderligere varsel, medmindre den forlænges skriftligt.
+Ansættelsen påbegyndes den **[Dato]** og ophører automatisk den **[Udløbsdato]** uden yderligere varsel, medmindre den forlænges skriftligt.
 
 ### 3.2 Begrundelse for tidsbegrænsning (hvis krævet ved lov)
 
-Tidsbegrænsningen er begrundet i **[OBJEKTIV BEGRUNDELSE]**.
+Tidsbegrænsningen er begrundet i **[Objektiv begrundelse]**.
 
 ### 3.3 Ingen forventning om forlængelse
 
@@ -60,7 +60,7 @@ Hvis Medarbejderen fortsætter arbejdet efter slutdatoen uden en ny skriftlig af
 
 ### 4.1 Normal arbejdstid
 
-Medarbejderens normale arbejdstid er **[NUMMER]** timer pr. uge.
+Medarbejderens normale arbejdstid er **[Nummer]** timer pr. uge.
 
 ### 4.2 Merarbejde
 
@@ -70,7 +70,7 @@ Medarbejderen kan være forpligtet til at udføre rimeligt merarbejde i overenss
 
 ### 5.1 Løn
 
-Medarbejderen modtager en fast månedlig bruttoløn på **[NUMMER] [VALUTA]**.
+Medarbejderen modtager en fast månedlig bruttoløn på **[Nummer] [Valuta]**.
 
 ### 5.2 Udbetaling
 
@@ -144,7 +144,7 @@ Arbejdsgiveren behandler personoplysninger om Medarbejderen i overensstemmelse m
 
 ### 13.1 Varsel
 
-Medmindre andet følger af lovgivningen, kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[NUMMER] [TIDSENHED]**.
+Medmindre andet følger af lovgivningen, kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[Nummer] [Tidsenhed]**.
 
 ### 13.2 Ophør med øjeblikkelig virkning
 
@@ -164,7 +164,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 
@@ -182,12 +182,12 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Personalegoder
 
-- Pensionsbidrag: **[BESKRIVELSE]**
-- Forsikringsdækning: **[BESKRIVELSE]**
-- Bonusstruktur (hvis relevant): **[BESKRIVELSE]**
+- Pensionsbidrag: **[Beskrivelse]**
+- Forsikringsdækning: **[Beskrivelse]**
+- Bonusstruktur (hvis relevant): **[Beskrivelse]**
 
 ## Bilag 2: Efteransættelsesrestriktioner (hvis relevant)
 
-- Varighed af konkurrenceklausul: **[NUMMER] [TIDSENHED]**
-- Omfang af kundeklausul: **[OMFANG]**
-- Kompensation (hvis lovpligtig): **[BESKRIVELSE]**
+- Varighed af konkurrenceklausul: **[Nummer] [Tidsenhed]**
+- Omfang af kundeklausul: **[Omfang]**
+- Kompensation (hvis lovpligtig): **[Beskrivelse]**

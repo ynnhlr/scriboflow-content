@@ -8,20 +8,20 @@ seoTitle: "Skabelon til eksklusiv distributionsaftale"
 seoDescription: "Brug denne eksklusive distributionsaftale til at fastlægge eksklusivitet, territorium, salgsforpligtelser og ophørsrettigheder."
 ---
 
-Denne eksklusive distributionsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne eksklusive distributionsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Leverandør**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 **Distributør**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 Leverandøren og Distributøren benævnes hver en "Part" og samlet "Parterne".
@@ -44,7 +44,7 @@ Distributøren accepterer udpegningen og forpligter sig til aktivt at markedsfø
 
 ### 3.1 Område
 
-Det Område, som Aftalen omfatter, er **[OMRÅDE]** ("Området").
+Det Område, som Aftalen omfatter, er **[Område]** ("Området").
 
 ### 3.2 Salg uden for Området
 
@@ -98,11 +98,11 @@ Distributøren skal købe Produkterne til de priser, der fremgår af Bilag 3.
 
 ### 7.2 Prisændringer
 
-Leverandøren kan justere priser med **[NUMMER] dage** skriftligt varsel.
+Leverandøren kan justere priser med **[Nummer] dage** skriftligt varsel.
 
 ### 7.3 Betalingsvilkår
 
-Betalingsfristen er **[NUMMER] dage** fra fakturadato.
+Betalingsfristen er **[Nummer] dage** fra fakturadato.
 
 ### 7.4 Forsinket betaling
 
@@ -150,18 +150,18 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader.
 
 ### 11.1 Indledende periode
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[NUMMER] år**.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] år**.
 
 ### 11.2 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[NUMMER] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
 
 ## 12. Ophør
 
 ### 12.1 Ophør med øjeblikkelig virkning
 
 Hver Part kan ophøre Aftalen med øjeblikkelig virkning i tilfælde af:
-- væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER] dage**
+- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**
 - insolvens
 - gentagen manglende opfyldelse af resultatforpligtelser
 
@@ -190,7 +190,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -204,12 +204,12 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Produkter
 
-**[PRODUKTER]**
+**[Produkter]**
 
 ## Bilag 2: Minimumskøbsmål
 
-**[MÅL]**
+**[Mål]**
 
 ## Bilag 3: Priser
 
-**[ENGROSPRISSTRUKTUR]**
+**[Engrosprisstruktur]**

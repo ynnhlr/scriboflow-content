@@ -8,20 +8,20 @@ seoTitle: "Distribution Agreement Template"
 seoDescription: "Use this distribution agreement template to define territory, sales responsibilities, pricing, and termination between supplier and distributor."
 ---
 
-This Distribution Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Distribution Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Supplier**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 **Distributor**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 The Supplier and the Distributor are each a "Party" and together the "Parties".
@@ -38,13 +38,13 @@ The Distributor accepts the appointment and agrees to actively promote and sell 
 
 ### 2.3 Exclusivity
 
-This Agreement is **[EXCLUSIVITY]** within the Territory.
+This Agreement is **[Exclusivity]** within the Territory.
 
 ## 3. Territory
 
 ### 3.1 Territory
 
-The Distributor is authorised to distribute the Products within **[TERRITORY]** (the "Territory").
+The Distributor is authorised to distribute the Products within **[Territory]** (the "Territory").
 
 ### 3.2 Outside Territory
 
@@ -76,11 +76,11 @@ The Distributor shall purchase Products at the wholesale prices listed in Schedu
 
 ### 5.2 Price Changes
 
-The Supplier may adjust prices upon **[NUMBER] days** written notice.
+The Supplier may adjust prices upon **[Number] days** written notice.
 
 ### 5.3 Payment Terms
 
-Payment terms are **[NUMBER] days** from invoice date unless otherwise agreed.
+Payment terms are **[Number] days** from invoice date unless otherwise agreed.
 
 ### 5.4 Late Payment
 
@@ -157,16 +157,16 @@ The Distributor shall not admit liability on behalf of the Supplier without prio
 
 ### 11.1 Initial Term
 
-This Agreement shall commence on the Effective Date and continue for an initial term of **[NUMBER] years**.
+This Agreement shall commence on the Effective Date and continue for an initial term of **[Number] years**.
 
 ### 11.2 Renewal
 
-Thereafter, it shall automatically renew unless terminated with **[NUMBER] months** written notice.
+Thereafter, it shall automatically renew unless terminated with **[Number] months** written notice.
 
 ### 11.3 Immediate Termination
 
 Either Party may terminate immediately in case of:
-- material breach not remedied within **[NUMBER] days**
+- material breach not remedied within **[Number] days**
 - insolvency
 - serious violation of brand or competition obligations
 
@@ -207,7 +207,7 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -221,12 +221,12 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Products
 
-**[PRODUCTS]**
+**[Products]**
 
 ## Schedule 2: Pricing
 
-**[WHOLESALE PRICING STRUCTURE]**
+**[Wholesale pricing structure]**
 
 ## Schedule 3: Minimum Purchase Targets (If Applicable)
 
-**[TARGETS]**
+**[Targets]**

@@ -8,20 +8,20 @@ seoTitle: "Skabelon til aftale om levering af produkter"
 seoDescription: "Brug denne aftale om levering af produkter til at fastlægge pris, leveringsforpligtelser, kvalitetskrav og garantiansvar."
 ---
 
-Denne aftale om levering af produkter ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne aftale om levering af produkter ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Leverandør**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 **Køber**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 Leverandøren og Køberen benævnes hver en "Part" og samlet "Parterne".
@@ -48,11 +48,11 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen.
 
 ### 3.2 Indledende periode
 
-Aftalen løber i en indledende periode på **[NUMMER] år**, medmindre den ophører i overensstemmelse med afsnit 13.
+Aftalen løber i en indledende periode på **[Nummer] år**, medmindre den ophører i overensstemmelse med afsnit 13.
 
 ### 3.3 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[NUMMER] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
 
 ## 4. Ordrer
 
@@ -76,7 +76,7 @@ Priser fremgår af Bilag 2.
 
 ### 5.2 Regulering
 
-Priser kan reguleres med **[NUMMER] dage** skriftligt varsel som følge af:
+Priser kan reguleres med **[Nummer] dage** skriftligt varsel som følge af:
 - ændringer i råvareomkostninger
 - valutakursudsving
 - regulatoriske ændringer
@@ -89,7 +89,7 @@ Alle priser er eksklusive moms, medmindre andet er angivet.
 
 ### 6.1 Betaling
 
-Fakturaer forfalder til betaling inden **[NUMMER] dage** fra fakturadato.
+Fakturaer forfalder til betaling inden **[Nummer] dage** fra fakturadato.
 
 ### 6.2 Forsinket betaling
 
@@ -103,7 +103,7 @@ Leverandøren kan suspendere leverancer ved forfaldne betalinger.
 
 ### 7.1 Leveringsvilkår
 
-Levering sker i overensstemmelse med **[INCOTERM] [LOKATION]**.
+Levering sker i overensstemmelse med **[INCOTERM] [Lokation]**.
 
 ### 7.2 Leveringstid
 
@@ -125,7 +125,7 @@ Køberen skal kontrollere Produkterne straks efter levering.
 
 ### 8.2 Reklamationsfrist
 
-Reklamationer skal fremsættes skriftligt inden **[NUMMER] dage** efter levering.
+Reklamationer skal fremsættes skriftligt inden **[Nummer] dage** efter levering.
 
 ### 8.3 Beføjelser
 
@@ -172,17 +172,17 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader, herunder t
 
 ### 12.2 Ansvarsloft
 
-Leverandørens samlede ansvar efter Aftalen kan ikke overstige den samlede værdi af Produkter leveret i de foregående **[NUMMER] måneder**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
+Leverandørens samlede ansvar efter Aftalen kan ikke overstige den samlede værdi af Produkter leveret i de foregående **[Nummer] måneder**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
 
 ## 13. Ophør
 
 ### 13.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[NUMMER] måneder** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] måneder** skriftligt varsel.
 
 ### 13.2 Ophør ved misligholdelse
 
-Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER] dage**.
+Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**.
 
 ### 13.3 Virkninger
 
@@ -202,7 +202,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 
@@ -216,8 +216,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Produktspecifikationer
 
-**[BESKRIVELSE]**
+**[Beskrivelse]**
 
 ## Bilag 2: Priser
 
-**[PRISSTRUKTUR]**
+**[Prisstruktur]**

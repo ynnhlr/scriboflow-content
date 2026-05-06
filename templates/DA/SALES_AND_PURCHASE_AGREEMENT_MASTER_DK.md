@@ -8,18 +8,18 @@ seoTitle: "Skabelon til købs- og salgsaftale"
 seoDescription: "Brug denne købs- og salgsaftale til at fastlægge pris, overtagelsesmekanik, garantier og centrale forpligtelser mellem køber og sælger."
 ---
 
-Denne købs- og salgsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne købs- og salgsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Sælger**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Køber**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Sælgeren og Køberen benævnes hver en "Part" og samlet "Parterne".
@@ -38,7 +38,7 @@ Salget omfatter alene de udtrykkeligt anførte Aktiver. Ingen øvrige aktiver, f
 
 ### 3.1 Pris
 
-Den samlede købesum for Aktiverne er **[NUMMER] [VALUTA]** ("Købesummen").
+Den samlede købesum for Aktiverne er **[Nummer] [Valuta]** ("Købesummen").
 
 ### 3.2 Betaling
 
@@ -54,7 +54,7 @@ Købesummen er eksklusive moms, medmindre andet er angivet.
 
 ### 4.1 Closingdato
 
-Closing finder sted den **[DATO]** ("Closingdatoen").
+Closing finder sted den **[Dato]** ("Closingdatoen").
 
 ### 4.2 Dokumenter ved closing
 
@@ -104,7 +104,7 @@ Køberen skal holde Sælgeren skadesløs for tab, der udspringer af misbrug af A
 
 ### 8.3 Frist for krav
 
-Krav skal fremsættes inden **[NUMMER] måneder** efter Closing, medmindre ufravigelig lovgivning bestemmer andet.
+Krav skal fremsættes inden **[Nummer] måneder** efter Closing, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 9. Ansvarsbegrænsning
 
@@ -124,7 +124,7 @@ Parterne skal behandle Aftalens vilkår fortroligt, medmindre videregivelse kræ
 
 Medmindre andet er aftalt:
 - afholder hver Part egne advokat- og rådgiveromkostninger
-- afholdes overdragelsesskatter eller registreringsafgifter af **[PARTSREFERENCE]**
+- afholdes overdragelsesskatter eller registreringsafgifter af **[Partsreference]**
 
 ## 12. Ophør
 
@@ -138,7 +138,7 @@ Hvis Aftalen ophører før Closing, har ingen af Parterne yderligere forpligtels
 
 ## 13. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 14. Ugyldighed
 
@@ -156,8 +156,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Beskrivelse af aktiver
 
-**[AKTIVBESKRIVELSE]**
+**[Aktivbeskrivelse]**
 
 ## Bilag 2: Betalingsvilkår (hvis relevant)
 
-**[BETALINGSBETINGELSER]**
+**[Betalingsbetingelser]**

@@ -8,18 +8,18 @@ seoTitle: "Skabelon til fratrædelsesaftale"
 seoDescription: "Brug denne fratrædelsesaftale til at fastlægge opsigelsesvarsel, kompensation, frigørelsesklausuler og afleveringsforpligtelser."
 ---
 
-Denne fratrædelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne fratrædelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
@@ -28,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Ansættelsesstart
 
-Medarbejderen har været ansat hos Arbejdsgiveren siden **[DATO]**.
+Medarbejderen har været ansat hos Arbejdsgiveren siden **[Dato]**.
 
 ### 2.2 Fratrædelse
 
@@ -38,7 +38,7 @@ Parterne har aftalt at bringe ansættelsesforholdet til ophør på de vilkår, d
 
 ### 3.1 Fratrædelsesdato
 
-Ansættelsen ophører den **[DATO]** ("Fratrædelsesdatoen").
+Ansættelsen ophører den **[Dato]** ("Fratrædelsesdatoen").
 
 ### 3.2 Fritstilling
 
@@ -60,7 +60,7 @@ Arbejdsgiveren skal betale:
 
 ### 4.2 Fratrædelsesgodtgørelse (hvis relevant)
 
-Arbejdsgiveren skal betale Medarbejderen en fratrædelsesgodtgørelse på **[NUMMER] [VALUTA]**, med fradrag af lovpligtige skatter og bidrag.
+Arbejdsgiveren skal betale Medarbejderen en fratrædelsesgodtgørelse på **[Nummer] [Valuta]**, med fradrag af lovpligtige skatter og bidrag.
 
 ### 4.3 Skattemæssig overholdelse
 
@@ -104,7 +104,7 @@ Medarbejderen bekræfter, at alt virksomhedens udstyr, dokumenter, data og adgan
 
 ## 8. Konkurrence- og kundeklausuler
 
-Eventuelle eksisterende konkurrence- eller kundeklausuler forbliver gældende i overensstemmelse med gældende lovgivning og tidligere aftaler. Hvis sådanne klausuler ophæves eller ændres, skal ændringen udtrykkeligt angives her: **[ANGIV HVIS RELEVANT]**.
+Eventuelle eksisterende konkurrence- eller kundeklausuler forbliver gældende i overensstemmelse med gældende lovgivning og tidligere aftaler. Hvis sådanne klausuler ophæves eller ændres, skal ændringen udtrykkeligt angives her: **[Angiv hvis relevant]**.
 
 ## 9. Ikke-nedsættende udtalelser (valgfrit)
 
@@ -116,7 +116,7 @@ Aftalen udgør ikke en ansvarserkendelse fra nogen af Parterne.
 
 ## 11. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 12. Hele aftalen
 

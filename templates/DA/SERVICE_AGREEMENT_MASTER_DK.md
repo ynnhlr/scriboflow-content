@@ -8,18 +8,18 @@ seoTitle: "Skabelon til serviceaftale"
 seoDescription: "Brug denne serviceaftale til at beskrive scope, serviceniveauer, pris, ansvarsfordeling og ophørsbestemmelser."
 ---
 
-Denne serviceaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne serviceaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Udbyder**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Kunde**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Udbyderen og Kunden benævnes hver en "Part" og samlet "Parterne".
@@ -48,21 +48,21 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen.
 
 Aftalen fortsætter:
 - indtil Ydelserne er afsluttet, eller
-- i en indledende periode på **[NUMMER] måneder/år**, med automatisk fornyelse medmindre opsagt efter afsnit 11
+- i en indledende periode på **[Nummer] måneder/år**, med automatisk fornyelse medmindre opsagt efter afsnit 11
 
 ## 4. Honorar og betaling
 
 ### 4.1 Vederlag
 
-Kunden skal betale Udbyderen **[NUMMER] [VALUTA]** eller **[NUMMER] [VALUTA]**, som angivet i Bilag 1.
+Kunden skal betale Udbyderen **[Nummer] [Valuta]** eller **[Nummer] [Valuta]**, som angivet i Bilag 1.
 
 ### 4.2 Fakturering
 
-Fakturaer udstedes **[BETALINGSFREKVENS]**.
+Fakturaer udstedes **[Betalingsfrekvens]**.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[NUMMER] dage** fra modtagelse.
+Fakturaer forfalder til betaling inden **[Nummer] dage** fra modtagelse.
 
 ### 4.4 Forsinket betaling
 
@@ -134,17 +134,17 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader, herunder t
 
 ### 10.2 Ansvarsloft
 
-Udbyderens samlede ansvar efter Aftalen kan ikke overstige de samlede honorarer betalt efter Aftalen i de foregående **[NUMMER] måneder**, dog ikke i tilfælde af svig, grov uagtsomhed eller forsæt.
+Udbyderens samlede ansvar efter Aftalen kan ikke overstige de samlede honorarer betalt efter Aftalen i de foregående **[Nummer] måneder**, dog ikke i tilfælde af svig, grov uagtsomhed eller forsæt.
 
 ## 11. Ophør
 
 ### 11.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[NUMMER] dage/måneder** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] dage/måneder** skriftligt varsel.
 
 ### 11.2 Ophør ved misligholdelse
 
-Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[NUMMER] dage** efter skriftligt påkrav.
+Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage** efter skriftligt påkrav.
 
 ### 11.3 Virkninger af ophør
 
@@ -166,7 +166,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 15. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Hele aftalen
 
@@ -180,7 +180,7 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Ydelser og honorar
 
-- Beskrivelse af ydelser: **[OMFANG]**
-- Leverancer / SLA'er (hvis relevant): **[LEVERANCER]**
-- Honorarstruktur: **[BESKRIVELSE]**
-- Betalingsplan: **[BESKRIVELSE]**
+- Beskrivelse af ydelser: **[Omfang]**
+- Leverancer / SLA'er (hvis relevant): **[Leverancer]**
+- Honorarstruktur: **[Beskrivelse]**
+- Betalingsplan: **[Beskrivelse]**

@@ -8,18 +8,18 @@ seoTitle: "Non-Exclusive License Agreement Template"
 seoDescription: "Use this non-exclusive license agreement template to set out usage rights, royalties, restrictions, and termination rules for a non-exclusive license."
 ---
 
-This Non-Exclusive License Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Non-Exclusive License Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Licensor**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Licensee**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 Licensor and Licensee are each a "Party" and together the "Parties".
@@ -30,13 +30,13 @@ Subject to the terms of this Agreement, the Licensor grants the Licensee a non-e
 
 ## 3. Licensed Material
 
-"Licensed Material" means **[IP DESCRIPTION]**, including any related documentation, updates, or modifications expressly provided by the Licensor.
+"Licensed Material" means **[IP description]**, including any related documentation, updates, or modifications expressly provided by the Licensor.
 
 ## 4. Scope of Use
 
 The Licensee may use the Licensed Material only:
-- for **[PURPOSE]**
-- within **[TERRITORY]**
+- for **[Purpose]**
+- within **[Territory]**
 - during the Term of this Agreement
 
 Any use outside this scope constitutes a material breach.
@@ -55,7 +55,7 @@ All rights, title, and interest in the Licensed Material remain with the Licenso
 
 ## 7. Fees and Payment
 
-In consideration for the license granted, the Licensee shall pay **[NUMBER] [CURRENCY]**. Payment terms: **[PAYMENT TERMS]**. Taxes: **[TAX ALLOCATION]**.
+In consideration for the license granted, the Licensee shall pay **[Number] [Currency]**. Payment terms: **[Payment terms]**. Taxes: **[Tax allocation]**.
 
 ## 8. Confidentiality
 
@@ -67,12 +67,12 @@ The Licensor warrants that it has the right to grant the license described herei
 
 ## 10. Liability Limitation
 
-To the maximum extent permitted by Danish law, neither Party shall be liable for indirect, incidental, or consequential damages arising out of this Agreement. The Licensor’s total aggregate liability shall not exceed **[NUMBER] [CURRENCY]**, except in cases of gross negligence or wilful misconduct.
+To the maximum extent permitted by Danish law, neither Party shall be liable for indirect, incidental, or consequential damages arising out of this Agreement. The Licensor’s total aggregate liability shall not exceed **[Number] [Currency]**, except in cases of gross negligence or wilful misconduct.
 
 ## 11. Term and Termination
 
-This Agreement shall commence on the Effective Date and continue for **[NUMBER] [TIME UNIT]**, unless terminated earlier. Either Party may terminate this Agreement:
-- for material breach not cured within **[NUMBER]** days after written notice
+This Agreement shall commence on the Effective Date and continue for **[Number] [Time unit]**, unless terminated earlier. Either Party may terminate this Agreement:
+- for material breach not cured within **[Number]** days after written notice
 - immediately if the other Party becomes insolvent or enters liquidation
 
 Upon termination, the Licensee shall immediately cease all use of the Licensed Material.
@@ -87,7 +87,7 @@ The Licensee may not assign or transfer this Agreement without prior written con
 
 ## 14. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 15. Language
 

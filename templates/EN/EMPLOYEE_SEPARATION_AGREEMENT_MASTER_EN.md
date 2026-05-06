@@ -8,18 +8,18 @@ seoTitle: "Employee Separation Agreement Template"
 seoDescription: "Use this employee separation agreement template to set out notice, compensation, release language, and handover responsibilities."
 ---
 
-This Employee Separation Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Employee Separation Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Employer**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Employee**
-- Full legal name: **[COMPANY NAME]**
-- Address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Address: **[Address]**
 - CPR/ID No.: **[CVR]**
 
 The Employer and the Employee are each a "Party" and together the "Parties".
@@ -28,7 +28,7 @@ The Employer and the Employee are each a "Party" and together the "Parties".
 
 ### 2.1 Employment Start
 
-The Employee has been employed by the Employer since **[DATE]**.
+The Employee has been employed by the Employer since **[Date]**.
 
 ### 2.2 Separation
 
@@ -38,7 +38,7 @@ The Parties have agreed to terminate the employment relationship under the terms
 
 ### 3.1 Termination Date
 
-The employment shall terminate on **[DATE]** (the "Termination Date").
+The employment shall terminate on **[Date]** (the "Termination Date").
 
 ### 3.2 Garden Leave
 
@@ -60,7 +60,7 @@ The Employer shall pay:
 
 ### 4.2 Severance Payment (If Applicable)
 
-The Employer shall pay the Employee a severance amount of **[NUMBER] [CURRENCY]**, subject to statutory deductions.
+The Employer shall pay the Employee a severance amount of **[Number] [Currency]**, subject to statutory deductions.
 
 ### 4.3 Tax Compliance
 
@@ -104,7 +104,7 @@ The Employee confirms that all Company property, including equipment, documents,
 
 ## 8. Non-Competition and Non-Solicitation
 
-Any existing non-compete or non-solicitation obligations remain in force in accordance with applicable law and prior agreements. If waived or modified, such modification must be expressly stated here: **[SPECIFY IF APPLICABLE]**.
+Any existing non-compete or non-solicitation obligations remain in force in accordance with applicable law and prior agreements. If waived or modified, such modification must be expressly stated here: **[Specify if applicable]**.
 
 ## 9. Non-Disparagement (Optional)
 
@@ -116,7 +116,7 @@ This Agreement does not constitute an admission of liability by either Party.
 
 ## 11. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 12. Entire Agreement
 

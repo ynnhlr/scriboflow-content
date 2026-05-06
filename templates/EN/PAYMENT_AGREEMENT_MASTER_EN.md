@@ -8,18 +8,18 @@ seoTitle: "Payment Agreement Template"
 seoDescription: "Use this payment agreement template to document instalments, due dates, and consequences if the debtor misses payments."
 ---
 
-This Payment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Payment Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Creditor**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Debtor**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No. / CPR No.: **[CVR]**
 
 The Creditor and the Debtor are each a "Party" and together the "Parties".
@@ -28,11 +28,11 @@ The Creditor and the Debtor are each a "Party" and together the "Parties".
 
 ### 2.1 Outstanding Amount
 
-The Debtor acknowledges that it owes the Creditor the amount of **[NUMBER] [CURRENCY]** (the "Outstanding Amount").
+The Debtor acknowledges that it owes the Creditor the amount of **[Number] [Currency]** (the "Outstanding Amount").
 
 ### 2.2 Basis of Debt
 
-The Outstanding Amount arises from **[DESCRIPTION]**.
+The Outstanding Amount arises from **[Description]**.
 
 ### 2.3 Repayment Plan
 
@@ -43,26 +43,26 @@ The Parties wish to establish a structured repayment plan.
 ### 3.1 Schedule
 
 The Debtor shall repay the Outstanding Amount as follows:
-- **[NUMBER] [CURRENCY] due [DATE]**
-- **[NUMBER] [CURRENCY] due [DATE]**
-- **[NUMBER] [CURRENCY] due [DATE]**
+- **[Number] [Currency] due [Date]**
+- **[Number] [Currency] due [Date]**
+- **[Number] [Currency] due [Date]**
 
 OR
 
-- **[NUMBER] [CURRENCY] starting [DATE]**
+- **[Number] [Currency] starting [Date]**
 
 ### 3.2 Payment Account
 
 Payments shall be made to the following bank account:
-- Bank: **[BANK NAME]**
+- Bank: **[Bank name]**
 - IBAN: **[IBAN]**
-- Reference: **[REFERENCE]**
+- Reference: **[Reference]**
 
 ## 4. Interest
 
 ### 4.1 Interest Rate
 
-Interest shall accrue at **[NUMBER]% per annum** from **[DATE]** until full payment.
+Interest shall accrue at **[Number]% per annum** from **[Date]** until full payment.
 
 ### 4.2 Statutory Interest
 
@@ -76,7 +76,7 @@ The Debtor may repay the Outstanding Amount in full at any time without penalty 
 
 ### 6.1 Default Trigger
 
-The Debtor shall be in default if any installment is not paid within **[NUMBER] days** of its due date.
+The Debtor shall be in default if any installment is not paid within **[Number] days** of its due date.
 
 ### 6.2 Remedies
 
@@ -96,9 +96,9 @@ Failure by the Creditor to enforce any provision shall not constitute a waiver o
 ## 8. Security (Optional)
 
 As security for payment, the Debtor provides:
-- **[PERSONAL GUARANTEE]**
-- **[DESCRIPTION]**
-- **[OTHER SECURITY ARRANGEMENT]**
+- **[Personal guarantee]**
+- **[Description]**
+- **[Other security arrangement]**
 
 Details are set out in Schedule 1, if applicable.
 
@@ -112,7 +112,7 @@ The Parties shall keep the terms of this Agreement confidential unless disclosur
 
 ## 11. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 12. Entire Agreement
 
@@ -126,4 +126,4 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Security (If Applicable)
 
-**[DESCRIPTION]**
+**[Description]**

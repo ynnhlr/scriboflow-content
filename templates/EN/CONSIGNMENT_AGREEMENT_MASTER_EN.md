@@ -8,18 +8,18 @@ seoTitle: "Consignment Agreement Template"
 seoDescription: "Use this consignment agreement template to define ownership, resale terms, reporting, and payment for consigned goods."
 ---
 
-This Consignment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Consignment Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Consignor**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Consignee**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 The Consignor and the Consignee are each a "Party" and together the "Parties".
@@ -70,7 +70,7 @@ The Consignee shall not pledge, assign, lease, or otherwise encumber the Consign
 
 ### 6.1 Sales Reports
 
-The Consignee shall provide written sales reports at **[FREQUENCY]** intervals, detailing:
+The Consignee shall provide written sales reports at **[Number]** intervals, detailing:
 - units sold
 - sale prices
 - returns
@@ -84,11 +84,11 @@ Upon reasonable notice, the Consignor may inspect records relating to the Consig
 
 ### 7.1 Commission
 
-The Consignee shall be entitled to a commission of **[NUMBER]% / [NUMBER] [CURRENCY]** per unit sold, as specified in Schedule 1.
+The Consignee shall be entitled to a commission of **[Number]% / [Number] [Currency]** per unit sold, as specified in Schedule 1.
 
 ### 7.2 Settlement
 
-Payment of amounts due to the Consignor shall be made no later than **[NUMBER]** days after the end of each reporting period.
+Payment of amounts due to the Consignor shall be made no later than **[Number]** days after the end of each reporting period.
 
 ### 7.3 Condition for Commission
 
@@ -106,7 +106,7 @@ Customer returns shall be handled in accordance with Schedule 3. Returned goods 
 
 ### 8.2 Unsold Goods
 
-Upon termination or written request, unsold Consigned Goods shall be returned to the Consignor within **[NUMBER]** days, at the Consignee’s expense, in reasonable saleable condition.
+Upon termination or written request, unsold Consigned Goods shall be returned to the Consignor within **[Number]** days, at the Consignee’s expense, in reasonable saleable condition.
 
 ## 9. Care, Insurance, and Compliance
 
@@ -134,7 +134,7 @@ This Agreement commences on the Effective Date and continues until terminated.
 
 ### 11.2 Termination for Convenience
 
-Either Party may terminate this Agreement with **[NUMBER]** days’ written notice.
+Either Party may terminate this Agreement with **[Number]** days’ written notice.
 
 ### 11.3 Immediate Termination
 
@@ -160,7 +160,7 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 16. Language
 

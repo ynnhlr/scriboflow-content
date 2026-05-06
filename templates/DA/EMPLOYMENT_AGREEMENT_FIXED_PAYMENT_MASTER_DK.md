@@ -8,18 +8,18 @@ seoTitle: "Skabelon til ansættelsesaftale med fast løn"
 seoDescription: "Brug denne ansættelsesaftale med fast løn til at definere medarbejderens rolle, løn, arbejdstid og centrale vilkår."
 ---
 
-Denne ansættelsesaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne ansættelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Arbejdsgiver**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Medarbejder**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/ID-nr.: **[CVR]**
 
 Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
@@ -28,7 +28,7 @@ Arbejdsgiveren og Medarbejderen benævnes hver en "Part" og samlet "Parterne".
 
 ### 2.1 Stilling
 
-Medarbejderen ansættes som **[STILLINGSBETEGNELSE]**.
+Medarbejderen ansættes som **[Stillingsbetegnelse]**.
 
 ### 2.2 Ansvarsområder
 
@@ -42,21 +42,21 @@ Medarbejderen skal handle loyalt og i Arbejdsgiverens bedste interesse samt over
 
 ### 3.1 Startdato
 
-Ansættelsen påbegyndes den **[DATO]**.
+Ansættelsen påbegyndes den **[Dato]**.
 
 ### 3.2 Ansættelsestype
 
-Ansættelsen er **[VILKÅRSTYPE] indtil [DATO]**.
+Ansættelsen er **[Vilkårstype] indtil [Dato]**.
 
 ### 3.3 Prøvetid (hvis relevant)
 
-De første **[NUMMER] måneder** udgør en prøvetid, hvor ansættelsen kan bringes til ophør med **[NUMMER] [TIDSENHED]**, med forbehold for gældende lovgivning.
+De første **[Nummer] måneder** udgør en prøvetid, hvor ansættelsen kan bringes til ophør med **[Nummer] [Tidsenhed]**, med forbehold for gældende lovgivning.
 
 ## 4. Arbejdstid
 
 ### 4.1 Normal arbejdstid
 
-Medarbejderens normale arbejdstid er **[NUMMER]** timer pr. uge, typisk placeret mellem **[ARBEJDSPLAN]**.
+Medarbejderens normale arbejdstid er **[Nummer]** timer pr. uge, typisk placeret mellem **[Arbejdsplan]**.
 
 ### 4.2 Merarbejde
 
@@ -66,7 +66,7 @@ Medarbejderen kan være forpligtet til at udføre rimeligt merarbejde efter virk
 
 ### 5.1 Løn
 
-Medarbejderen modtager en fast månedlig bruttoløn på **[NUMMER] [VALUTA]**.
+Medarbejderen modtager en fast månedlig bruttoløn på **[Nummer] [Valuta]**.
 
 ### 5.2 Udbetaling
 
@@ -141,8 +141,8 @@ Arbejdsgiveren behandler Medarbejderens personoplysninger i overensstemmelse med
 ### 13.1 Varsel
 
 Hver Part kan opsige ansættelsen med skriftligt varsel i overensstemmelse med gældende lovgivning eller som følger:
-- Arbejdsgiverens varsel: **[NUMMER] måneder**
-- Medarbejderens varsel: **[NUMMER] måneder**
+- Arbejdsgiverens varsel: **[Nummer] måneder**
+- Medarbejderens varsel: **[Nummer] måneder**
 
 ### 13.2 Bortvisning
 
@@ -162,7 +162,7 @@ Medarbejderen må ikke overdrage rettigheder eller forpligtelser efter Aftalen. 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Sprog
 
@@ -180,13 +180,13 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Personalegoder (hvis relevant)
 
-- Pensionsbidrag: **[BESKRIVELSE]**
-- Sundhedsforsikring: **[BESKRIVELSE]**
-- Bonusordning: **[BESKRIVELSE]**
-- Øvrige goder: **[BESKRIVELSE]**
+- Pensionsbidrag: **[Beskrivelse]**
+- Sundhedsforsikring: **[Beskrivelse]**
+- Bonusordning: **[Beskrivelse]**
+- Øvrige goder: **[Beskrivelse]**
 
 ## Bilag 2: Efteransættelsesrestriktioner (hvis relevant)
 
-- Varighed af konkurrenceklausul: **[NUMMER] [TIDSENHED]**
-- Omfang af kundeklausul: **[OMFANG]**
-- Kompensationsvilkår (hvis krævet ved lov): **[BESKRIVELSE]**
+- Varighed af konkurrenceklausul: **[Nummer] [Tidsenhed]**
+- Omfang af kundeklausul: **[Omfang]**
+- Kompensationsvilkår (hvis krævet ved lov): **[Beskrivelse]**

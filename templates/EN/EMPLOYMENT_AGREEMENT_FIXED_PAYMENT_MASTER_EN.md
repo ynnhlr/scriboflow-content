@@ -8,18 +8,18 @@ seoTitle: "Fixed Salary Employment Agreement Template"
 seoDescription: "Use this fixed salary employment agreement template to define the employee's role, salary, hours, and key contractual terms."
 ---
 
-This Employment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Employment Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Employer**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Employee**
-- Full legal name: **[COMPANY NAME]**
-- Address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Address: **[Address]**
 - CPR/ID No.: **[CVR]**
 
 The Employer and the Employee are each a "Party" and together the "Parties".
@@ -28,7 +28,7 @@ The Employer and the Employee are each a "Party" and together the "Parties".
 
 ### 2.1 Position
 
-The Employee is employed as **[JOB TITLE]**.
+The Employee is employed as **[Job title]**.
 
 ### 2.2 Responsibilities
 
@@ -42,21 +42,21 @@ The Employee shall act loyally and in the best interests of the Employer and com
 
 ### 3.1 Start Date
 
-Employment commences on **[DATE]**.
+Employment commences on **[Date]**.
 
 ### 3.2 Type of Employment
 
-The employment is **[TERM TYPE] until [DATE]**.
+The employment is **[Term type] until [Date]**.
 
 ### 3.3 Probation Period (If Applicable)
 
-The first **[NUMBER] months** shall constitute a probation period, during which termination may occur with **[NUMBER] [TIME UNIT]**, subject to applicable law.
+The first **[Number] months** shall constitute a probation period, during which termination may occur with **[Number] [Time unit]**, subject to applicable law.
 
 ## 4. Working Hours
 
 ### 4.1 Normal Hours
 
-The Employee’s normal working hours are **[NUMBER]** hours per week, typically scheduled between **[WORKING SCHEDULE]**.
+The Employee’s normal working hours are **[Number]** hours per week, typically scheduled between **[Working schedule]**.
 
 ### 4.2 Additional Work
 
@@ -66,7 +66,7 @@ The Employee may be required to perform reasonable additional work as necessary 
 
 ### 5.1 Salary
 
-The Employee shall receive a fixed gross salary of **[NUMBER] [CURRENCY]** per month.
+The Employee shall receive a fixed gross salary of **[Number] [Currency]** per month.
 
 ### 5.2 Payment
 
@@ -141,8 +141,8 @@ The Employer processes the Employee’s personal data in accordance with applica
 ### 13.1 Notice Period
 
 Either Party may terminate the employment by giving written notice in accordance with applicable law or as follows:
-- Employer notice: **[NUMBER] months**
-- Employee notice: **[NUMBER] months**
+- Employer notice: **[Number] months**
+- Employee notice: **[Number] months**
 
 ### 13.2 Immediate Termination
 
@@ -162,7 +162,7 @@ The Employee may not assign rights or obligations under this Agreement. The Empl
 
 ## 16. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 17. Language
 
@@ -180,13 +180,13 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Benefits (If Applicable)
 
-- Pension contribution: **[DESCRIPTION]**
-- Health insurance: **[DESCRIPTION]**
-- Bonus scheme: **[DESCRIPTION]**
-- Other benefits: **[DESCRIPTION]**
+- Pension contribution: **[Description]**
+- Health insurance: **[Description]**
+- Bonus scheme: **[Description]**
+- Other benefits: **[Description]**
 
 ## Schedule 2: Post-Employment Restrictions (If Applicable)
 
-- Non-compete duration: **[NUMBER] [TIME UNIT]**
-- Non-solicitation scope: **[SCOPE]**
-- Compensation terms (if required by law): **[DESCRIPTION]**
+- Non-compete duration: **[Number] [Time unit]**
+- Non-solicitation scope: **[Scope]**
+- Compensation terms (if required by law): **[Description]**

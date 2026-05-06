@@ -8,33 +8,33 @@ seoTitle: "Skabelon til vedtægter"
 seoDescription: "Brug denne vedtægtsskabelon til at fastlægge selskabets grundlæggende regler, kapitalforhold og governance."
 ---
 
-**Selskabsnavn:** **[VIRKSOMHEDSNAVN]**
+**Selskabsnavn:** **[Virksomhedsnavn]**
 **CVR-nr.:** **[CVR]**
-**Vedtaget den:** **[DATO]**
+**Vedtaget den:** **[Dato]**
 
 ## 1. Navn
 
-Selskabets navn er **[VIRKSOMHEDSNAVN]**.
+Selskabets navn er **[Virksomhedsnavn]**.
 
 ## 2. Hjemsted
 
-Selskabets hjemsted er **[LOKATION]**, Danmark.
+Selskabets hjemsted er **[Lokation]**, Danmark.
 
 ## 3. Formål
 
 Selskabets formål er:
-- **[FORRETNINGSAKTIVITETER]**
+- **[Forretningsaktiviteter]**
 - samt enhver dermed beslægtet virksomhed
 
 ## 4. Selskabskapital
 
 ### 4.1 Beløb
 
-Selskabskapitalen udgør **[NUMMER] [VALUTA]**.
+Selskabskapitalen udgør **[Nummer] [Valuta]**.
 
 ### 4.2 Stykstørrelse
 
-Selskabskapitalen er opdelt i kapitalandele à **[NUMMER] [VALUTA]**.
+Selskabskapitalen er opdelt i kapitalandele à **[Nummer] [Valuta]**.
 
 ### 4.3 Indbetaling
 
@@ -80,7 +80,7 @@ Generalforsamlingen er selskabets øverste myndighed.
 
 ### 7.2 Ordinær generalforsamling
 
-Den ordinære generalforsamling afholdes inden **[NUMMER] måneder** efter udløbet af hvert regnskabsår.
+Den ordinære generalforsamling afholdes inden **[Nummer] måneder** efter udløbet af hvert regnskabsår.
 
 ### 7.3 Indkaldelse
 
@@ -88,7 +88,7 @@ Indkaldelse til generalforsamling skal ske i overensstemmelse med gældende ret.
 
 ### 7.4 Stemmeret
 
-Hver kapitalandel på **[NUMMER] [VALUTA]** giver én stemme, medmindre andet følger af afsnit 5.
+Hver kapitalandel på **[Nummer] [Valuta]** giver én stemme, medmindre andet følger af afsnit 5.
 
 ## 8. Ledelse
 
@@ -109,13 +109,13 @@ Bestyrelsen fastsætter en forretningsorden, hvis relevant.
 ## 9. Tegningsregel
 
 Selskabet tegnes af:
-- **[TO DIREKTØRER I FORENING]**, eller
-- **[ET BESTYRELSESMEDLEM SAMMEN MED DIREKTØREN]**, eller
-- **[TEGNINGSREGEL]**
+- **[To direktører i forening]**, eller
+- **[Et bestyrelsesmedlem sammen med direktøren]**, eller
+- **[Tegningsregel]**
 
 ## 10. Regnskabsår
 
-Selskabets regnskabsår løber fra **[DATO]** til **[DATO]**.
+Selskabets regnskabsår løber fra **[Dato]** til **[Dato]**.
 
 ## 11. Udbytte
 
@@ -143,5 +143,5 @@ Selskabet kan opløses ved generalforsamlingsbeslutning i overensstemmelse med g
 
 ## Bilag 1: Kapitalklasser (Hvis relevant)
 
-- Klasse A-kapitalandele: **[RETTIGHEDER]**
-- Klasse B-kapitalandele: **[RETTIGHEDER]**
+- Klasse A-kapitalandele: **[Rettigheder]**
+- Klasse B-kapitalandele: **[Rettigheder]**

@@ -8,18 +8,18 @@ seoTitle: "Skabelon til freelanceaftale"
 seoDescription: "Brug denne freelanceaftale til at fastlægge projektets omfang, honorar, leveringsvilkår, fortrolighed og ejerskab til IP."
 ---
 
-Denne freelanceaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne freelanceaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Kunde**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Freelancer**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Kunden og Freelanceren benævnes hver en "Part" og samlet "Parterne".
@@ -59,7 +59,7 @@ Intet i Aftalen etablerer et ansættelsesforhold.
 
 ### 4.1 Vederlag
 
-Kunden skal betale Freelanceren **[NUMMER] [VALUTA]** eller **[NUMMER] [VALUTA]**, som angivet i Bilag 1.
+Kunden skal betale Freelanceren **[Nummer] [Valuta]** eller **[Nummer] [Valuta]**, som angivet i Bilag 1.
 
 ### 4.2 Fakturering
 
@@ -67,7 +67,7 @@ Freelanceren fakturerer Kunden i overensstemmelse med aftalte milepæle eller m�
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[NUMMER]** dage fra modtagelse, medmindre andet er aftalt.
+Fakturaer forfalder til betaling inden **[Nummer]** dage fra modtagelse, medmindre andet er aftalt.
 
 ### 4.4 Forsinket betaling
 
@@ -107,7 +107,7 @@ Denne forpligtelse gælder efter ophør uden tidsbegrænsning.
 
 ## 8. Kundeklausul (valgfrit)
 
-I Aftalens løbetid og i **[NUMMER] måneder** derefter må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser.
+I Aftalens løbetid og i **[Nummer] måneder** derefter må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser.
 
 ## 9. Garantier
 
@@ -129,7 +129,7 @@ Hver Part er ansvarlig for tab forårsaget af misligholdelse af Aftalen.
 
 ### 10.2 Ansvarsloft
 
-Freelancerens samlede ansvar kan ikke overstige **[NUMMER] beløb eller betalt gebyr**, dog ikke i tilfælde af grov uagtsomhed, svig eller forsæt.
+Freelancerens samlede ansvar kan ikke overstige **[Nummer] beløb eller betalt gebyr**, dog ikke i tilfælde af grov uagtsomhed, svig eller forsæt.
 
 ### 10.3 Indirekte tab
 
@@ -143,7 +143,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber, indtil Ydelserne e
 
 ### 11.2 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[NUMMER] dage** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] dage** skriftligt varsel.
 
 ### 11.3 Ophør ved misligholdelse
 
@@ -163,7 +163,7 @@ Freelanceren må ikke overdrage rettigheder eller forpligtelser efter Aftalen ud
 
 ## 14. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 15. Sprog
 
@@ -181,8 +181,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Ydelser og honorar
 
-- Beskrivelse af ydelser: **[OMFANG]**
-- Leverancer: **[LEVERANCER]**
-- Tidsplan / milepæle: **[FRIST]**
-- Vederlag: **[NUMMER] [VALUTA]**
-- Betalingsplan: **[TIDSPLAN]**
+- Beskrivelse af ydelser: **[Omfang]**
+- Leverancer: **[Leverancer]**
+- Tidsplan / milepæle: **[Frist]**
+- Vederlag: **[Nummer] [Valuta]**
+- Betalingsplan: **[Tidsplan]**

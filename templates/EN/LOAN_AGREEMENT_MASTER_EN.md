@@ -8,18 +8,18 @@ seoTitle: "Loan Agreement Template"
 seoDescription: "Use this loan agreement template to set out principal amount, interest, repayment schedule, and default consequences."
 ---
 
-This Loan Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Loan Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Lender**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No. / CPR No.: **[CVR]**
 
 **Borrower**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No. / CPR No.: **[CVR]**
 
 The Lender and the Borrower are each a "Party" and together the "Parties".
@@ -28,23 +28,23 @@ The Lender and the Borrower are each a "Party" and together the "Parties".
 
 ### 2.1 Principal
 
-The Lender agrees to lend the Borrower the principal amount of **[NUMBER] [CURRENCY]** (the "Loan Amount").
+The Lender agrees to lend the Borrower the principal amount of **[Number] [Currency]** (the "Loan Amount").
 
 ### 2.2 Disbursement
 
-The Loan Amount shall be transferred to the Borrower on or before **[DATE]** to the account designated by the Borrower.
+The Loan Amount shall be transferred to the Borrower on or before **[Date]** to the account designated by the Borrower.
 
 ## 3. Purpose of the Loan (Optional)
 
-The Loan shall be used for **[PURPOSE]**. The Borrower shall not use the Loan for unlawful purposes.
+The Loan shall be used for **[Purpose]**. The Borrower shall not use the Loan for unlawful purposes.
 
 ## 4. Interest
 
 ### 4.1 Interest Rate
 
 The Loan shall bear interest at:
-- **[NUMBER]% per annum**, or
-- **[NUMBER]%**, or
+- **[Number]% per annum**, or
+- **[Number]%**, or
 - **Interest-free (if applicable)**
 
 ### 4.2 Accrual
@@ -53,22 +53,22 @@ Interest shall accrue from the date of disbursement until full repayment.
 
 ### 4.3 Payment of Interest
 
-Interest shall be payable **[PAYMENT FREQUENCY]**.
+Interest shall be payable **[Payment frequency]**.
 
 ## 5. Repayment
 
 ### 5.1 Repayment Schedule
 
 The Borrower shall repay the Loan Amount as follows:
-- **[PAYMENT TERMS]**, or
-- full repayment on **[DATE]**
+- **[Payment terms]**, or
+- full repayment on **[Date]**
 
 ### 5.2 Payment Account
 
 Payments shall be made to the following account:
-- Bank: **[BANK NAME]**
+- Bank: **[Bank name]**
 - IBAN: **[IBAN]**
-- Reference: **[REFERENCE]**
+- Reference: **[Reference]**
 
 ## 6. Early Repayment
 
@@ -79,7 +79,7 @@ The Borrower may prepay the Loan in full or in part without penalty unless other
 ### 7.1 Events of Default
 
 The Borrower shall be in default if:
-- any payment is overdue by more than **[NUMBER] days**
+- any payment is overdue by more than **[Number] days**
 - the Borrower becomes insolvent
 - the Borrower breaches material obligations under this Agreement
 
@@ -95,9 +95,9 @@ Upon default, the Lender may:
 ### 8.1 Security Provided
 
 As security for repayment, the Borrower provides:
-- **[PERSONAL GUARANTEE]**
-- **[PLEDGE OVER ASSETS]**
-- **[SECURITY TYPE]**
+- **[Personal guarantee]**
+- **[Pledge over assets]**
+- **[Security type]**
 
 Details are set out in Schedule 1.
 
@@ -124,7 +124,7 @@ The Borrower may not assign rights or obligations under this Agreement without w
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 13. Severability
 
@@ -142,4 +142,4 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Security (If Applicable)
 
-**[DESCRIPTION]**
+**[Description]**

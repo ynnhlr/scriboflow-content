@@ -8,19 +8,19 @@ seoTitle: "Intellectual Property Assignment Agreement Template"
 seoDescription: "Use this intellectual property assignment agreement template to transfer IP ownership and document warranties, payment, and post-signing assistance."
 ---
 
-This Intellectual Property Assignment Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Intellectual Property Assignment Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Company**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 **Assignor**
-- Full legal name: **[COMPANY NAME]**
-- Address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Address: **[Address]**
 - CPR/CVR No.: **[CVR]**
 
 The Company and the Assignor are each a "Party" and together the "Parties".
@@ -55,7 +55,7 @@ whether registered or unregistered.
 ### 4.1 Assignment
 
 The Assignor hereby irrevocably assigns and transfers to the Company all right, title, and interest in and to:
-- all Intellectual Property created in connection with **[EMPLOYMENT / ENGAGEMENT / PROJECT NAME]**
+- all Intellectual Property created in connection with **[Employment / engagement / project name]**
 - all derivative works and improvements thereof
 
 ### 4.2 Scope
@@ -90,7 +90,7 @@ This obligation survives termination of employment or engagement.
 
 The assignment is made:
 - as part of the Assignor’s employment or engagement, or
-- in consideration of **[NUMBER] [CURRENCY]**
+- in consideration of **[Number] [Currency]**
 
 Unless otherwise required by law, no additional compensation shall be payable.
 
@@ -121,7 +121,7 @@ The Assignor shall keep confidential all proprietary information relating to the
 
 ## 12. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 13. Severability
 
@@ -139,4 +139,4 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Pre-Existing Intellectual Property (If Applicable)
 
-**[EXCLUDED IP]**
+**[Excluded IP]**

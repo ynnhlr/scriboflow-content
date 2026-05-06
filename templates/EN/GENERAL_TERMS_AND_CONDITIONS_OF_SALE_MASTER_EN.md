@@ -12,9 +12,9 @@ These General Terms and Conditions of Sale (the "Terms") apply to all offers, sa
 
 ## 1. Supplier Information
 
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 These Terms govern all sales to customers (the "Customer") unless otherwise agreed in writing.
@@ -51,11 +51,11 @@ The Supplier reserves the right to reject orders without stating reasons.
 
 ### 4.1 Prices
 
-All prices are stated in **[CURRENCY]** and are exclusive of VAT and other applicable taxes unless otherwise specified.
+All prices are stated in **[Currency]** and are exclusive of VAT and other applicable taxes unless otherwise specified.
 
 ### 4.2 Payment Terms
 
-Invoices are payable within **[NUMBER] days** from invoice date unless otherwise agreed.
+Invoices are payable within **[Number] days** from invoice date unless otherwise agreed.
 
 ### 4.3 Late Payment
 
@@ -76,7 +76,7 @@ Delivery times are estimates unless explicitly agreed as fixed.
 
 ### 5.2 Delivery Terms
 
-Delivery shall take place **[INCOTERM] [LOCATION]** unless otherwise agreed.
+Delivery shall take place **[INCOTERM] [Location]** unless otherwise agreed.
 
 ### 5.3 Partial Deliveries
 
@@ -108,7 +108,7 @@ The Customer shall inspect goods immediately upon delivery.
 
 ### 7.2 Complaint Period
 
-Complaints must be submitted in writing within **[NUMBER] days** of delivery.
+Complaints must be submitted in writing within **[Number] days** of delivery.
 
 ### 7.3 Acceptance
 
@@ -195,7 +195,7 @@ The Customer may not assign rights or obligations without prior written consent.
 
 ## 15. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+These Terms shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 16. Severability
 

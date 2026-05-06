@@ -8,18 +8,18 @@ seoTitle: "Skabelon til kunde- og medarbejderklausul"
 seoDescription: "Brug denne kunde- og medarbejderklausul til at beskytte kunde- og medarbejderrelationer efter ophør af samarbejdet."
 ---
 
-Denne kunde- og medarbejderklausulaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne kunde- og medarbejderklausulaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Virksomhed**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Begrænset Part**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Adresse: **[Adresse]**
 - CPR/ID-nr. / CVR-nr.: **[CVR]**
 
 Virksomheden og den Begrænsede Part benævnes hver en "Part" og samlet "Parterne".
@@ -38,8 +38,8 @@ Aftalen beskytter Virksomhedens legitime forretningsinteresser efter ophør af a
 
 ### 3.1 Begrænsninger
 
-I en periode på **[NUMMER] måneder** efter ophør af ansættelse eller engagement ("Begrænset Periode") må den Begrænsede Part ikke, direkte eller indirekte:
-- hverve, kontakte eller forsøge at hverve Virksomhedens kunder, som den Begrænsede Part har haft væsentlig kontakt med i de sidste **[NUMMER] måneder** af engagementet
+I en periode på **[Nummer] måneder** efter ophør af ansættelse eller engagement ("Begrænset Periode") må den Begrænsede Part ikke, direkte eller indirekte:
+- hverve, kontakte eller forsøge at hverve Virksomhedens kunder, som den Begrænsede Part har haft væsentlig kontakt med i de sidste **[Nummer] måneder** af engagementet
 - få sådanne kunder til at reducere, ophøre eller ændre deres forretningsforhold med Virksomheden
 - levere konkurrerende ydelser til sådanne kunder, hvor ydelserne vedrører samme forretningsområde som håndteret af den Begrænsede Part
 
@@ -104,7 +104,7 @@ Virksomheden kan skriftligt frafalde begrænsningerne helt eller delvist uden at
 
 ## 10. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 11. Hele aftalen
 
@@ -118,4 +118,4 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 1: Konventionalbod (valgfrit)
 
-Ved misligholdelse skal den Begrænsede Part betale en konventionalbod på **[NUMMER] [VALUTA]**, uden at dette berører Virksomhedens ret til at kræve yderligere erstatning.
+Ved misligholdelse skal den Begrænsede Part betale en konventionalbod på **[Nummer] [Valuta]**, uden at dette berører Virksomhedens ret til at kræve yderligere erstatning.

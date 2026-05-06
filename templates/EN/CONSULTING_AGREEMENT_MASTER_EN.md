@@ -8,18 +8,18 @@ seoTitle: "Consulting Agreement Template"
 seoDescription: "Use this consulting agreement template to document scope, deliverables, fees, confidentiality, and IP ownership."
 ---
 
-This Consulting Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Consulting Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Client**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Consultant**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 The Client and the Consultant are each a "Party" and together the "Parties".
@@ -52,15 +52,15 @@ The Agreement shall continue until completion of the Services or termination in 
 
 ### 4.1 Compensation Structure
 
-The Client shall pay the Consultant **[NUMBER] [CURRENCY]** or **[NUMBER] [CURRENCY]**, as specified in Schedule 1.
+The Client shall pay the Consultant **[Number] [Currency]** or **[Number] [Currency]**, as specified in Schedule 1.
 
 ### 4.2 Invoicing
 
-Invoices shall be issued **[PAYMENT FREQUENCY]**.
+Invoices shall be issued **[Payment frequency]**.
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[NUMBER]** days from receipt.
+Invoices are payable within **[Number]** days from receipt.
 
 ### 4.4 Late Payment
 
@@ -144,7 +144,7 @@ The Consultant shall indemnify the Client against third-party claims arising fro
 
 ### 12.1 Termination for Convenience
 
-Either Party may terminate this Agreement with **[NUMBER] days** written notice.
+Either Party may terminate this Agreement with **[Number] days** written notice.
 
 ### 12.2 Termination for Cause
 
@@ -166,7 +166,7 @@ The Consultant may not assign rights or obligations without prior written consen
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 16. Entire Agreement
 
@@ -180,8 +180,8 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Services and Fees
 
-- Description of Services: **[SCOPE]**
-- Deliverables: **[DELIVERABLES]**
-- Timeline: **[MILESTONES]**
-- Compensation: **[NUMBER] [CURRENCY]**
-- Payment Schedule: **[DESCRIPTION]**
+- Description of Services: **[Scope]**
+- Deliverables: **[Deliverables]**
+- Timeline: **[Milestones]**
+- Compensation: **[Number] [Currency]**
+- Payment Schedule: **[Description]**

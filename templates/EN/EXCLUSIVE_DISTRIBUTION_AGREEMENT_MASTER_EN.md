@@ -8,20 +8,20 @@ seoTitle: "Exclusive Distribution Agreement Template"
 seoDescription: "Use this exclusive distribution agreement template to document exclusivity, territory, sales obligations, and termination rights."
 ---
 
-This Exclusive Distribution Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Exclusive Distribution Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Supplier**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 **Distributor**
-- Full legal name: **[COMPANY NAME]**
-- Entity type: **[COMPANY TYPE]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Entity type: **[Company type]**
+- Registered address: **[Address]**
 - CVR No.: **[CVR]**
 
 The Supplier and the Distributor are each a "Party" and together the "Parties".
@@ -44,7 +44,7 @@ The Distributor accepts the appointment and undertakes to actively promote and s
 
 ### 3.1 Territory
 
-The Territory covered by this Agreement is **[TERRITORY]** (the "Territory").
+The Territory covered by this Agreement is **[Territory]** (the "Territory").
 
 ### 3.2 Outside Territory
 
@@ -98,11 +98,11 @@ The Distributor shall purchase Products at the prices set out in Schedule 3.
 
 ### 7.2 Price Changes
 
-The Supplier may adjust prices upon **[NUMBER] days** written notice.
+The Supplier may adjust prices upon **[Number] days** written notice.
 
 ### 7.3 Payment Terms
 
-Payment terms are **[NUMBER] days** from invoice date.
+Payment terms are **[Number] days** from invoice date.
 
 ### 7.4 Late Payment
 
@@ -150,18 +150,18 @@ Neither Party shall be liable for indirect or consequential damages.
 
 ### 11.1 Initial Term
 
-This Agreement shall commence on the Effective Date and continue for an initial term of **[NUMBER] years**.
+This Agreement shall commence on the Effective Date and continue for an initial term of **[Number] years**.
 
 ### 11.2 Renewal
 
-Thereafter, it shall automatically renew unless terminated with **[NUMBER] months** written notice.
+Thereafter, it shall automatically renew unless terminated with **[Number] months** written notice.
 
 ## 12. Termination
 
 ### 12.1 Immediate Termination
 
 Either Party may terminate this Agreement immediately in case of:
-- material breach not remedied within **[NUMBER] days**
+- material breach not remedied within **[Number] days**
 - insolvency
 - repeated failure to meet performance obligations
 
@@ -190,7 +190,7 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 
@@ -204,12 +204,12 @@ This Agreement may be executed in counterparts and by electronic signature.
 
 ## Schedule 1: Products
 
-**[PRODUCTS]**
+**[Products]**
 
 ## Schedule 2: Minimum Purchase Targets
 
-**[TARGETS]**
+**[Targets]**
 
 ## Schedule 3: Pricing
 
-**[WHOLESALE PRICING STRUCTURE]**
+**[Wholesale pricing structure]**

@@ -8,14 +8,14 @@ seoTitle: "Skabelon til ejeraftale"
 seoDescription: "Brug denne ejeraftale til at fastlægge ejerforhold, stemmerettigheder, overdragelsesbegrænsninger og governance-regler."
 ---
 
-Denne ejeraftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne ejeraftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Selskab**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Enhedstype: **[SELSKABSTYPE]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Enhedstype: **[Selskabstype]**
+- Registreret adresse: **[Adresse]**
 - CVR-nr.: **[CVR]**
 
 **Ejere**
@@ -51,7 +51,7 @@ Selskabet ledes af bestyrelse og/eller direktion i overensstemmelse med gældend
 
 ### 4.2 Beslutninger, der kræver særlig godkendelse
 
-Følgende forhold kræver godkendelse med **[GODKENDELSESKRAV]**:
+Følgende forhold kræver godkendelse med **[Godkendelseskrav]**:
 - udstedelse af nye kapitalandele
 - ændring af vedtægter
 - salg af væsentlige aktiver
@@ -67,7 +67,7 @@ Udbytte besluttes i overensstemmelse med gældende lovgivning og på baggrund af
 
 ### 6.1 Godkendelse
 
-Kapitalandele må ikke overdrages uden forudgående skriftlig godkendelse fra **[GODKENDELSESKRAV]** Ejerne.
+Kapitalandele må ikke overdrages uden forudgående skriftlig godkendelse fra **[Godkendelseskrav]** Ejerne.
 
 ### 6.2 Forkøbsret
 
@@ -79,11 +79,11 @@ Overdragelser i strid med Aftalen er ugyldige.
 
 ## 7. Medsalgspligt (drag-along)
 
-Hvis Ejere, der tilsammen ejer mindst **[NUMMER]%** af kapitalandelene, accepterer at sælge Selskabet til tredjemand, kan de kræve, at de øvrige Ejere sælger deres kapitalandele på samme vilkår ("Drag-Along").
+Hvis Ejere, der tilsammen ejer mindst **[Nummer]%** af kapitalandelene, accepterer at sælge Selskabet til tredjemand, kan de kræve, at de øvrige Ejere sælger deres kapitalandele på samme vilkår ("Drag-Along").
 
 ## 8. Medsalgsret (tag-along)
 
-Hvis en eller flere Ejere foreslår at sælge kapitalandele, der repræsenterer mere end **[NUMMER]%** af kapitalen, har de øvrige Ejere ret til at deltage i salget på samme vilkår ("Tag-Along").
+Hvis en eller flere Ejere foreslår at sælge kapitalandele, der repræsenterer mere end **[Nummer]%** af kapitalen, har de øvrige Ejere ret til at deltage i salget på samme vilkår ("Tag-Along").
 
 ## 9. Deadlock
 
@@ -93,7 +93,7 @@ Ved deadlock om beslutninger, der kræver særlig godkendelse, skal Parterne sø
 
 ### 9.2 Mægling
 
-Hvis forholdet ikke er løst inden **[NUMMER] dage**, skal sagen eskaleres til mægling.
+Hvis forholdet ikke er løst inden **[Nummer] dage**, skal sagen eskaleres til mægling.
 
 ### 9.3 Køb-salg-mekanisme eller opløsning
 
@@ -107,7 +107,7 @@ Ejerne skal holde alle ikke-offentlige oplysninger vedrørende Selskabet fortrol
 
 ## 11. Konkurrence- og kundeklausuler (valgfrit)
 
-I ejerperioden og i **[NUMMER] måneder** derefter må Ejere, der er aktivt involveret i virksomheden, ikke konkurrere med Selskabet. Ejerne må ikke hverve medarbejdere eller kunder. Sådanne begrænsninger skal overholde gældende lovgivning.
+I ejerperioden og i **[Nummer] måneder** derefter må Ejere, der er aktivt involveret i virksomheden, ikke konkurrere med Selskabet. Ejerne må ikke hverve medarbejdere eller kunder. Sådanne begrænsninger skal overholde gældende lovgivning.
 
 ## 12. Exit- og udkøbshændelser
 
@@ -118,8 +118,8 @@ Ved dødsfald, uarbejdsdygtighed eller væsentlig misligholdelse fra en Ejer kan
 ### 12.2 Værdiansættelse
 
 Prisen fastsættes ved:
-- **[VÆRDIANSÆTTELSESMETODE]**, eller
-- **[VÆRDIANSÆTTELSESMETODE]**
+- **[Værdiansættelsesmetode]**, eller
+- **[Værdiansættelsesmetode]**
 
 Nærmere vilkår fremgår af Bilag 2.
 
@@ -143,7 +143,7 @@ Aftalen forbliver i kraft, så længe to eller flere Ejere ejer kapitalandele i 
 
 ## 16. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 17. Hele aftalen
 
@@ -157,8 +157,8 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift.
 
 ## Bilag 1: Ejere og ejerandele
 
-**[EJERSTRUKTUR]**
+**[Ejerstruktur]**
 
 ## Bilag 2: Værdiansættelsesmodel (hvis relevant)
 
-**[VÆRDIANSÆTTELSESMETODE]**
+**[Værdiansættelsesmetode]**

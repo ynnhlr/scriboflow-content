@@ -8,32 +8,32 @@ seoTitle: "Memorandum of Understanding Template"
 seoDescription: "Use this memorandum of understanding template to capture key deal points, collaboration intent, and a non-binding framework before a final agreement."
 ---
 
-This Memorandum of Understanding (the "MoU") is entered into on **[DATE]** (the "Effective Date").
+This Memorandum of Understanding (the "MoU") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Party A**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Party B**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 Party A and Party B are each a "Party" and together the "Parties".
 
 ## 2. Purpose
 
-The Parties wish to explore a potential collaboration regarding **[PROJECT DESCRIPTION]**. This MoU outlines the general intentions of the Parties.
+The Parties wish to explore a potential collaboration regarding **[Project description]**. This MoU outlines the general intentions of the Parties.
 
 ## 3. Scope of Cooperation
 
 The Parties intend to:
-- **[BUSINESS ACTIVITIES]**
-- **[RESPONSIBILITIES]**
-- **[CONTRIBUTIONS]**
+- **[Business activities]**
+- **[Responsibilities]**
+- **[Contributions]**
 
 Any detailed obligations shall be subject to a separate definitive agreement.
 
@@ -42,19 +42,19 @@ Any detailed obligations shall be subject to a separate definitive agreement.
 ### 4.1 Party A
 
 Party A intends to:
-- **[RESPONSIBILITIES]**
+- **[Responsibilities]**
 
 ### 4.2 Party B
 
 Party B intends to:
-- **[RESPONSIBILITIES]**
+- **[Responsibilities]**
 
 ## 5. Timeline
 
 The Parties anticipate the following timeline:
-- Initial discussions: **[DATE]**
-- Draft agreement: **[DATE]**
-- Expected launch: **[DATE]**
+- Initial discussions: **[Date]**
+- Draft agreement: **[Date]**
+- Expected launch: **[Date]**
 
 These dates are indicative and non-binding.
 
@@ -86,7 +86,7 @@ No Party shall be obligated to proceed with the contemplated collaboration unles
 
 ## 9. Exclusivity (Optional – Binding)
 
-For a period of **[NUMBER] months**, the Parties agree not to negotiate similar collaborations with third parties without mutual consent.
+For a period of **[Number] months**, the Parties agree not to negotiate similar collaborations with third parties without mutual consent.
 
 ## 10. Term and Termination
 
@@ -96,7 +96,7 @@ This MoU shall remain in effect until:
 
 ## 11. Governing Law and Jurisdiction (Binding)
 
-This MoU shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising from the binding provisions of this MoU shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**.
+This MoU shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising from the binding provisions of this MoU shall be subject to the exclusive jurisdiction of the courts of **[Location]**.
 
 ## 12. Entire Understanding
 

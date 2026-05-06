@@ -8,18 +8,18 @@ seoTitle: "Data Processing Agreement Template"
 seoDescription: "Use this data processing agreement template to document GDPR-compliant roles, instructions, and safeguards between the parties."
 ---
 
-This Data Processing Agreement (the "Agreement") is entered into on **[DATE]** (the "Effective Date").
+This Data Processing Agreement (the "Agreement") is entered into on **[Date]** (the "Effective Date").
 
 ## 1. Parties
 
 **Controller**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 **Processor**
-- Full legal name: **[COMPANY NAME]**
-- Registered address: **[ADDRESS]**
+- Full legal name: **[Company name]**
+- Registered address: **[Address]**
 - CVR/ID No.: **[CVR]**
 
 The Controller and the Processor are each a "Party" and together the "Parties".
@@ -100,7 +100,7 @@ The Processor shall not engage sub-processors without prior written authorisatio
 
 ### 8.2 General Authorisation
 
-Where general authorisation is granted, the Processor shall inform the Controller of intended changes and allow objection within **[NUMBER]** days.
+Where general authorisation is granted, the Processor shall inform the Controller of intended changes and allow objection within **[Number]** days.
 
 ### 8.3 Flow-Down Obligations
 
@@ -144,7 +144,7 @@ Assistance may be subject to reasonable compensation where legally permissible.
 
 ### 11.1 Notification
 
-The Processor shall notify the Controller without undue delay and no later than **[NUMBER]** hours after becoming aware of a Personal Data breach.
+The Processor shall notify the Controller without undue delay and no later than **[Number]** hours after becoming aware of a Personal Data breach.
 
 ### 11.2 Contents
 
@@ -162,7 +162,7 @@ The Processor shall make available information necessary to demonstrate complian
 
 ### 12.2 Audits
 
-The Controller may conduct audits upon reasonable notice, no more than **[FREQUENCY]**, unless required by law or following a security incident.
+The Controller may conduct audits upon reasonable notice, no more than **[Number]**, unless required by law or following a security incident.
 
 ## 13. Return or Deletion of Data
 
@@ -190,7 +190,7 @@ Any limitation of liability in the Main Agreement shall not apply to breaches of
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[LOCATION]**, unless mandatory law provides otherwise.
+This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 16. Entire Agreement
 
@@ -204,7 +204,7 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 1: Processing Description
 
-- Categories of Data Subjects: **[DATA SUBJECTS]**
-- Types of Personal Data: **[NAMES, EMAILS, PHONE NUMBERS, PAYMENT DATA, ETC.]**
-- Purpose of Processing: **[PURPOSE]**
-- Retention Period: **[NUMBER] [TIME UNIT]**
+- Categories of Data Subjects: **[Data subjects]**
+- Types of Personal Data: **[Names, emails, phone numbers, payment data, etc.]**
+- Purpose of Processing: **[Purpose]**
+- Retention Period: **[Number] [Time unit]**

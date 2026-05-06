@@ -8,25 +8,25 @@ seoTitle: "Skabelon til gensidig fortrolighedsaftale"
 seoDescription: "Brug denne gensidige fortrolighedsaftale til at beskytte fortrolige oplysninger, når begge parter deler følsomme forretnings- eller tekniske oplysninger."
 ---
 
-Denne gensidige fortrolighedsaftale ("Aftalen") er indgået den **[DATO]** ("Ikrafttrædelsesdatoen").
+Denne gensidige fortrolighedsaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
 
 ## 1. Parter
 
 **Part A**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 **Part B**
-- Fulde juridiske navn: **[VIRKSOMHEDSNAVN]**
-- Registreret adresse: **[ADRESSE]**
+- Fulde juridiske navn: **[Virksomhedsnavn]**
+- Registreret adresse: **[Adresse]**
 - CVR/ID-nr.: **[CVR]**
 
 Part A og Part B benævnes hver en "Part" og samlet "Parterne".
 
 ## 2. Formål
 
-Parterne ønsker at videregive visse Fortrolige oplysninger til hinanden alene med henblik på **[FORMÅL]** ("Formålet").
+Parterne ønsker at videregive visse Fortrolige oplysninger til hinanden alene med henblik på **[Formål]** ("Formålet").
 
 ## 3. Definition af fortrolige oplysninger
 
@@ -65,7 +65,7 @@ Alle Fortrolige oplysninger forbliver den Videregivende Parts eksklusive ejendom
 
 ## 8. Løbetid og overlevelse
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[NUMMER] [TIDSENHED]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[NUMMER] [TIDSENHED]** år.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[Nummer] [Tidsenhed]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[Nummer] [Tidsenhed]** år.
 
 ## 9. Returnering eller destruktion
 
@@ -85,7 +85,7 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 13. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[LOKATION]**, medmindre ufravigelig lovgivning bestemmer andet.
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 14. Sprog
 
