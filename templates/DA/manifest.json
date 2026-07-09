@@ -1,0 +1,347 @@
+{
+  "locale": "da",
+  "generatedAt": "2026-07-09T09:15:14.901Z",
+  "templates": [
+    {
+      "slug": "articles-of-association",
+      "title": "Vedtægter",
+      "description": "Skabelon til at fastlægge selskabets vedtægter, kapitalforhold og beslutningsstruktur.",
+      "tags": [
+        "Selskabsret"
+      ],
+      "seoTitle": "Skabelon til vedtægter",
+      "seoDescription": "Brug denne vedtægtsskabelon til at fastlægge selskabets grundlæggende regler, kapitalforhold og governance.",
+      "contentPath": "templates/DA/ARTICLES_OF_ASSOCIATION_MASTER_DK.md"
+    },
+    {
+      "slug": "commercial-lease-agreement",
+      "title": "Erhvervslejekontrakt",
+      "description": "Skabelon til leje af erhvervslokaler, herunder leje, løbetid, anvendelse og parternes ansvar.",
+      "tags": [
+        "Ejendom"
+      ],
+      "seoTitle": "Skabelon til erhvervslejekontrakt",
+      "seoDescription": "Brug denne skabelon til erhvervslejekontrakt til at fastlægge leje, løbetid, anvendelse og centrale forpligtelser.",
+      "contentPath": "templates/DA/COMMERCIAL_LEASE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "consignment-agreement",
+      "title": "Konsignationsaftale",
+      "description": "Skabelon til konsignationssalg, herunder ejerskab, salgsrapportering, prisfastsættelse og afregning.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til konsignationsaftale",
+      "seoDescription": "Brug denne konsignationsaftale til at fastlægge ejerskab, videresalgsvilkår, rapportering og betaling for varer i konsignation.",
+      "contentPath": "templates/DA/CONSIGNMENT_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "consulting-agreement",
+      "title": "Konsulentaftale",
+      "description": "Skabelon til at definere konsulentydelser, leverancer, honorar, fortrolighed og immaterielle rettigheder.",
+      "tags": [
+        "Ydelser"
+      ],
+      "seoTitle": "Skabelon til konsulentaftale",
+      "seoDescription": "Brug denne konsulentaftale til at beskrive scope, leverancer, honorar, fortrolighed og ejerskab til IP.",
+      "contentPath": "templates/DA/CONSULTING_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "data-processing-agreement",
+      "title": "Databehandleraftale (DPA)",
+      "description": "Skabelon til regulering af behandling af personoplysninger mellem dataansvarlig og databehandler i overensstemmelse med GDPR.",
+      "tags": [
+        "Persondata"
+      ],
+      "seoTitle": "Skabelon til databehandleraftale",
+      "seoDescription": "Brug denne databehandleraftale til at beskrive GDPR-compliant roller, instrukser og sikkerhedsforanstaltninger mellem parterne.",
+      "contentPath": "templates/DA/DATA_PROCESSING_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "distribution-agreement",
+      "title": "Distributionsaftale",
+      "description": "Skabelon til at udpege en distributør og fastlægge territorium, salgsforpligtelser, priser og ophørsvilkår.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til distributionsaftale",
+      "seoDescription": "Brug denne distributionsaftale til at fastlægge territorium, salgsansvar, priser og ophør mellem leverandør og distributør.",
+      "contentPath": "templates/DA/DISTRIBUTION_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "employee-separation-agreement",
+      "title": "Fratrædelsesaftale for medarbejder",
+      "description": "Skabelon til at aftale vilkår for medarbejderens fratrædelse, herunder opsigelse, kompensation, frigørelse og aflevering.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til fratrædelsesaftale",
+      "seoDescription": "Brug denne fratrædelsesaftale til at fastlægge opsigelsesvarsel, kompensation, frigørelsesklausuler og afleveringsforpligtelser.",
+      "contentPath": "templates/DA/EMPLOYEE_SEPARATION_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "employment-agreement-fixed-payment",
+      "title": "Ansættelsesaftale (Fast løn)",
+      "description": "Skabelon til ansættelsesvilkår med fast løn, herunder stilling, vederlag, arbejdstid og centrale forpligtelser.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til ansættelsesaftale med fast løn",
+      "seoDescription": "Brug denne ansættelsesaftale med fast løn til at definere medarbejderens rolle, løn, arbejdstid og centrale vilkår.",
+      "contentPath": "templates/DA/EMPLOYMENT_AGREEMENT_FIXED_PAYMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "employment-agreement-hourly",
+      "title": "Ansættelsesaftale (Timelønnet)",
+      "description": "Skabelon til timelønnet ansættelse, herunder arbejdstid, timeløn, overarbejde og arbejdspladsforpligtelser.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til timelønnet ansættelsesaftale",
+      "seoDescription": "Brug denne timelønnede ansættelsesaftale til at fastlægge timeløn, arbejdstid, overarbejde og medarbejderens forpligtelser.",
+      "contentPath": "templates/DA/EMPLOYMENT_AGREEMENT_HOURLY_MASTER_DK.md"
+    },
+    {
+      "slug": "employment-agreement-salaried-fixed-term",
+      "title": "Ansættelsesaftale (Månedslønnet - tidsbegrænset)",
+      "description": "Skabelon til tidsbegrænset månedslønnet ansættelse, herunder varighed, løn, arbejdsopgaver og ophørsvilkår.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til tidsbegrænset ansættelsesaftale",
+      "seoDescription": "Brug denne tidsbegrænsede ansættelsesaftale til at beskrive løn, kontraktperiode, arbejdsopgaver og vilkår ved ophør.",
+      "contentPath": "templates/DA/EMPLOYMENT_AGREEMENT_SALARIED_FIXED_TERM_MASTER_DK.md"
+    },
+    {
+      "slug": "exclusive-distribution-agreement",
+      "title": "Eksklusiv distributionsaftale",
+      "description": "Skabelon til at give eksklusive distributionsrettigheder i et territorium, herunder performancekrav og ophørsvilkår.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til eksklusiv distributionsaftale",
+      "seoDescription": "Brug denne eksklusive distributionsaftale til at fastlægge eksklusivitet, territorium, salgsforpligtelser og ophørsrettigheder.",
+      "contentPath": "templates/DA/EXCLUSIVE_DISTRIBUTION_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "exclusive-license-agreement",
+      "title": "Eksklusiv licensaftale",
+      "description": "Skabelon til at give en eksklusiv licens til immaterielle rettigheder, herunder omfang, royalties, begrænsninger og ophør.",
+      "tags": [
+        "Immaterielle rettigheder"
+      ],
+      "seoTitle": "Skabelon til eksklusiv licensaftale",
+      "seoDescription": "Brug denne eksklusive licensaftale til at fastlægge omfang, royalties, begrænsninger og ophør for en eksklusiv licens.",
+      "contentPath": "templates/DA/EXCLUSIVE_LICENSE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "freelance-agreement",
+      "title": "Freelanceaftale",
+      "description": "Skabelon til freelanceydelser, herunder scope, honorar, leverancer, fortrolighed og immaterielle rettigheder.",
+      "tags": [
+        "Ydelser"
+      ],
+      "seoTitle": "Skabelon til freelanceaftale",
+      "seoDescription": "Brug denne freelanceaftale til at fastlægge projektets omfang, honorar, leveringsvilkår, fortrolighed og ejerskab til IP.",
+      "contentPath": "templates/DA/FREELANCE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "general-terms-and-conditions-of-sale",
+      "title": "Generelle salgs- og leveringsbetingelser",
+      "description": "Standardskabelon til salgs- og leveringsbetingelser for salg af varer og ydelser.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til generelle salgs- og leveringsbetingelser",
+      "seoDescription": "Brug denne skabelon til at fastsætte tydelige kommercielle vilkår i dine salgsaftaler.",
+      "contentPath": "templates/DA/GENERAL_TERMS_AND_CONDITIONS_OF_SALE_MASTER_DK.md"
+    },
+    {
+      "slug": "intellectual-property-assignment-agreement",
+      "title": "Aftale om overdragelse af immaterielle rettigheder",
+      "description": "Skabelon til overdragelse af immaterielle rettigheder, herunder garantier, vederlag og yderligere bistand.",
+      "tags": [
+        "Immaterielle rettigheder"
+      ],
+      "seoTitle": "Skabelon til overdragelse af immaterielle rettigheder",
+      "seoDescription": "Brug denne aftale om overdragelse af immaterielle rettigheder til at fastlægge IP-overdragelse, garantier, betaling og bistand efter underskrift.",
+      "contentPath": "templates/DA/INTELLECTUAL_PROPERTY_ASSIGNMENT_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "loan-agreement",
+      "title": "Låneaftale",
+      "description": "Skabelon til at dokumentere et lån, herunder hovedstol, afdragsplan, rente, sikkerhed og misligholdelse.",
+      "tags": [
+        "Finans"
+      ],
+      "seoTitle": "Skabelon til låneaftale",
+      "seoDescription": "Brug denne låneaftale til at fastlægge hovedstol, rente, afdragsplan og konsekvenser ved misligholdelse.",
+      "contentPath": "templates/DA/LOAN_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "memorandum-of-understanding",
+      "title": "Hensigtserklæring (Memorandum of Understanding)",
+      "description": "Skabelon til at dokumentere parternes foreløbige hensigter, samarbejdsprincipper og ikke-bindende kommercielle forståelse.",
+      "tags": [
+        "Selskabsret"
+      ],
+      "seoTitle": "Skabelon til hensigtserklæring",
+      "seoDescription": "Brug denne hensigtserklæring til at samle hovedpunkter, samarbejdshensigt og en ikke-bindende ramme før en endelig aftale.",
+      "contentPath": "templates/DA/MEMORANDUM_OF_UNDERSTANDING_MASTER_DK.md"
+    },
+    {
+      "slug": "mutual-non-disclosure-agreement",
+      "title": "Gensidig fortrolighedsaftale (NDA)",
+      "description": "Skabelon til gensidig fortrolighed, når begge parter deler følsomme oplysninger under drøftelser eller samarbejde.",
+      "tags": [
+        "Fortrolighed"
+      ],
+      "seoTitle": "Skabelon til gensidig fortrolighedsaftale",
+      "seoDescription": "Brug denne gensidige fortrolighedsaftale til at beskytte fortrolige oplysninger, når begge parter deler følsomme forretnings- eller tekniske oplysninger.",
+      "contentPath": "templates/DA/MUTUAL_NDA_MASTER_DK.md"
+    },
+    {
+      "slug": "non-compete-agreement",
+      "title": "Konkurrenceklausulaftale",
+      "description": "Skabelon til at begrænse konkurrenceaktiviteter efter ophør af et ansættelses- eller kommercielt forhold.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til konkurrenceklausul",
+      "seoDescription": "Brug denne konkurrenceklausul til at fastlægge begrænsninger efter ophør, omfang, varighed og håndhævelse.",
+      "contentPath": "templates/DA/NON_COMPETE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "non-exclusive-license-agreement",
+      "title": "Ikke-eksklusiv licensaftale",
+      "description": "Skabelon til at give en ikke-eksklusiv licens til immaterielle rettigheder, herunder omfang, royalties, begrænsninger og ophør.",
+      "tags": [
+        "Immaterielle rettigheder"
+      ],
+      "seoTitle": "Skabelon til ikke-eksklusiv licensaftale",
+      "seoDescription": "Brug denne ikke-eksklusive licensaftale til at beskrive brugsrettigheder, royalties, begrænsninger og ophør for en ikke-eksklusiv licens.",
+      "contentPath": "templates/DA/NON_EXCLUSIVE_LICENSE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "non-solicitation-agreement",
+      "title": "Kunde- og medarbejderklausulaftale",
+      "description": "Skabelon til at begrænse hvervning af kunder, medarbejdere eller andre forretningsrelationer efter ophør.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til kunde- og medarbejderklausul",
+      "seoDescription": "Brug denne kunde- og medarbejderklausul til at beskytte kunde- og medarbejderrelationer efter ophør af samarbejdet.",
+      "contentPath": "templates/DA/NON_SOLICITATION_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "offer-letter",
+      "title": "Tilbudsbrev",
+      "description": "Skabelon til at udsende et jobtilbud med stilling, vederlag, startdato og centrale ansættelsesvilkår.",
+      "tags": [
+        "Ansættelse"
+      ],
+      "seoTitle": "Skabelon til tilbudsbrev",
+      "seoDescription": "Brug dette tilbudsbrev til at præsentere jobvilkår klart, herunder rolle, løn, startdato og acceptbetingelser.",
+      "contentPath": "templates/DA/OFFER_LETTER_MASTER_DK.md"
+    },
+    {
+      "slug": "partnership-agreement",
+      "title": "Interessentskabsaftale",
+      "description": "Skabelon til at regulere et interessentskab, herunder indskud, overskudsdeling, ledelse og exitvilkår.",
+      "tags": [
+        "Selskabsret"
+      ],
+      "seoTitle": "Skabelon til interessentskabsaftale",
+      "seoDescription": "Brug denne interessentskabsaftale til at fastlægge indskud, overskudsdeling, beslutningsprocesser og exitregler mellem partnere.",
+      "contentPath": "templates/DA/PARTNERSHIP_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "payment-agreement",
+      "title": "Betalingsaftale",
+      "description": "Skabelon til at fastsætte en betalingsordning for udestående beløb, herunder afdrag, frister og misligholdelse.",
+      "tags": [
+        "Finans"
+      ],
+      "seoTitle": "Skabelon til betalingsaftale",
+      "seoDescription": "Brug denne betalingsaftale til at dokumentere afdrag, betalingsfrister og konsekvenser, hvis skyldner ikke betaler.",
+      "contentPath": "templates/DA/PAYMENT_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "product-supply-agreement",
+      "title": "Aftale om levering af produkter",
+      "description": "Skabelon til løbende levering af produkter, herunder pris, levering, kvalitetskrav og garantiforpligtelser.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til aftale om levering af produkter",
+      "seoDescription": "Brug denne aftale om levering af produkter til at fastlægge pris, leveringsforpligtelser, kvalitetskrav og garantiansvar.",
+      "contentPath": "templates/DA/PRODUCT_SUPPLY_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "sales-and-purchase-agreement",
+      "title": "Købs- og salgsaftale",
+      "description": "Skabelon til at dokumentere køb og salg af aktiver, varer eller en virksomhedsandel, herunder pris og garantier.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til købs- og salgsaftale",
+      "seoDescription": "Brug denne købs- og salgsaftale til at fastlægge pris, overtagelsesmekanik, garantier og centrale forpligtelser mellem køber og sælger.",
+      "contentPath": "templates/DA/SALES_AND_PURCHASE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "service-agreement",
+      "title": "Serviceaftale",
+      "description": "Skabelon til et serviceforhold, herunder scope, serviceniveauer, honorar, ansvar og ophør.",
+      "tags": [
+        "Ydelser"
+      ],
+      "seoTitle": "Skabelon til serviceaftale",
+      "seoDescription": "Brug denne serviceaftale til at beskrive scope, serviceniveauer, pris, ansvarsfordeling og ophørsbestemmelser.",
+      "contentPath": "templates/DA/SERVICE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "share-purchase-agreement",
+      "title": "Aktieoverdragelsesaftale",
+      "description": "Skabelon til overdragelse af aktier, herunder købesum, gennemførelsesmekanik, garantier og forpligtelser efter closing.",
+      "tags": [
+        "Selskabsret"
+      ],
+      "seoTitle": "Skabelon til aktieoverdragelsesaftale",
+      "seoDescription": "Brug denne aktieoverdragelsesaftale til at fastlægge købesum, gennemførelsestrin, garantier og forpligtelser efter closing.",
+      "contentPath": "templates/DA/SHARE_PURCHASE_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "shareholders-agreement",
+      "title": "Ejeraftale",
+      "description": "Skabelon til at regulere forholdet mellem ejere, herunder governance, overdragelsesbegrænsninger og beslutningsrettigheder.",
+      "tags": [
+        "Selskabsret"
+      ],
+      "seoTitle": "Skabelon til ejeraftale",
+      "seoDescription": "Brug denne ejeraftale til at fastlægge ejerforhold, stemmerettigheder, overdragelsesbegrænsninger og governance-regler.",
+      "contentPath": "templates/DA/SHAREHOLDERS_AGREEMENT_MASTER_DK.md"
+    },
+    {
+      "slug": "unilateral-non-disclosure-agreement",
+      "title": "Ensidig fortrolighedsaftale (NDA)",
+      "description": "Skabelon til ensidig fortrolighed, når kun den ene part videregiver følsomme oplysninger til den anden.",
+      "tags": [
+        "Fortrolighed"
+      ],
+      "seoTitle": "Skabelon til ensidig fortrolighedsaftale",
+      "seoDescription": "Brug denne ensidige fortrolighedsaftale til at beskytte fortrolige oplysninger, når kun den ene part deler følsomme forretnings- eller tekniske oplysninger.",
+      "contentPath": "templates/DA/UNILATERAL_NDA_MASTER_DK.md"
+    },
+    {
+      "slug": "vendor-agreement",
+      "title": "Leverandøraftale",
+      "description": "Skabelon til regulering af leverandørforhold, herunder priser, levering, serviceniveauer og leverandørens forpligtelser.",
+      "tags": [
+        "Salg"
+      ],
+      "seoTitle": "Skabelon til leverandøraftale",
+      "seoDescription": "Brug denne leverandøraftale til at fastlægge pris, levering, kvalitet og leverandørens ansvar i et løbende kommercielt forhold.",
+      "contentPath": "templates/DA/VENDOR_AGREEMENT_MASTER_DK.md"
+    }
+  ]
+}

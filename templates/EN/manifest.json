@@ -1,0 +1,347 @@
+{
+  "locale": "en",
+  "generatedAt": "2026-07-09T09:15:14.900Z",
+  "templates": [
+    {
+      "slug": "articles-of-association",
+      "title": "Articles of Association",
+      "description": "Template for setting out a company's governing rules, share structure, and decision-making framework.",
+      "tags": [
+        "Corporate"
+      ],
+      "seoTitle": "Articles of Association Template",
+      "seoDescription": "Use this articles of association template to define your company's constitutional rules, share structure, and governance framework.",
+      "contentPath": "templates/EN/ARTICLES_OF_ASSOCIATION_MASTER_EN.md"
+    },
+    {
+      "slug": "commercial-lease-agreement",
+      "title": "Commercial Lease Agreement",
+      "description": "Template for leasing commercial premises, including rent, term, permitted use, and landlord-tenant responsibilities.",
+      "tags": [
+        "Real estate"
+      ],
+      "seoTitle": "Commercial Lease Agreement Template",
+      "seoDescription": "Use this commercial lease agreement template to document rent, lease term, premises use, and key landlord-tenant obligations.",
+      "contentPath": "templates/EN/COMMERCIAL_LEASE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "consignment-agreement",
+      "title": "Consignment Agreement",
+      "description": "Template for placing goods on consignment, including ownership, sales reporting, pricing, and settlement terms.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Consignment Agreement Template",
+      "seoDescription": "Use this consignment agreement template to define ownership, resale terms, reporting, and payment for consigned goods.",
+      "contentPath": "templates/EN/CONSIGNMENT_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "consulting-agreement",
+      "title": "Consulting Agreement",
+      "description": "Template for defining consulting services, deliverables, fees, confidentiality, and intellectual property terms.",
+      "tags": [
+        "Services"
+      ],
+      "seoTitle": "Consulting Agreement Template",
+      "seoDescription": "Use this consulting agreement template to document scope, deliverables, fees, confidentiality, and IP ownership.",
+      "contentPath": "templates/EN/CONSULTING_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "data-processing-agreement",
+      "title": "Data Processing Agreement (DPA)",
+      "description": "Template for governing personal data processing between controller and processor in line with GDPR requirements.",
+      "tags": [
+        "Privacy"
+      ],
+      "seoTitle": "Data Processing Agreement Template",
+      "seoDescription": "Use this data processing agreement template to document GDPR-compliant roles, instructions, and safeguards between the parties.",
+      "contentPath": "templates/EN/DATA_PROCESSING_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "distribution-agreement",
+      "title": "Distribution Agreement",
+      "description": "Template for appointing a distributor and setting territory, sales obligations, pricing, and termination terms.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Distribution Agreement Template",
+      "seoDescription": "Use this distribution agreement template to define territory, sales responsibilities, pricing, and termination between supplier and distributor.",
+      "contentPath": "templates/EN/DISTRIBUTION_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "employee-separation-agreement",
+      "title": "Employee Separation Agreement",
+      "description": "Template for documenting employment termination terms, including notice, compensation, release, and handover obligations.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Employee Separation Agreement Template",
+      "seoDescription": "Use this employee separation agreement template to set out notice, compensation, release language, and handover responsibilities.",
+      "contentPath": "templates/EN/EMPLOYEE_SEPARATION_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "employment-agreement-fixed-payment",
+      "title": "Employment Agreement (Fixed Payment)",
+      "description": "Template for fixed-salary employment terms, covering role, compensation, working hours, and core obligations.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Fixed Salary Employment Agreement Template",
+      "seoDescription": "Use this fixed salary employment agreement template to define the employee's role, salary, hours, and key contractual terms.",
+      "contentPath": "templates/EN/EMPLOYMENT_AGREEMENT_FIXED_PAYMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "employment-agreement-hourly",
+      "title": "Employment Agreement (Hourly Paid)",
+      "description": "Template for hourly paid employment, including hours, pay rate, overtime, and workplace obligations.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Hourly Employment Agreement Template",
+      "seoDescription": "Use this hourly employment agreement template to document pay rate, working time, overtime, and employee obligations.",
+      "contentPath": "templates/EN/EMPLOYMENT_AGREEMENT_HOURLY_MASTER_EN.md"
+    },
+    {
+      "slug": "employment-agreement-salaried-fixed-term",
+      "title": "Employment Agreement (Salaried - Fixed Term)",
+      "description": "Template for fixed-term salaried employment, covering duration, salary, duties, and end-of-term conditions.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Fixed Term Employment Agreement Template",
+      "seoDescription": "Use this fixed term employment agreement template to define salary, term length, job duties, and end-of-contract conditions.",
+      "contentPath": "templates/EN/EMPLOYMENT_AGREEMENT_SALARIED_FIXED_TERM_MASTER_EN.md"
+    },
+    {
+      "slug": "exclusive-distribution-agreement",
+      "title": "Exclusive Distribution Agreement",
+      "description": "Template for granting exclusive distribution rights within a territory, including performance and termination terms.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Exclusive Distribution Agreement Template",
+      "seoDescription": "Use this exclusive distribution agreement template to document exclusivity, territory, sales obligations, and termination rights.",
+      "contentPath": "templates/EN/EXCLUSIVE_DISTRIBUTION_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "exclusive-license-agreement",
+      "title": "Exclusive License Agreement",
+      "description": "Template for granting an exclusive intellectual property license, including scope, royalties, restrictions, and termination.",
+      "tags": [
+        "Intellectual property"
+      ],
+      "seoTitle": "Exclusive License Agreement Template",
+      "seoDescription": "Use this exclusive license agreement template to set the scope, royalties, restrictions, and termination rules for an exclusive license.",
+      "contentPath": "templates/EN/EXCLUSIVE_LICENSE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "freelance-agreement",
+      "title": "Freelance Agreement",
+      "description": "Template for freelance services, covering scope, fees, deliverables, confidentiality, and intellectual property rights.",
+      "tags": [
+        "Services"
+      ],
+      "seoTitle": "Freelance Agreement Template",
+      "seoDescription": "Use this freelance agreement template to define project scope, fees, delivery terms, confidentiality, and IP ownership.",
+      "contentPath": "templates/EN/FREELANCE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "general-terms-and-conditions-of-sale",
+      "title": "General Terms and Conditions of Sale",
+      "description": "Standard terms and conditions of sale template for goods and services transactions.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "General Terms and Conditions of Sale Template",
+      "seoDescription": "Use this general terms and conditions of sale template to define clear commercial terms for your sales agreements.",
+      "contentPath": "templates/EN/GENERAL_TERMS_AND_CONDITIONS_OF_SALE_MASTER_EN.md"
+    },
+    {
+      "slug": "intellectual-property-assignment-agreement",
+      "title": "Intellectual Property Assignment Agreement",
+      "description": "Template for transferring ownership of intellectual property rights, including warranties, consideration, and further assurances.",
+      "tags": [
+        "Intellectual property"
+      ],
+      "seoTitle": "Intellectual Property Assignment Agreement Template",
+      "seoDescription": "Use this intellectual property assignment agreement template to transfer IP ownership and document warranties, payment, and post-signing assistance.",
+      "contentPath": "templates/EN/INTELLECTUAL_PROPERTY_ASSIGNMENT_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "loan-agreement",
+      "title": "Loan Agreement",
+      "description": "Template for documenting a loan, including principal, repayment schedule, interest, security, and default terms.",
+      "tags": [
+        "Finance"
+      ],
+      "seoTitle": "Loan Agreement Template",
+      "seoDescription": "Use this loan agreement template to set out principal amount, interest, repayment schedule, and default consequences.",
+      "contentPath": "templates/EN/LOAN_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "memorandum-of-understanding",
+      "title": "Memorandum of Understanding",
+      "description": "Template for recording the parties' preliminary intentions, collaboration principles, and non-binding commercial understanding.",
+      "tags": [
+        "Corporate"
+      ],
+      "seoTitle": "Memorandum of Understanding Template",
+      "seoDescription": "Use this memorandum of understanding template to capture key deal points, collaboration intent, and a non-binding framework before a final agreement.",
+      "contentPath": "templates/EN/MEMORANDUM_OF_UNDERSTANDING_MASTER_EN.md"
+    },
+    {
+      "slug": "mutual-non-disclosure-agreement",
+      "title": "Mutual Non-Disclosure Agreement (NDA)",
+      "description": "Template for mutual confidentiality when both parties share sensitive information during discussions or cooperation.",
+      "tags": [
+        "Confidentiality"
+      ],
+      "seoTitle": "Mutual NDA Template",
+      "seoDescription": "Use this mutual NDA template to protect confidential information when both parties disclose sensitive business or technical details.",
+      "contentPath": "templates/EN/MUTUAL_NDA_MASTER_EN.md"
+    },
+    {
+      "slug": "non-compete-agreement",
+      "title": "Non-Compete Agreement",
+      "description": "Template for restricting competing activities after an employment or commercial relationship ends.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Non-Compete Agreement Template",
+      "seoDescription": "Use this non-compete agreement template to define post-termination restrictions, scope, duration, and enforcement terms.",
+      "contentPath": "templates/EN/NON_COMPETE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "non-exclusive-license-agreement",
+      "title": "Non-Exclusive License Agreement",
+      "description": "Template for granting a non-exclusive intellectual property license, including scope, royalties, restrictions, and termination.",
+      "tags": [
+        "Intellectual property"
+      ],
+      "seoTitle": "Non-Exclusive License Agreement Template",
+      "seoDescription": "Use this non-exclusive license agreement template to set out usage rights, royalties, restrictions, and termination rules for a non-exclusive license.",
+      "contentPath": "templates/EN/NON_EXCLUSIVE_LICENSE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "non-solicitation-agreement",
+      "title": "Non-Solicitation Agreement",
+      "description": "Template for restricting solicitation of customers, employees, or other business relationships after termination.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Non-Solicitation Agreement Template",
+      "seoDescription": "Use this non-solicitation agreement template to protect customer and employee relationships after the parties part ways.",
+      "contentPath": "templates/EN/NON_SOLICITATION_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "offer-letter",
+      "title": "Offer Letter",
+      "description": "Template for issuing a job offer that outlines role, compensation, start date, and key employment terms.",
+      "tags": [
+        "Employment"
+      ],
+      "seoTitle": "Offer Letter Template",
+      "seoDescription": "Use this offer letter template to present job terms clearly, including role, salary, start date, and acceptance conditions.",
+      "contentPath": "templates/EN/OFFER_LETTER_MASTER_EN.md"
+    },
+    {
+      "slug": "partnership-agreement",
+      "title": "Partnership Agreement",
+      "description": "Template for regulating a partnership, including contributions, profit sharing, management, and exit terms.",
+      "tags": [
+        "Corporate"
+      ],
+      "seoTitle": "Partnership Agreement Template",
+      "seoDescription": "Use this partnership agreement template to define contributions, profit sharing, decision-making, and exit rules between partners.",
+      "contentPath": "templates/EN/PARTNERSHIP_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "payment-agreement",
+      "title": "Payment Agreement",
+      "description": "Template for setting a repayment plan for outstanding amounts, including instalments, deadlines, and default consequences.",
+      "tags": [
+        "Finance"
+      ],
+      "seoTitle": "Payment Agreement Template",
+      "seoDescription": "Use this payment agreement template to document instalments, due dates, and consequences if the debtor misses payments.",
+      "contentPath": "templates/EN/PAYMENT_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "product-supply-agreement",
+      "title": "Product Supply Agreement",
+      "description": "Template for ongoing supply of products, covering pricing, delivery, quality standards, and warranty obligations.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Product Supply Agreement Template",
+      "seoDescription": "Use this product supply agreement template to define pricing, delivery commitments, quality standards, and warranty responsibilities.",
+      "contentPath": "templates/EN/PRODUCT_SUPPLY_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "sales-and-purchase-agreement",
+      "title": "Sales and Purchase Agreement",
+      "description": "Template for documenting the sale and purchase of assets, goods, or a business interest, including price and warranties.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Sales and Purchase Agreement Template",
+      "seoDescription": "Use this sales and purchase agreement template to record price, closing mechanics, warranties, and key obligations between buyer and seller.",
+      "contentPath": "templates/EN/SALES_AND_PURCHASE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "service-agreement",
+      "title": "Service Agreement",
+      "description": "Template for a service relationship, including scope, service levels, fees, responsibilities, and termination.",
+      "tags": [
+        "Services"
+      ],
+      "seoTitle": "Service Agreement Template",
+      "seoDescription": "Use this service agreement template to define scope, service levels, pricing, responsibilities, and termination provisions.",
+      "contentPath": "templates/EN/SERVICE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "share-purchase-agreement",
+      "title": "Share Purchase Agreement",
+      "description": "Template for transferring shares, including purchase price, completion mechanics, warranties, and post-closing obligations.",
+      "tags": [
+        "Corporate"
+      ],
+      "seoTitle": "Share Purchase Agreement Template",
+      "seoDescription": "Use this share purchase agreement template to document purchase price, completion steps, warranties, and obligations after closing.",
+      "contentPath": "templates/EN/SHARE_PURCHASE_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "shareholders-agreement",
+      "title": "Shareholders' Agreement",
+      "description": "Template for regulating relations between shareholders, including governance, transfer restrictions, and decision rights.",
+      "tags": [
+        "Corporate"
+      ],
+      "seoTitle": "Shareholders' Agreement Template",
+      "seoDescription": "Use this shareholders' agreement template to define ownership relations, voting rights, transfer restrictions, and governance rules.",
+      "contentPath": "templates/EN/SHAREHOLDERS_AGREEMENT_MASTER_EN.md"
+    },
+    {
+      "slug": "unilateral-non-disclosure-agreement",
+      "title": "Unilateral Non-Disclosure Agreement (NDA)",
+      "description": "Template for one-way confidentiality when only one party discloses sensitive information to the other.",
+      "tags": [
+        "Confidentiality"
+      ],
+      "seoTitle": "Unilateral NDA Template",
+      "seoDescription": "Use this unilateral NDA template to protect confidential information when only one party is disclosing sensitive business or technical details.",
+      "contentPath": "templates/EN/UNILATERAL_NDA_MASTER_EN.md"
+    },
+    {
+      "slug": "vendor-agreement",
+      "title": "Vendor Agreement",
+      "description": "Template for governing vendor relationships, including pricing, delivery, service standards, and supplier obligations.",
+      "tags": [
+        "Sales"
+      ],
+      "seoTitle": "Vendor Agreement Template",
+      "seoDescription": "Use this vendor agreement template to define pricing, delivery, quality, and supplier responsibilities in an ongoing commercial relationship.",
+      "contentPath": "templates/EN/VENDOR_AGREEMENT_MASTER_EN.md"
+    }
+  ]
+}
