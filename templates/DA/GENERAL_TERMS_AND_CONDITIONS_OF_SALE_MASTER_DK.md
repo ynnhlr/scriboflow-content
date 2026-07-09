@@ -33,6 +33,10 @@ Kundens egne betingelser finder ikke anvendelse, medmindre Leverandøren udtrykk
 
 Fravigelser fra disse Vilkår skal aftales skriftligt.
 
+### 2.4 Kun erhvervskunder
+
+Disse Vilkår gælder udelukkende for salg til kunder, der handler som led i deres erhverv ("Erhvervskunder"). Vilkårene gælder ikke for, og har ikke til hensigt at begrænse rettighederne for, forbrugere i købelovens eller anden gældende forbrugerbeskyttelseslovgivnings forstand. Indgår Leverandøren bevidst en salgsaftale med en forbruger, går ufravigelig dansk forbrugerbeskyttelseslovgivning forud for enhver modstridende bestemmelse i disse Vilkår.
+
 ## 3. Tilbud og ordrer
 
 ### 3.1 Uforbindende tilbud
@@ -55,14 +59,15 @@ Alle priser er angivet i **[Valuta]** og er eksklusive moms og andre gældende a
 
 ### 4.2 Betalingsbetingelser
 
-Fakturaer forfalder til betaling **[Nummer] dage** fra fakturadato, medmindre andet er aftalt.
+Fakturaer forfalder til betaling **[Nummer] [Tidsenhed]** fra fakturadato, medmindre andet er aftalt.
 
 ### 4.3 Forsinket betaling
 
 Ved forsinket betaling:
-- påløber lovbestemt rente
-- kan der opkræves rykker- og inkassoomkostninger
-- kan Leverandøren suspendere leverancer
+- påløber der rente af det forfaldne beløb med **[Rentesats]** p.a. fra forfaldsdatoen og indtil betaling sker (eller, hvis ingen sats er aftalt, med den lovbestemte morarente efter renteloven);
+- er Leverandøren berettiget til det lovpligtige, faste kompensationsbeløb for inddrivelsesomkostninger efter de danske regler til gennemførelse af EU's direktiv om forsinket betaling, ud over renter; dette faste kompensationsbeløb kan ikke forudgående fraskrives af Kunden;
+- kan Leverandøren derudover opkræve rimelige, dokumenterede rykker- og inkassoomkostninger, der overstiger det faste kompensationsbeløb;
+- kan Leverandøren suspendere leverancer.
 
 ### 4.4 Modregningsforbud
 
@@ -94,11 +99,15 @@ Risikoen overgår til Kunden ved levering.
 
 ### 6.2 Ejendomsforbehold
 
-Ejendomsretten til varerne forbliver hos Leverandøren, indtil alle forfaldne beløb er fuldt betalt.
+Ejendomsretten til varer leveret under en konkret ordre eller levering forbliver hos Leverandøren, indtil Kunden har betalt prisen for den pågældende konkrete levering fuldt ud. Ejendomsforbeholdet sikrer alene prisen for den levering, varerne vedrører, og sikrer ikke andre, urelaterede beløb, som Kunden skylder Leverandøren.
 
 ### 6.3 Adskillelse
 
 Kunden skal opbevare varer omfattet af ejendomsforbehold adskilt og tydeligt identificerbare.
+
+### 6.4 Bortfald af ejendomsforbehold
+
+Leverandørens ejendomsforbehold bortfalder for varer, der forarbejdes, indarbejdes i et andet produkt, videresælges til tredjemand som led i Kundens sædvanlige drift, eller på anden måde sammenblandes, således at de ikke længere er tydeligt identificerbare som Leverandørens ejendom. Videresælges varer omfattet af ejendomsforbehold, før de er betalt, overdrages Kundens krav mod køberen på det derved fremkomne salgsprovenu hermed til Leverandøren i det omfang, prisen ikke er betalt, og Kunden skal straks underrette Leverandøren om et sådant videresalg og yde rimelig bistand til at perfektionere overdragelsen af kravet.
 
 ## 7. Undersøgelse og reklamation
 
@@ -108,11 +117,11 @@ Kunden skal undersøge varerne straks ved levering.
 
 ### 7.2 Reklamationsfrist
 
-Reklamationer skal fremsættes skriftligt inden for **[Nummer] dage** fra levering.
+Reklamationer skal fremsættes skriftligt inden for **[Nummer] [Tidsenhed]** fra levering.
 
 ### 7.3 Accept
 
-Undlader Kunden at reklamere over mangler inden for fristen, anses leverancen for accepteret.
+Undlader Kunden at reklamere over mangler inden for fristen, anses leverancen for accepteret, uden at dette berører eventuelle ufravigelige rettigheder, Kunden måtte have efter ufravigelig lovgivning.
 
 ## 8. Garanti
 
@@ -147,6 +156,10 @@ Leverandørens samlede ansvar kan ikke overstige det beløb, der er betalt for d
 ### 9.3 Ufravigeligt ansvar
 
 Intet i disse Vilkår begrænser ansvar for svig, forsæt eller ansvar, som ikke kan begrænses efter ufravigelig lovgivning.
+
+### 9.4 Undtagelse for produktansvar
+
+Intet i dette punkt 9 begrænser eller udelukker Leverandørens ansvar efter produktansvarsloven for personskade, eller - i det omfang et sådant ansvar er ufravigeligt - for tingsskade forårsaget af et defekt produkt. Et sådant ansvar gælder i overensstemmelse med produktansvarsloven uanset de beløbsmæssige lofter og undtagelser, der i øvrigt fremgår af dette punkt 9.
 
 ## 10. Force majeure
 
@@ -195,7 +208,13 @@ Kunden kan ikke overdrage rettigheder eller forpligtelser uden forudgående skri
 
 ## 15. Lovvalg og værneting
 
-Disse Vilkår er underlagt og skal fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Enhver tvist skal afgøres ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
+### 15.1 Lovvalg
+
+Disse Vilkår er underlagt og skal fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler. Parterne bekræfter, at FN's konvention om internationale løsørekøb (CISG) ikke finder anvendelse på salg omfattet af disse Vilkår. I det omfang CISG ellers ville finde anvendelse og ikke kan fraveges, finder købeloven anvendelse som supplerende baggrundsret.
+
+### 15.2 Værneting
+
+Enhver tvist skal afgøres ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 16. Delvis ugyldighed
 

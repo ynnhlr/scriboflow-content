@@ -32,7 +32,7 @@ The Employee is employed as **[Job title]**.
 
 ### 2.2 Responsibilities
 
-The Employee shall perform duties associated with the position and any other reasonable tasks assigned by the Employer consistent with the Employee’s qualifications.
+The Employee shall perform duties associated with the position and any other reasonable tasks assigned by the Employer consistent with the Employee's qualifications.
 
 ### 2.3 Loyalty and Conduct
 
@@ -56,11 +56,15 @@ Expiration of the fixed term shall not be considered termination unless required
 
 If the Employee continues working beyond the end date without a new written agreement, the employment may be deemed indefinite in accordance with applicable law.
 
+### 3.5 Successive Fixed-Term Contracts and Non-Discrimination
+
+Where this Agreement follows one or more preceding fixed-term contracts between the Parties for the same or a substantially similar position, any renewal must be justified by an objective reason within the meaning of the Danish Act on Fixed-Term Employees (lov om tidsbegrænset ansættelse, implementing Council Directive 1999/70/EC), such as a genuine temporary business need, cover for an absent employee, or the objective reason stated in Section 3.2. In the absence of such objective justification, successive fixed-term contracts may result in the employment being treated as of indefinite duration. The Employee shall not, solely by reason of the fixed-term nature of the employment, be treated less favourably in terms of employment conditions than a comparable permanent employee, unless different treatment is objectively justified, in accordance with the non-discrimination principle of that Act.
+
 ## 4. Working Hours
 
 ### 4.1 Normal Hours
 
-The Employee’s normal working hours are **[Number]** hours per week.
+The Employee's normal working hours are **[Number]** hours per week.
 
 ### 4.2 Additional Work
 
@@ -74,7 +78,7 @@ The Employee shall receive a fixed gross salary of **[Number] [Currency]** per m
 
 ### 5.2 Payment
 
-Salary shall be paid monthly in arrears to the Employee’s designated bank account.
+Salary shall be paid monthly in arrears to the Employee's designated bank account.
 
 ### 5.3 Variable Compensation (If Applicable)
 
@@ -82,7 +86,7 @@ Any bonus or incentive arrangement shall be governed by separate written terms a
 
 ### 5.4 Benefits
 
-The Employee shall be entitled to benefits equivalent to comparable permanent employees unless otherwise permitted by law. Details are set out in Schedule 1.
+In accordance with the non-discrimination principle of the Danish Act on Fixed-Term Employees (lov om tidsbegrænset ansættelse), the Employee is entitled to benefits on terms no less favourable than those of a comparable permanent employee performing the same or similar work, unless different treatment is objectively justified. Details are set out in Schedule 1.
 
 ## 6. Holidays and Leave
 
@@ -102,7 +106,7 @@ Illness must be reported without undue delay in accordance with company procedur
 
 ### 7.1 Confidential Information
 
-The Employee shall not disclose confidential information relating to the Employer’s business, clients, suppliers, or employees.
+The Employee shall not disclose confidential information relating to the Employer's business, clients, suppliers, or employees.
 
 ### 7.2 Survival
 
@@ -120,21 +124,29 @@ The Employee assigns all transferable rights to such intellectual property to th
 
 ## 9. Non-Competition and Non-Solicitation (If Applicable)
 
-### 9.1 Separate Terms
+### 9.1 Eligibility
 
-Any post-employment restrictions must comply with mandatory employment legislation and shall be separately specified in Schedule 2, if applicable.
+A non-compete clause and/or a customer non-solicitation clause may only be imposed on the Employee if the Employee occupies a position of special trust or has access to information of a genuinely sensitive nature to the Employer, in accordance with the Danish Act on Employment Clauses (ansættelsesklausulloven). If applicable, the specific clause(s), including the trust/sensitivity basis relied on, are set out in Schedule 2.
 
-### 9.2 Statutory Compensation
+### 9.2 Statutory Maximum Duration
 
-Where statutory compensation is required for such restrictions, it shall be paid in accordance with applicable law.
+Any non-compete clause, and any combined non-compete and customer non-solicitation clause, applicable under Schedule 2 may not exceed 12 months from the date of termination of employment.
+
+### 9.3 Customer Clause Look-Back
+
+A customer non-solicitation clause may only apply to customers with whom the Employee, or persons the Employee is responsible for, has had a business connection within the 12 months preceding the notice of termination.
+
+### 9.4 Compensation
+
+Where a restriction under this Section 9 applies after termination of employment, the Employer shall pay the Employee mandatory monthly compensation for the duration of the restriction, calculated and payable in accordance with the Act on Employment Clauses, as further specified in Schedule 2.
 
 ## 10. Secondary Employment
 
-The Employee may not undertake secondary employment or business activities that conflict with the Employer’s legitimate interests without prior written consent.
+The Employee may not undertake secondary employment or business activities that conflict with the Employer's legitimate interests without prior written consent.
 
 ## 11. Company Property
 
-All equipment, documents, and materials provided by the Employer remain the Employer’s property and shall be returned upon expiration or termination of employment.
+All equipment, documents, and materials provided by the Employer remain the Employer's property and shall be returned upon expiration or termination of employment.
 
 ## 12. Data Protection
 
@@ -142,15 +154,32 @@ The Employer processes personal data relating to the Employee in accordance with
 
 ## 13. Early Termination
 
-### 13.1 Notice
+### 13.1 Statutory Notice Floor
 
-Unless otherwise required by law, either Party may terminate the Agreement before the expiry date with written notice of **[Number] [Time unit]**.
+Any notice of early termination is subject to the mandatory minimum notice periods under section 2 of the Danish Salaried Employees Act (funktionærloven), calculated from the Employee's start date to the date notice is given:
 
-### 13.2 Immediate Termination
+**Employer's notice (minimum):**
+- Up to 6 months of employment: 1 month
+- 6 months up to 2 years and 9 months: 3 months
+- 2 years and 9 months up to 5 years and 8 months: 4 months
+- 5 years and 8 months up to 8 years and 7 months: 5 months
+- More than 8 years and 7 months: 6 months
+
+**Employee's notice (fixed):** 1 month, irrespective of seniority.
+
+### 13.2 Contractual Notice
+
+Subject to Section 13.1, either Party may terminate the Agreement before the Expiry Date with written notice of **[Number] [Time unit]**. If this notice period is shorter than the statutory minimum applicable at the relevant time under Section 13.1, it is void to that extent and is automatically replaced by the applicable statutory minimum.
+
+### 13.3 Availability of Early Termination Right
+
+This Agreement grants each Party an express contractual right to terminate the employment before the Expiry Date by notice under Section 13.2. The Parties acknowledge that, under Danish law, a fixed-term employment contract is otherwise binding for its stated duration and does not carry an implied right of early termination by notice; absent this Section 13.3, a Party terminating before the Expiry Date without such a right could be liable in damages for the unexpired term. This Section 13.3 removes that ambiguity by confirming that early termination by notice is available to both Parties throughout the term.
+
+### 13.4 Immediate Termination
 
 Immediate termination may occur in case of material breach or gross misconduct, subject to applicable law.
 
-### 13.3 Accrued Rights
+### 13.5 Accrued Rights
 
 Any termination before expiry shall not affect accrued rights or obligations.
 
@@ -188,6 +217,9 @@ This Agreement may be executed in counterparts and by electronic signature, each
 
 ## Schedule 2: Post-Employment Restrictions (If Applicable)
 
-- Non-compete duration: **[Number] [Time unit]**
-- Non-solicitation scope: **[Scope]**
-- Compensation (if legally required): **[Description]**
+- Type of restriction: **[Non-compete / customer non-solicitation / combined]**
+- Position of special trust / access to sensitive information relied on (Section 9.1): **[Description]**
+- Duration: **[Number] [Time unit]** (may not exceed 12 months from termination, per Section 9.2)
+- Customer scope (if a customer non-solicitation clause applies): customers with whom the Employee had a business connection within the 12 months preceding the notice of termination (Section 9.3)
+- Monthly compensation: **[Number] [Currency]** per month for the duration of the restriction, in accordance with the Act on Employment Clauses (Section 9.4)
+- Mitigation / set-off rule applicable to the restriction chosen: **[Description]**

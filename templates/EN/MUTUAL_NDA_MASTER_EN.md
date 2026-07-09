@@ -65,36 +65,46 @@ All Confidential Information remains the exclusive property of the Disclosing Pa
 
 ## 8. Term and Survival
 
-This Agreement commences on the Effective Date and remains in force for **[Number] [Time unit]**. The confidentiality obligations survive termination or expiration for **[Number] [Time unit]** years.
+This Agreement commences on the Effective Date and remains in force for **[Number] [Time unit]**. The confidentiality obligations survive termination or expiration for **[Number] [Time unit]**. Notwithstanding the foregoing, Confidential Information that constitutes a trade secret under the Danish Trade Secrets Act (lov om forretningshemmeligheder) shall remain protected under this Agreement for as long as it retains its status as a trade secret, irrespective of the survival period stated above.
 
 ## 9. Return or Destruction
 
-Upon written request or termination of this Agreement, the Receiving Party shall promptly return or destroy all Confidential Information (including copies), unless retention is required by law.
+Upon written request or termination of this Agreement, the Receiving Party shall promptly return or destroy all Confidential Information (including copies), unless retention is required by law. Upon the Disclosing Party's request, the Receiving Party shall provide written confirmation of such destruction, signed by an authorised representative of the Receiving Party.
 
 ## 10. Remedies
 
 The Parties acknowledge that unauthorized disclosure may cause irreparable harm. The Disclosing Party is entitled to seek injunctive or equitable relief in addition to any other remedies available under applicable law.
 
-## 11. No Warranty
+## 11. Liability
+
+### 11.1 Limitation
+
+To the maximum extent permitted by Danish law, neither Party shall be liable to the other for indirect or consequential damages, including loss of profits, revenue, or business opportunity, arising out of or in connection with this Agreement. Each Party's aggregate liability under this Agreement shall not exceed **[Number] [Currency]**.
+
+### 11.2 Carve-Outs
+
+The limitations in Section 11.1 do not apply to: (a) losses arising from a Party's wilful or grossly negligent misuse or disclosure of Confidential Information; or (b) a Party's right to seek injunctive or other equitable relief under Section 10 (Remedies).
+
+## 12. No Warranty
 
 All Confidential Information is provided "as is". The Disclosing Party makes no representations or warranties regarding accuracy or completeness.
 
-## 12. Assignment
+## 13. Assignment
 
 Neither Party may assign this Agreement without prior written consent, except to a successor in connection with a merger, acquisition, or sale of substantially all assets.
 
-## 13. Governing Law and Jurisdiction
+## 14. Governing Law and Jurisdiction
 
 This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
-## 14. Language
+## 15. Language
 
 This Agreement is executed in English, which shall prevail in case of inconsistency.
 
-## 15. Entire Agreement
+## 16. Entire Agreement
 
 This Agreement constitutes the entire agreement between the Parties regarding the subject matter and supersedes all prior discussions or agreements. Any amendment must be in writing and signed by both Parties.
 
-## 16. Execution
+## 17. Execution
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be deemed an original.

@@ -48,7 +48,7 @@ This Agreement shall commence on the Effective Date.
 
 The Agreement shall continue:
 - until completion of the Services, or
-- for an initial term of **[Number] months/years**, automatically renewing unless terminated in accordance with Section 11
+- for an initial term of **[Number] [Time unit]**, automatically renewing unless terminated in accordance with Section 11
 
 ## 4. Fees and Payment
 
@@ -62,11 +62,11 @@ Invoices shall be issued **[Payment frequency]**.
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[Number] days** from receipt.
+Invoices are payable within **[Number] [Time unit]** from receipt.
 
 ### 4.4 Late Payment
 
-Late payments may accrue statutory interest and reasonable recovery costs.
+Late payments shall accrue interest at **[Interest rate]** per annum from the due date until payment is received (or, if no rate is agreed, at the statutory default rate under the Danish Interest Act (Renteloven)). In addition, the Provider is entitled to the mandatory fixed compensation for recovery costs under the Danish rules implementing the EU Late Payment Directive, which cannot be waived by the Customer in advance, plus any further reasonable, documented recovery costs.
 
 ### 4.5 Suspension Rights
 
@@ -96,15 +96,15 @@ Delays caused by the Customer may result in adjusted delivery schedules and addi
 
 ### 7.1 Ownership of Deliverables
 
-Unless otherwise agreed, ownership of deliverables transfers to the Customer upon full payment.
+Unless otherwise agreed, ownership of deliverables transfers to the Customer upon full payment of the fees relating to those deliverables.
 
 ### 7.2 Pre-Existing Materials
 
 Each Party retains ownership of its pre-existing materials.
 
-### 7.3 License (If Applicable)
+### 7.3 Interim Licence Pending Payment
 
-If ownership is not transferred, the Customer is granted a non-exclusive, non-transferable license to use deliverables for agreed purposes.
+Where ownership of a deliverable has not yet transferred to the Customer under Section 7.1 because full payment for it has not been received, the Provider grants the Customer, from the date of delivery, a non-exclusive, non-transferable, revocable licence to use that deliverable for the Customer's internal business purposes, to the extent necessary to make use of work already carried out. This interim licence automatically converts into the ownership (or permanent licence, as applicable) described in Section 7.1 once full payment is received. If the Customer fails to pay after a reasonable cure period following written notice, the Provider may revoke the interim licence in respect of the unpaid deliverables.
 
 ## 8. Confidentiality
 
@@ -120,11 +120,11 @@ This obligation survives termination of the Agreement.
 
 ### 9.1 Provider Warranties
 
-The Provider warrants that the Services shall be performed professionally and in accordance with industry standards.
+The Provider warrants that the Services shall be performed professionally and in accordance with industry standards, with reasonable skill, care, and professional diligence as set out in Section 2.2.
 
-### 9.2 Disclaimer
+### 9.2 Scope of Warranty
 
-Except as expressly stated, the Services are provided "as is".
+Except for the warranty in Section 9.1 and any other warranty expressly stated in this Agreement, the Provider does not make any other express or implied warranty regarding the Services. Nothing in this Section 9.2 limits, excludes, or is inconsistent with the warranty of professional-standard performance given in Section 9.1.
 
 ## 10. Limitation of Liability
 
@@ -134,31 +134,44 @@ Neither Party shall be liable for indirect or consequential damages, including l
 
 ### 10.2 Liability Cap
 
-The Provider’s total liability under this Agreement shall not exceed the total fees paid under this Agreement during the preceding **[Number] months**, except in cases of fraud, gross negligence, or wilful misconduct.
+The Provider's total liability under this Agreement shall not exceed the total fees paid under this Agreement during the preceding **[Number] [Time unit]**, except in cases of fraud, gross negligence, or wilful misconduct.
 
 ## 11. Termination
 
 ### 11.1 Termination for Convenience
 
-Either Party may terminate this Agreement with **[Number] days/months** written notice.
+Either Party may terminate this Agreement with **[Number] [Time unit]** written notice.
 
 ### 11.2 Termination for Cause
 
-Either Party may terminate immediately in case of material breach not remedied within **[Number] days** after written notice.
+Either Party may terminate immediately in case of material breach not remedied within **[Number] [Time unit]** after written notice.
 
 ### 11.3 Effects of Termination
 
 Upon termination:
 - all outstanding invoices become immediately due
 - the Provider shall deliver completed work up to the termination date
+- Section 7.3 (Interim Licence Pending Payment) continues to apply to any deliverables for which full payment has not been received
 
 ## 12. Force Majeure
 
-Neither Party shall be liable for failure to perform obligations due to events beyond reasonable control, including natural disasters, war, or government actions.
+### 12.1 Suspension
+
+Neither Party shall be liable for failure to perform obligations (other than the Customer's obligation to pay for Services already performed) due to events beyond reasonable control, including natural disasters, war, or government actions.
+
+### 12.2 Long-Stop and Termination Right
+
+If a force majeure event under Section 12.1 continues for more than **[Number] [Time unit]** (e.g. 60–90 days) without interruption, either Party may terminate this Agreement by written notice with immediate effect. Termination under this Section 12.2 does not affect either Party's accrued rights and obligations up to the date of termination, including payment for Services performed before the force majeure event began.
 
 ## 13. Data Protection
 
-If the Provider processes personal data on behalf of the Customer, the Parties shall enter into a separate Data Processing Agreement.
+### 13.1 Data Processing Agreement Required
+
+If the Provider processes, or may process, personal data on behalf of the Customer in connection with the Services, the Parties shall enter into a separate Data Processing Agreement (DPA) that complies with Article 28 of the GDPR before the Provider begins any such processing. The Provider shall not process personal data on the Customer's behalf until a DPA has been signed by both Parties.
+
+### 13.2 GDPR Compliance
+
+Each Party represents that it will comply with applicable data protection law, including the GDPR and the Danish Data Protection Act (Databeskyttelsesloven), in connection with this Agreement.
 
 ## 14. Assignment
 

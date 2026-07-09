@@ -48,7 +48,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen.
 
 Aftalen fortsætter:
 - indtil Ydelserne er afsluttet, eller
-- i en indledende periode på **[Nummer] måneder/år**, med automatisk fornyelse medmindre opsagt efter afsnit 11
+- i en indledende periode på **[Nummer] [Tidsenhed]**, med automatisk fornyelse medmindre opsagt efter afsnit 11
 
 ## 4. Honorar og betaling
 
@@ -62,11 +62,11 @@ Fakturaer udstedes **[Betalingsfrekvens]**.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[Nummer] dage** fra modtagelse.
+Fakturaer forfalder til betaling inden **[Nummer] [Tidsenhed]** fra modtagelse.
 
 ### 4.4 Forsinket betaling
 
-Ved forsinket betaling kan der påløbe lovbestemt rente og rimelige inddrivelsesomkostninger.
+Ved forsinket betaling påløber der rente med **[Rentesats]** p.a. fra forfaldsdatoen og indtil betaling sker (eller, hvis ingen sats er aftalt, med den lovbestemte morarente efter renteloven). Derudover er Udbyderen berettiget til det lovpligtige, faste kompensationsbeløb for inddrivelsesomkostninger efter de danske regler til gennemførelse af EU's direktiv om forsinket betaling, som ikke kan forudgående fraskrives af Kunden, samt eventuelle yderligere rimelige, dokumenterede inddrivelsesomkostninger.
 
 ### 4.5 Suspensionsret
 
@@ -96,15 +96,15 @@ Forsinkelser forårsaget af Kunden kan medføre justering af leveringsplaner og 
 
 ### 7.1 Ejerskab til leverancer
 
-Medmindre andet er aftalt, overgår ejerskabet til leverancer til Kunden ved fuld betaling.
+Medmindre andet er aftalt, overgår ejerskabet til en leverance til Kunden ved fuld betaling af det honorar, der vedrører den pågældende leverance.
 
 ### 7.2 Forudeksisterende materiale
 
 Hver Part bevarer ejerskabet til eget forudeksisterende materiale.
 
-### 7.3 Licens (hvis relevant)
+### 7.3 Midlertidig licens indtil betaling
 
-Hvis ejerskab ikke overdrages, tildeles Kunden en ikke-eksklusiv og ikke-overdragelig licens til at anvende leverancerne til aftalte formål.
+Er ejerskabet til en leverance endnu ikke overgået til Kunden efter punkt 7.1, fordi fuld betaling herfor ikke er modtaget, giver Udbyderen fra leveringstidspunktet Kunden en ikke-eksklusiv, ikke-overdragelig og genkaldelig licens til at anvende den pågældende leverance til Kundens interne forretningsformål, i det omfang det er nødvendigt for at kunne anvende det allerede udførte arbejde. Denne midlertidige licens overgår automatisk til det ejerskab (eller den permanente licens, alt efter omstændighederne), der er beskrevet i punkt 7.1, når fuld betaling er modtaget. Undlader Kunden at betale efter en rimelig afhjælpningsperiode efter skriftligt påkrav, kan Udbyderen tilbagekalde den midlertidige licens for de ubetalte leverancer.
 
 ## 8. Fortrolighed
 
@@ -120,11 +120,11 @@ Denne forpligtelse består efter Aftalens ophør.
 
 ### 9.1 Udbyderens garantier
 
-Udbyderen garanterer, at Ydelserne udføres professionelt og i overensstemmelse med branchestandarder.
+Udbyderen garanterer, at Ydelserne udføres professionelt og i overensstemmelse med branchestandarder, med den rimelige faglige dygtighed, omhu og professionelle akkuratesse, der er beskrevet i punkt 2.2.
 
-### 9.2 Ansvarsfraskrivelse
+### 9.2 Garantiens omfang
 
-Medmindre andet udtrykkeligt er angivet, leveres Ydelserne "som de er".
+Bortset fra garantien i punkt 9.1 og enhver anden garanti, der udtrykkeligt er angivet i Aftalen, afgiver Udbyderen ingen anden udtrykkelig eller stiltiende garanti vedrørende Ydelserne. Intet i dette punkt 9.2 begrænser, udelukker eller er i strid med garantien for professionel udførelse i punkt 9.1.
 
 ## 10. Ansvarsbegrænsning
 
@@ -134,31 +134,44 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader, herunder t
 
 ### 10.2 Ansvarsloft
 
-Udbyderens samlede ansvar efter Aftalen kan ikke overstige de samlede honorarer betalt efter Aftalen i de foregående **[Nummer] måneder**, dog ikke i tilfælde af svig, grov uagtsomhed eller forsæt.
+Udbyderens samlede ansvar efter Aftalen kan ikke overstige de samlede honorarer betalt efter Aftalen i de foregående **[Nummer] [Tidsenhed]**, dog ikke i tilfælde af svig, grov uagtsomhed eller forsæt.
 
 ## 11. Ophør
 
 ### 11.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[Nummer] dage/måneder** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 11.2 Ophør ved misligholdelse
 
-Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage** efter skriftligt påkrav.
+Hver Part kan ophæve Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] [Tidsenhed]** efter skriftligt påkrav.
 
 ### 11.3 Virkninger af ophør
 
 Ved ophør:
 - forfalder alle udestående fakturaer straks
 - skal Udbyderen levere færdigt arbejde frem til ophørsdatoen
+- fortsætter punkt 7.3 (Midlertidig licens indtil betaling) med at finde anvendelse på leverancer, for hvilke fuld betaling ikke er modtaget
 
 ## 12. Force majeure
 
-Ingen af Parterne er ansvarlige for manglende opfyldelse af forpligtelser på grund af forhold uden for rimelig kontrol, herunder naturkatastrofer, krig eller myndighedsindgreb.
+### 12.1 Suspension
+
+Ingen af Parterne er ansvarlige for manglende opfyldelse af forpligtelser (bortset fra Kundens forpligtelse til at betale for allerede udførte Ydelser) på grund af forhold uden for rimelig kontrol, herunder naturkatastrofer, krig eller myndighedsindgreb.
+
+### 12.2 Yderste grænse og opsigelsesret
+
+Varer en force majeure-begivenhed efter punkt 12.1 uafbrudt i mere end **[Nummer] [Tidsenhed]** (f.eks. 60-90 dage), kan hver Part opsige Aftalen med øjeblikkelig virkning ved skriftligt varsel. Opsigelse efter dette punkt 12.2 berører ikke Parternes optjente rettigheder og forpligtelser frem til opsigelsestidspunktet, herunder betaling for Ydelser udført, før force majeure-begivenheden indtrådte.
 
 ## 13. Databeskyttelse
 
-Hvis Udbyderen behandler personoplysninger på vegne af Kunden, skal Parterne indgå en særskilt databehandleraftale.
+### 13.1 Krav om databehandleraftale
+
+Hvis Udbyderen behandler eller kan komme til at behandle personoplysninger på vegne af Kunden i forbindelse med Ydelserne, skal Parterne indgå en særskilt databehandleraftale, der opfylder kravene i GDPR-artikel 28, inden Udbyderen påbegynder en sådan behandling. Udbyderen må ikke behandle personoplysninger på vegne af Kunden, før databehandleraftalen er underskrevet af begge Parter.
+
+### 13.2 Overholdelse af GDPR
+
+Hver Part erklærer, at den vil overholde gældende databeskyttelseslovgivning, herunder GDPR og databeskyttelsesloven, i forbindelse med Aftalen.
 
 ## 14. Overdragelse
 

@@ -40,7 +40,7 @@ Title to the Consigned Goods remains with the Consignor until the goods are sold
 
 ### 3.3 Identification and Segregation
 
-The Consignee shall clearly identify the Consigned Goods as belonging to the Consignor and, unless otherwise agreed, keep them separate from other inventory.
+The Consignee shall at all times clearly and continuously identify the Consigned Goods as belonging to the Consignor and shall keep them physically separate from the Consignee's own inventory and from goods belonging to any third party. This segregation and marking obligation is mandatory and may not be waived or varied by agreement between the Parties, as it is a condition for the Consignor's retained title to remain effective against the Consignee's other creditors, including on the Consignee's insolvency. The Consignee shall maintain stock records identifying, at all times, the specific units of Consigned Goods on hand, their location, and their status (in stock, sold, or returned).
 
 ## 4. Delivery and Risk
 
@@ -66,6 +66,10 @@ The Consignee shall comply with the pricing and commercial conditions set out in
 
 The Consignee shall not pledge, assign, lease, or otherwise encumber the Consigned Goods.
 
+### 5.4 VAT and Invoicing
+
+For VAT purposes, a sale of the Consigned Goods by the Consignee to an end customer is treated as two successive supplies: (i) a deemed supply from the Consignor to the Consignee, and (ii) a supply from the Consignee to the end customer, each to be invoiced and reported separately in accordance with applicable Danish and, where relevant, EU VAT rules on chain transactions. The Consignee shall issue an invoice to the end customer in its own name upon each sale. The Consignor shall issue a corresponding invoice or settlement statement to the Consignee reflecting the deemed supply no later than the settlement date under Section 7.2. Amounts referred to in this Agreement and its Schedules are exclusive of VAT unless expressly stated to be inclusive. Where Consigned Goods are held or moved across borders, the Parties shall cooperate to satisfy any call-off stock registration, reporting, or record-keeping conditions required under applicable VAT law.
+
 ## 6. Reporting and Records
 
 ### 6.1 Sales Reports
@@ -88,13 +92,17 @@ The Consignee shall be entitled to a commission of **[Number]% / [Number] [Curre
 
 ### 7.2 Settlement
 
-Payment of amounts due to the Consignor shall be made no later than **[Number]** days after the end of each reporting period.
+Payment of amounts due to the Consignor shall be made no later than **[Number] [Time unit]** after the end of each reporting period.
 
-### 7.3 Condition for Commission
+### 7.3 Late Settlement Interest and Recovery Costs
+
+If the Consignee fails to remit any undisputed amount by the settlement date under Section 7.2, interest accrues on the overdue amount from the due date until payment in full at a rate of **[Interest rate]** per annum. In addition, the Consignor is entitled to the fixed compensation for debt recovery costs prescribed by the Danish Interest Act (Renteloven), implementing the EU Late Payment Directive, for each overdue settlement. This entitlement cannot be waived by the Consignee in advance.
+
+### 7.4 Condition for Commission
 
 Commission is earned only upon completed sale and receipt of payment from the end customer.
 
-### 7.4 No Set-Off
+### 7.5 No Set-Off
 
 The Consignee may not offset payments unless expressly agreed in writing.
 
@@ -106,7 +114,7 @@ Customer returns shall be handled in accordance with Schedule 3. Returned goods 
 
 ### 8.2 Unsold Goods
 
-Upon termination or written request, unsold Consigned Goods shall be returned to the Consignor within **[Number]** days, at the Consignee’s expense, in reasonable saleable condition.
+Upon termination or written request, unsold Consigned Goods shall be returned to the Consignor within **[Number] [Time unit]**, at the Consignee's expense, in reasonable saleable condition.
 
 ## 9. Care, Insurance, and Compliance
 
@@ -134,7 +142,7 @@ This Agreement commences on the Effective Date and continues until terminated.
 
 ### 11.2 Termination for Convenience
 
-Either Party may terminate this Agreement with **[Number]** days’ written notice.
+Either Party may terminate this Agreement for convenience by giving the other Party at least **[Number] [Time unit]** written notice. This notice period is a minimum floor and shall be applied having regard to the duration of the relationship and the Consignee's investment in inventory, display, and infrastructure supporting the Consigned Goods, so that the Consignee is afforded a reasonable opportunity to wind down its arrangements.
 
 ### 11.3 Immediate Termination
 
@@ -146,7 +154,15 @@ Either Party may terminate immediately in case of material breach, insolvency, o
 
 The Consignee shall indemnify the Consignor against losses arising from negligence, unauthorised sales practices, or breach of this Agreement.
 
-### 12.2 Limitation of Liability
+### 12.2 Product Liability
+
+The Parties acknowledge that liability toward an end customer for personal injury or damage caused by a defect in the Consigned Goods is governed by the Danish Product Liability Act (Produktansvarsloven), under which liability is strict and cannot be excluded or limited by agreement. The Consignor, as owner and (where applicable) producer or importer of the Consigned Goods, shall indemnify the Consignee against product-liability claims brought by a third party, except to the extent the claim results from the Consignee's own negligence, unauthorised handling, or unauthorised modification of the Consigned Goods.
+
+### 12.3 Insurance
+
+Each Party shall maintain product-liability insurance appropriate to its role under this Agreement and shall provide evidence of such cover upon reasonable request.
+
+### 12.4 Limitation of Liability
 
 Neither Party shall be liable for indirect or consequential damages, except in cases of fraud or wilful misconduct.
 
@@ -160,7 +176,17 @@ Neither Party may assign this Agreement without prior written consent, except in
 
 ## 15. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
+### 15.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules.
+
+### 15.2 Exclusion of the CISG
+
+The United Nations Convention on Contracts for the International Sale of Goods (CISG) shall not apply to this Agreement. The Danish Sale of Goods Act (Købeloven) applies as background law between the Parties, to the extent not otherwise provided in this Agreement.
+
+### 15.3 Jurisdiction
+
+Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 16. Language
 

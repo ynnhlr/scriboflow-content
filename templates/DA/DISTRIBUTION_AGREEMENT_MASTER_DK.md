@@ -40,19 +40,27 @@ Distributøren accepterer udpegningen og forpligter sig til aktivt at promovere 
 
 Aftalen er **[Eksklusivitet]** inden for Området.
 
+### 2.4 Status som selvstændig videreforhandler
+
+Distributøren køber Produkterne af Leverandøren og videresælger dem i eget navn og for egen regning. Distributøren bærer den fulde kommercielle risiko ved videresalget, herunder pris- og kreditrisikoen over for sine kunder, og har ingen bemyndigelse til at forhandle, indgå eller på anden måde forpligte Leverandøren over for tredjemand. Parterne er enige om, at forholdet mellem dem er et forhold mellem selvstændig køber og videreforhandler og ikke et handelsagentforhold omfattet af lov om handelsagenter og handelsrejsende ("Handelsagentloven"). Intet i Aftalen skal fortolkes således, at Distributøren opnår ret til goodwillgodtgørelse eller anden godtgørelse, som en handelsagent er berettiget til efter denne lov.
+
 ## 3. Område
 
 ### 3.1 Område
 
 Distributøren er bemyndiget til at distribuere Produkterne inden for **[Område]** ("Området").
 
-### 3.2 Salg uden for Området
+### 3.2 Aktivt salg uden for Området
 
-Distributøren må ikke aktivt sælge uden for Området uden forudgående skriftligt samtykke.
+Distributøren må ikke aktivt sælge Produkterne uden for Området uden Leverandørens forudgående skriftlige samtykke. Ved "aktivt salg" forstås blandt andet direkte henvendelse til individuelle kunder via direct mail, besøg eller reklame og markedsføring, der specifikt er rettet mod kunder uden for Området.
 
 ### 3.3 Passivt salg
 
-Passivt salg ind i andre territorier håndteres i overensstemmelse med gældende konkurrencelovgivning.
+Passivt salg — det vil sige besvarelse af uopfordrede henvendelser fra individuelle kunder uden for Området, herunder salg som følge af Distributørens almindelige reklame eller hjemmeside, der ikke specifikt er rettet mod kunder uden for Området — må ikke begrænses, forhindres eller sanktioneres i henhold til Aftalen. Begrænsning af passivt salg udgør en alvorlig konkurrencebegrænsning ("hardcore-begrænsning") efter gældende dansk og EU-konkurrenceret og er ikke tilladt.
+
+### 3.4 Videresalgspriser
+
+Enhver prisliste, vejledende pris eller foreslået videresalgspris, som Leverandøren meddeler, er ikke bindende for Distributøren. Leverandøren må ikke fastsætte, kræve eller på anden måde søge at pålægge Distributøren minimums- eller fastsatte videresalgspriser. En sådan adfærd udgør en hardcore-begrænsning, der kan medføre, at en eventuel konkurrenceretlig gruppefritagelse bortfalder for hele Aftalen.
 
 ## 4. Ordrer og accept
 
@@ -76,15 +84,23 @@ Distributøren skal købe Produkterne til engrospriserne i Bilag 2.
 
 ### 5.2 Prisændringer
 
-Leverandøren kan justere priser med **[Nummer] dage** skriftligt varsel.
+Leverandøren kan justere priser med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 5.3 Betalingsvilkår
 
-Betalingsfristen er **[Nummer] dage** fra fakturadato, medmindre andet er aftalt.
+Betalingsfristen er **[Nummer] [Tidsenhed]** fra fakturadato, medmindre andet er aftalt.
 
-### 5.4 Forsinket betaling
+### 5.4 Morarente
 
-Forsinket betaling kan medføre suspension af leverancer.
+Betaler Distributøren ikke et ubestridt beløb rettidigt, påløber der rente af det forfaldne beløb fra forfaldsdatoen og indtil betaling sker fuldt ud, med en sats på **[Rentesats]** p.a.
+
+### 5.5 Kompensation for inddrivelsesomkostninger
+
+Ud over renter efter punkt 5.4 er Leverandøren berettiget til det faste kompensationsbeløb for inddrivelsesomkostninger, der følger af renteloven, som gennemfører EU's direktiv om forsinket betaling. Denne ret kan ikke fraskrives af Distributøren på forhånd.
+
+### 5.6 Suspension af leverancer
+
+Uden præjudice for punkt 5.4 og 5.5 berettiger forsinket betaling Leverandøren til at suspendere yderligere leverancer, indtil samtlige forfaldne beløb, herunder påløbne renter og kompensation for inddrivelsesomkostninger, er betalt fuldt ud.
 
 ## 6. Markedsføring og promovering
 
@@ -141,15 +157,27 @@ Distributøren er ansvarlig for overholdelse af lokale regler for markedsføring
 
 ## 10. Produktansvar
 
-### 10.1 Fejl
+### 10.1 Objektivt ansvar efter produktansvarsloven
 
-Hver Part er ansvarlig for skader forårsaget af egen fejl.
+Ansvar over for en skadelidt tredjemand for personskade eller skade på forbrugerejendom forårsaget af et defekt Produkt reguleres af produktansvarsloven, hvorefter ansvaret er objektivt og ikke kan fraskrives eller begrænses ved aftale. Afhængigt af omstændighederne kan Distributøren selv anses som ansvarlig producent over for skadelidte, f.eks. hvis Distributøren er importør af Produkterne til EU/EØS.
 
-### 10.2 Underretning
+### 10.2 Fordeling mellem Parterne
+
+I forholdet mellem Leverandøren og Distributøren, og med forbehold for punkt 10.3, er hver Part ansvarlig for skader forårsaget af egen fejl.
+
+### 10.3 Leverandørens skadesløsholdelse
+
+Leverandøren skal holde Distributøren skadesløs for produktansvarskrav rejst af tredjemand, i det omfang kravet skyldes en defekt i Produkterne, der forelå på leveringstidspunktet, og som ikke er forårsaget af eller kan tilskrives Distributørens egne handlinger, undladelser, opbevaring, håndtering eller ændring af Produkterne.
+
+### 10.4 Forsikring
+
+Hver Part skal opretholde produktansvarsforsikring hos et anerkendt forsikringsselskab med en dækning, der er passende i forhold til Partens eksponering efter Aftalen, og skal på rimelig anmodning fremlægge dokumentation for forsikringen.
+
+### 10.5 Underretning
 
 Distributøren skal straks underrette Leverandøren om ethvert produktkrav.
 
-### 10.3 Anerkendelse af ansvar
+### 10.6 Anerkendelse af ansvar
 
 Distributøren må ikke anerkende ansvar på Leverandørens vegne uden forudgående skriftligt samtykke.
 
@@ -157,16 +185,16 @@ Distributøren må ikke anerkende ansvar på Leverandørens vegne uden forudgåe
 
 ### 11.1 Indledende periode
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] år**.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] [Tidsenhed]**.
 
 ### 11.2 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk for successive perioder af samme varighed, medmindre en af Parterne giver skriftligt varsel om ikke-fornyelse mindst **[Nummer] [Tidsenhed]** før udløbet af den løbende periode. Dette varsel udgør en minimumsgrænse og skal fastsættes under hensyntagen til forholdets varighed og den handelsvolumen, Distributøren har opbygget, således at Distributøren gives en rimelig mulighed for at afvikle eller omstille sin virksomhed, inden Aftalen ophører.
 
 ### 11.3 Ophør med øjeblikkelig virkning
 
 Hver Part kan ophøre Aftalen med øjeblikkelig virkning i tilfælde af:
-- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**
+- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] [Tidsenhed]**
 - insolvens
 - alvorlig overtrædelse af brand- eller konkurrenceforpligtelser
 
@@ -191,9 +219,13 @@ Hver Part skal behandle kommercielle og tekniske oplysninger modtaget fra den an
 
 ### 14.1 Overholdelse
 
-Parterne skal overholde gældende konkurrence- og antitrustlovgivning.
+Parterne skal overholde gældende konkurrence- og antitrustlovgivning, herunder reglerne om vertikale aftaler efter dansk ret og EU-ret.
 
-### 14.2 Fortolkning
+### 14.2 Hardcore-begrænsninger
+
+Uden at begrænse punkt 14.1 bekræfter Parterne, at: kun Distributørens aktive salg uden for Området kan begrænses, jf. punkt 3.2; passivt salg kan aldrig begrænses, jf. punkt 3.3; og eventuelle videresalgspriser meddelt af Leverandøren er ikke-bindende maksimums- eller vejledende priser, jf. punkt 3.4. Parterne må ikke anvende Aftalen på en måde, der udgør en hardcore-begrænsning, som kan medføre bortfald af en eventuel konkurrenceretlig fritagelse.
+
+### 14.3 Fortolkning
 
 Intet i Aftalen må fortolkes som en begrænsning af lovlig konkurrence ud over, hvad gældende lovgivning tillader.
 
@@ -207,7 +239,17 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
+### 17.1 Lovvalg
+
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler.
+
+### 17.2 Fravalg af CISG
+
+FN's konvention om aftaler om internationale køb (CISG) finder ikke anvendelse på Aftalen eller på nogen købsaftale indgået i medfør heraf. Købeloven finder anvendelse som baggrundsret mellem Parterne, i det omfang andet ikke følger af Aftalen, og Parterne er enige om, at de som erhvervsdrivende hermed fraviger langt de fleste af lovens deklaratoriske bestemmelser.
+
+### 17.3 Værneting
+
+Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 

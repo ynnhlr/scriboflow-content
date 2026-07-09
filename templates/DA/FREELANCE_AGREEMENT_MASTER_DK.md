@@ -44,16 +44,25 @@ Ydelserne udføres selvstændigt og i overensstemmelse med de aftalte specifikat
 
 Freelanceren optræder som selvstændig erhvervsdrivende og ikke som ansat, partner eller agent for Kunden.
 
-### 3.2 Freelancerens ansvar
+### 3.2 Kendetegn for selvstændig virksomhed
+
+For at dokumentere Freelancerens reelle status som selvstændig erhvervsdrivende i skatte- og arbejdsretlig henseende bekræfter Parterne, at:
+- **Substitutionsret**: Freelanceren kan lade Ydelserne udføre af en kvalificeret stedfortræder eller underleverandør med rimeligt forudgående varsel til Kunden og Kundens samtykke (som ikke må nægtes eller forsinkes uden rimelig grund);
+- **Ingen instruktionsbeføjelse over arbejdstid, metode eller sted**: Kunden fastsætter ikke de konkrete arbejdstimer, arbejdsmetoden eller det sted, hvorfra Ydelserne udføres; Freelanceren bestemmer selv disse forhold inden for rammerne af de aftalte tidsfrister og specifikationer i Bilag 1;
+- **Eget udstyr**: Freelanceren stiller selv det udstyr, værktøj, software og de arbejdslokaler til rådighed, der er nødvendige for at udføre Ydelserne, medmindre andet udtrykkeligt er aftalt skriftligt;
+- **Flere kunder**: Freelanceren kan frit levere ydelser til andre kunder, herunder virksomheder der konkurrerer med Kunden, samtidig med udførelsen af Ydelserne, jf. dog afsnit 7 (Fortrolighed);
+- **Økonomisk risiko**: Freelanceren bærer den økonomiske risiko ved opgaven, herunder risikoen for tab eller reduceret fortjeneste, hvis Ydelserne ikke gennemføres som aftalt, og modtager ikke lønmodtagerlignende goder (såsom betalt ferie, løn under sygdom, pensionsbidrag eller løn i en opsigelsesperiode) fra Kunden.
+
+### 3.3 Freelancerens ansvar
 
 Freelanceren er ansvarlig for:
 - skatter og sociale bidrag
 - forsikringsdækning
 - lovpligtige forpligtelser, der gælder for selvstændige
 
-### 3.3 Intet ansættelsesforhold
+### 3.4 Intet ansættelsesforhold
 
-Intet i Aftalen etablerer et ansættelsesforhold.
+Intet i Aftalen etablerer et ansættelsesforhold. Hvis samarbejdsforholdet mod Parternes hensigt og de i afsnit 3.2 nævnte kendetegn senere måtte blive anset for ikke at opfylde betingelserne for status som selvstændig erhvervsdrivende efter ufravigelig dansk ret, skal Parterne loyalt samarbejde om at håndtere de deraf følgende lovbestemte forpligtelser.
 
 ## 4. Honorar og betaling
 
@@ -67,7 +76,7 @@ Freelanceren fakturerer Kunden i overensstemmelse med aftalte milepæle eller m�
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[Nummer]** dage fra modtagelse, medmindre andet er aftalt.
+Fakturaer forfalder til betaling inden **[Nummer] [Tidsenhed]** fra modtagelse, medmindre andet er aftalt.
 
 ### 4.4 Forsinket betaling
 
@@ -83,15 +92,19 @@ Freelanceren afholder alle omkostninger ved udførelse af Ydelserne, medmindre a
 
 Alle leverancer og arbejdsresultater skabt specifikt for Kunden i henhold til Aftalen ("Arbejdsproduktet") overgår til Kunden ved fuld betaling.
 
-### 6.2 Overdragelse
+### 6.2 Overdragelse af økonomiske rettigheder
 
-I det omfang loven tillader det, overdrager Freelanceren alle overdragelige immaterielle rettigheder i Arbejdsproduktet til Kunden.
+I det omfang loven tillader det, overdrager Freelanceren alle overdragelige økonomiske immaterielle rettigheder i Arbejdsproduktet til Kunden.
 
-### 6.3 Forudeksisterende materiale
+### 6.3 Ideelle rettigheder
+
+I det omfang Arbejdsproduktet er ophavsretligt beskyttet, kan Freelancerens ideelle rettigheder (droit moral) efter ophavsretsloven ikke overdrages. Freelanceren accepterer ikke at gøre sådanne ideelle rettigheder, herunder retten til navngivelse (droit de paternité) og retten til respekt for værkets integritet (droit au respect), gældende over for Kundens brug af Arbejdsproduktet til de formål, der er tilsigtet efter Aftalen og Bilag 1, forudsat at brugen ikke forvansker eller lemlæster Arbejdsproduktet på en måde, der er krænkende for Freelancerens anseelse eller egenart.
+
+### 6.4 Forudeksisterende materiale
 
 Eventuelt forudeksisterende materiale forbliver Freelancerens ejendom, medmindre det udtrykkeligt overdrages skriftligt.
 
-### 6.4 Brug i portefølje
+### 6.5 Brug i portefølje
 
 Medmindre andet er aftalt, må Freelanceren henvise til projektet i porteføljeøjemed, forudsat at ingen fortrolige oplysninger videregives.
 
@@ -107,7 +120,7 @@ Denne forpligtelse gælder efter ophør uden tidsbegrænsning.
 
 ## 8. Kundeklausul (valgfrit)
 
-I Aftalens løbetid og i **[Nummer] måneder** derefter må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser.
+I Aftalens løbetid og i **[Nummer] [Tidsenhed]** derefter (dog højst 12 måneder) må Freelanceren ikke uden forudgående skriftligt samtykke hverve Kundens medarbejdere eller kunder med henblik på konkurrerende ydelser. Parterne er enige om, at en begrænsning på op til 12 måneder afspejler den maksimale varighed, som danske domstole og lovgivningen (herunder de principper, der efter lov om ansættelsesklausuler anvendes på tilsvarende individuelle begrænsninger) generelt anser for rimelig og proportional for en business-to-business hvervningsklausul af denne art, og at en længere periode risikerer at blive nedsat eller tilsidesat som urimelig.
 
 ## 9. Garantier
 
@@ -143,7 +156,7 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber, indtil Ydelserne e
 
 ### 11.2 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[Nummer] dage** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 11.3 Ophør ved misligholdelse
 
@@ -155,7 +168,13 @@ Ved ophør skal Freelanceren aflevere færdigt arbejde og fakturere for udført 
 
 ## 12. Databeskyttelse
 
-Hvis Freelanceren behandler personoplysninger på vegne af Kunden, skal Parterne indgå en særskilt databehandleraftale, hvor dette er påkrævet.
+### 12.1 Dataansvarlig og databehandler
+
+Hvis Freelanceren behandler personoplysninger på vegne af Kunden i forbindelse med Ydelserne, er Kunden dataansvarlig, og Freelanceren er databehandler i databeskyttelsesforordningens (GDPR) og databeskyttelseslovens forstand, medmindre Parterne udtrykkeligt aftaler andet skriftligt.
+
+### 12.2 Databehandleraftale som suspensiv betingelse
+
+Freelanceren må ikke behandle personoplysninger på vegne af Kunden, før Parterne har indgået en skriftlig databehandleraftale, der opfylder kravene i GDPR-artikel 28. Indgåelse af en sådan databehandleraftale er en suspensiv betingelse for enhver behandling af personoplysninger i henhold til Aftalen.
 
 ## 13. Overdragelse
 

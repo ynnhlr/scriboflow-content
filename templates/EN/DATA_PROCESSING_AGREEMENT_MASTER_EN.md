@@ -28,7 +28,7 @@ The Controller and the Processor are each a "Party" and together the "Parties".
 
 ### 2.1 Processing Relationship
 
-This Agreement governs the Processor’s processing of Personal Data on behalf of the Controller.
+This Agreement governs the Processor's processing of Personal Data on behalf of the Controller.
 
 ### 2.2 Main Agreement
 
@@ -94,34 +94,43 @@ The Processor shall document implemented security measures and provide them upon
 
 ## 8. Sub-Processors
 
-### 8.1 Prior Authorisation
+### 8.1 Current Sub-Processors
 
-The Processor shall not engage sub-processors without prior written authorisation from the Controller.
+The sub-processors engaged by the Processor as of the Effective Date are listed in Schedule 2 (Sub-Processors), including each sub-processor's name, location, and processing activity. By signing this Agreement, the Controller authorises the Processor's continued engagement of these sub-processors.
 
-### 8.2 General Authorisation
+### 8.2 New Sub-Processors
 
-Where general authorisation is granted, the Processor shall inform the Controller of intended changes and allow objection within **[Number]** days.
+The Processor shall not engage a sub-processor not listed in Schedule 2 without prior written authorisation from the Controller, save where a general authorisation applies under Section 8.3.
 
-### 8.3 Flow-Down Obligations
+### 8.3 General Authorisation
+
+Where general authorisation is granted, the Processor shall update Schedule 2 and inform the Controller of any intended addition, replacement, or removal of a sub-processor, and allow the Controller to object within **[Number] [Time unit]** of being informed. If the Controller reasonably objects, the Parties shall discuss in good faith an alternative solution; if none is found, either Party may terminate the affected part of the Main Agreement.
+
+### 8.4 Flow-Down Obligations
 
 The Processor shall impose data protection obligations on sub-processors equivalent to those set out in this Agreement.
 
-### 8.4 Liability
+### 8.5 Liability
 
 The Processor remains fully liable for the performance of sub-processors.
 
 ## 9. International Transfers
 
-### 9.1 Consent
+### 9.1 Transfer Restriction
 
-The Processor shall not transfer Personal Data outside the EU/EEA without prior written consent from the Controller.
+The Processor shall not transfer Personal Data outside the EU/EEA (a "Transfer"), nor authorise a sub-processor to do so, without the Controller's prior written consent, except for Transfers to the destinations, and relying on the transfer mechanisms, listed in Schedule 3 (Approved Destinations and Transfer Mechanisms).
 
-### 9.2 Safeguards
+### 9.2 SCC Module
 
-Any such transfer shall be subject to appropriate safeguards under Applicable Data Protection Law, including:
-- Standard Contractual Clauses (SCCs)
-- adequacy decisions
-- other lawful transfer mechanisms
+Where a Transfer relies on the European Commission's Standard Contractual Clauses adopted under Implementing Decision (EU) 2021/914 ("SCCs"), the module(s) of the SCCs identified in Schedule 3 are hereby incorporated into and form part of this Agreement, completed with the information set out in that Schedule, and shall prevail over any conflicting provision of this Agreement to the extent required for their effectiveness.
+
+### 9.3 Transfer Impact Assessment
+
+Before making, and periodically for the duration of, any Transfer, the Processor shall support the Controller in carrying out and documenting a transfer impact assessment addressing the law and practice of the destination country that may affect the effectiveness of the transfer mechanism used, and shall implement any supplementary measures identified as necessary by that assessment.
+
+### 9.4 Other Mechanisms
+
+A Transfer may alternatively be made on the basis of an applicable adequacy decision of the European Commission or another lawful transfer mechanism under Applicable Data Protection Law, in each case as recorded in Schedule 3.
 
 ## 10. Assistance to the Controller
 
@@ -136,7 +145,11 @@ The Processor shall assist the Controller in ensuring compliance with obligation
 - data protection impact assessments
 - prior consultation with supervisory authorities
 
-### 10.3 Compensation
+### 10.3 Records of Processing
+
+The Processor shall, upon request, provide the Controller with the information reasonably necessary for the Controller to maintain its records of processing activities under Article 30 GDPR, including a description of the categories of processing carried out on the Controller's behalf.
+
+### 10.4 Compensation
 
 Assistance may be subject to reasonable compensation where legally permissible.
 
@@ -144,7 +157,7 @@ Assistance may be subject to reasonable compensation where legally permissible.
 
 ### 11.1 Notification
 
-The Processor shall notify the Controller without undue delay and no later than **[Number]** hours after becoming aware of a Personal Data breach.
+The Processor shall notify the Controller of a Personal Data breach without undue delay and in any event no later than **[Number] [Time unit]**, which period shall not exceed 48 hours, after becoming aware of the breach, so as to enable the Controller to meet its own notification deadline of 72 hours under Article 33 GDPR.
 
 ### 11.2 Contents
 
@@ -160,15 +173,27 @@ The notification shall include:
 
 The Processor shall make available information necessary to demonstrate compliance.
 
-### 12.2 Audits
+### 12.2 Notice
 
-The Controller may conduct audits upon reasonable notice, no more than **[Number]**, unless required by law or following a security incident.
+The Controller shall give the Processor at least **[Number] [Time unit]** prior written notice of an audit, specifying its scope. Audits shall be conducted during normal business hours in a manner designed to minimise disruption to the Processor's operations.
+
+### 12.3 Independent Auditor
+
+An audit may be conducted by the Controller or by an independent third-party auditor bound by confidentiality obligations no less protective than this Agreement, as mutually agreed between the Parties (such agreement not to be unreasonably withheld or delayed).
+
+### 12.4 Certification Alternative
+
+The Processor may satisfy an audit request by providing a current, relevant independent certification or audit report (such as ISO/IEC 27001 or SOC 2 Type II) covering the processing under this Agreement, together with any additional documentation or information reasonably requested by the Controller to address matters not covered by that certification or report.
+
+### 12.5 Frequency and Cost
+
+Audits under this Section shall not take place more than once every **[Number] [Time unit]**, unless required by a supervisory authority or prompted by a Personal Data breach. Each Party shall bear its own costs of participating in an audit, save that the Processor may charge the Controller its reasonable costs of supporting an audit that goes beyond providing the certification or report described in Section 12.4, and the Controller shall bear the reasonable cost of any audit that reveals no material non-compliance.
 
 ## 13. Return or Deletion of Data
 
 ### 13.1 Return or Delete
 
-Upon termination of the Main Agreement, the Processor shall, at the Controller’s choice, return or delete all Personal Data.
+Upon termination of the Main Agreement, the Processor shall, at the Controller's choice, return or delete all Personal Data.
 
 ### 13.2 Legal Retention
 
@@ -188,6 +213,10 @@ The Processor shall indemnify the Controller for losses resulting from breach of
 
 Any limitation of liability in the Main Agreement shall not apply to breaches of data protection obligations unless explicitly stated.
 
+### 14.4 Internal Contribution
+
+Where a Data Subject recovers compensation in full from one Party under Article 82(4) GDPR for damage for which both Parties are jointly and severally liable, the Parties shall contribute towards that compensation in proportion to their respective share of responsibility for the damage, consistent with Article 82(5) GDPR.
+
 ## 15. Governing Law and Jurisdiction
 
 This Agreement shall be governed by and construed in accordance with the laws of Denmark. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
@@ -205,6 +234,26 @@ This Agreement may be executed in counterparts and by electronic signature, each
 ## Schedule 1: Processing Description
 
 - Categories of Data Subjects: **[Data subjects]**
-- Types of Personal Data: **[Names, emails, phone numbers, payment data, etc.]**
+- Types of Personal Data: **[Data types]**
 - Purpose of Processing: **[Purpose]**
 - Retention Period: **[Number] [Time unit]**
+
+---
+
+## Schedule 2: Sub-Processors
+
+| Sub-Processor Name | Location | Processing Activity |
+|---|---|---|
+| **[Company name]** | **[Location]** | **[Purpose]** |
+
+The Controller's objection rights under Section 8.3 apply to any addition, replacement, or removal of a sub-processor listed in this Schedule.
+
+---
+
+## Schedule 3: Approved Destinations and Transfer Mechanisms
+
+| Destination Country | Recipient / Sub-Processor | Transfer Mechanism (e.g. SCC Module, Adequacy Decision) |
+|---|---|---|
+| **[Location]** | **[Company name]** | **[Transfer mechanism]** |
+
+Transfer impact assessments supporting each Transfer listed above shall be documented and made available to the Controller on request, in accordance with Section 9.3.

@@ -24,7 +24,7 @@ Denne konkurrenceklausulaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttr
 
 Virksomheden og den Begrænsede Part benævnes hver en "Part" og samlet "Parterne".
 
-## 2. Formål
+## 2. Formål og berettigelse
 
 ### 2.1 Legitime interesser
 
@@ -33,6 +33,10 @@ Den Begrænsede Part har adgang til fortrolige oplysninger, forretningshemmeligh
 ### 2.2 Formål
 
 Aftalen har til formål at beskytte Virksomhedens legitime forretningsinteresser efter ophør af ansættelse eller kontraktmæssigt engagement.
+
+### 2.3 Særligt betroet stilling
+
+Virksomheden bekræfter, at en konkurrenceklausul efter lov om ansættelsesklausuler kun lovligt kan pålægges en medarbejder, der indtager en særligt betroet stilling, eller som i øvrigt har reel adgang til oplysninger, der vil kunne skade Virksomheden, hvis de anvendes af en konkurrent. Parterne bekræfter, at den Begrænsede Part indtager en sådan stilling, og angiver nedenfor de fortrolige oplysninger og/eller kundeforhold, der begrunder Aftalen: **[Angiv fortrolige oplysninger / kundeforhold]**.
 
 ## 3. Konkurrenceforpligtelse
 
@@ -51,7 +55,7 @@ Passivt ejerskab af børsnoterede aktier på højst **[Nummer]%** udgør ikke mi
 
 ### 4.1 Aktivitetsmæssigt omfang
 
-Begrænsningen gælder kun for aktiviteter, der i væsentlig grad svarer til dem, den Begrænsede Part udførte i de sidste **[Nummer] måneder** af engagementet.
+Begrænsningen gælder kun for aktiviteter, der i væsentlig grad svarer til dem, den Begrænsede Part udførte i de sidste **[Nummer] [Tidsenhed]** af engagementet.
 
 ### 4.2 Geografisk omfang
 
@@ -59,17 +63,25 @@ Begrænsningen gælder inden for **[Område]**.
 
 ### 4.3 Begrænset periode
 
-Konkurrenceforpligtelsen gælder i **[Nummer] måneder** efter ophør.
+Konkurrenceforpligtelsen gælder i **[Nummer] [Tidsenhed]** efter ophør, dog aldrig i mere end 12 måneder, som er den maksimale periode, der er tilladt efter lov om ansættelsesklausuler. Hvor den Begrænsede Part samtidig er underlagt en kundeklausul efter afsnit 8 eller en særskilt aftale (en kombineret klausul), må den samlede varighed af konkurrence- og kundeklausulen tilsammen ligeledes ikke overstige 12 måneder.
 
-## 5. Kompensation (hvis påkrævet ved lov)
+## 5. Kompensation
 
-### 5.1 Lovpligtig kompensation
+### 5.1 Lovpligtig månedlig kompensation
 
-Hvor ufravigelig lovgivning kræver kompensation for konkurrenceklausuler efter ophør, skal Virksomheden betale kompensation i overensstemmelse med gældende lovgivning.
+Som modydelse for konkurrenceforpligtelsen i afsnit 3 skal Virksomheden betale den Begrænsede Part kompensation for hver måned af den Begrænsede Periode, i overensstemmelse med lov om ansættelsesklausuler, beregnet som en procentdel af den Begrænsede Parts månedsløn på fratrædelsestidspunktet:
+- **40%** pr. måned, hvor Aftalen er en selvstændig konkurrenceklausul; eller
+- **60%** pr. måned, hvor Aftalen anvendes sammen med en kundeklausul, der dækker samme eller en overlappende periode (en kombineret klausul).
+
+Den relevante ordning for Aftalen er: **[Angiv: selvstændig konkurrenceklausul / kombineret konkurrence- og kundeklausul]**. Kompensation betales månedsvis bagud for hele den Begrænsede Periode, uanset om den Begrænsede Part er fritstillet.
 
 ### 5.2 Modregning
 
-Kompensation reduceres eller bortfalder, hvor dette er lovligt, hvis den Begrænsede Part opnår anden passende beskæftigelse.
+Hvis den Begrænsede Part opnår anden passende beskæftigelse eller indtægt i den Begrænsede Periode, kan Virksomheden modregne en sådan anden indtægt i den kompensation, der ellers skal betales, men Virksomheden må under ingen omstændigheder nedsætte kompensationen til under:
+- **16%** af månedslønnen på fratrædelsestidspunktet for en selvstændig konkurrenceklausul; eller
+- **24%** af månedslønnen på fratrædelsestidspunktet for en kombineret klausul,
+
+i overensstemmelse med den minimumsgrænse, der er fastsat i lov om ansættelsesklausuler for den klausultype, der er angivet i afsnit 5.1.
 
 ## 6. Fritstilling (valgfrit)
 
@@ -81,9 +93,15 @@ Intet i Aftalen begrænser den Begrænsede Parts fortsatte pligt til at bevare f
 
 ## 8. Kundeklausul (valgfri bestemmelse)
 
-I en periode på **[Nummer] måneder** efter ophør må den Begrænsede Part ikke:
-- hverve eller forsøge at hverve Virksomhedens kunder, som den Begrænsede Part har haft væsentlig kontakt med
+### 8.1 Begrænsning
+
+I en periode på **[Nummer] [Tidsenhed]** efter ophør (dog underlagt maksimumgrænsen på 12 måneder og den kombinerede maksimumgrænse på 12 måneder i afsnit 4.3) må den Begrænsede Part ikke:
+- hverve eller forsøge at hverve Virksomhedens kunder, med hvem Virksomheden har haft en forretningsforbindelse på et hvilket som helst tidspunkt inden for de seneste 12 måneder forud for det tidspunkt, hvor opsigelse af ansættelsen eller engagementet blev afgivet ("Beskyttede Kunder")
 - hverve eller ansætte Virksomhedens medarbejdere
+
+### 8.2 Kompensation for kundeklausul
+
+Hvor denne klausul opretholdes som en kombineret klausul sammen med konkurrenceforpligtelsen i afsnit 3, kompenseres den som en del af procentsatsen for kombinerede klausuler i afsnit 5.1. Hvor den gælder som en selvstændig kundeklausul (dvs. uden en ledsagende konkurrenceforpligtelse), skal Virksomheden i stedet betale en kompensation på **24%** af den Begrænsede Parts månedsløn på fratrædelsestidspunktet for hver måned af begrænsningen, under iagttagelse af samme modregningsgrænse som i afsnit 5.2.
 
 ## 9. Rimelighed og ugyldighed
 
@@ -105,9 +123,15 @@ Virksomheden er berettiget til at søge fogedforbud i tilfælde af misligholdels
 
 Virksomheden kan kræve erstatning i overensstemmelse med gældende lovgivning.
 
-## 11. Frafald af begrænsning
+## 11. Bortfald og ophør af begrænsning
+
+### 11.1 Frivilligt frafald
 
 Virksomheden kan skriftligt frafalde konkurrenceforpligtelsen, hvorefter kompensationsforpligtelser ophører i overensstemmelse med gældende lovgivning.
+
+### 11.2 Automatisk bortfald ved arbejdsgiverinitieret opsigelse
+
+Hvor Virksomheden opsiger den Begrænsede Parts ansættelse eller engagement af grunde, der ikke kan tilregnes den Begrænsede Part, eller den Begrænsede Part opsiger forholdet som følge af Virksomhedens væsentlige misligholdelse, bortfalder en eventuel konkurrence- og/eller kundeklausul efter Aftalen automatisk med virkning fra det tidspunkt, hvor opsigelsen får virkning, medmindre Virksomheden skriftligt over for den Begrænsede Part bekræfter, senest **[Nummer] [Tidsenhed]** efter at opsigelse er givet, at den ønsker at opretholde begrænsningen (helt eller delvist). En sådan bekræftelse skal angive, hvilken(-e) begrænsning(er) der opretholdes, og udløser, når den er givet, Virksomhedens forpligtelse til at betale den kompensation, der er fastsat i afsnit 5 (og, hvor relevant, afsnit 8.2) for den opretholdte begrænsning.
 
 ## 12. Lovvalg og værneting
 

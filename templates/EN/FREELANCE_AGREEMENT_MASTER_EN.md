@@ -44,16 +44,25 @@ Any changes to scope must be agreed in writing. Work outside the agreed scope ma
 
 The Freelancer acts as an independent contractor and not as an employee, partner, or agent of the Client.
 
-### 3.2 Freelancer Responsibilities
+### 3.2 Indicia of Self-Employment
+
+To evidence the Freelancer's genuine status as an independent contractor for Danish tax and labour-law purposes, the Parties confirm that:
+- **Right of substitution**: the Freelancer may perform the Services through a suitably qualified substitute or subcontractor, subject to reasonable prior notice to the Client and the Client's consent (not to be unreasonably withheld or delayed);
+- **No control over hours, method, or location**: the Client does not direct the specific hours worked, the working method, or the location from which the Services are performed; the Freelancer determines these matters at its own discretion, subject only to the agreed deadlines and specifications in Schedule 1;
+- **Own equipment**: the Freelancer supplies its own equipment, tools, software, and work premises necessary to perform the Services, except to the extent otherwise expressly agreed in writing;
+- **Multiple clients**: the Freelancer is free to provide services to other clients, including businesses that may compete with the Client, at the same time as performing the Services, subject to Section 7 (Confidentiality);
+- **Economic risk**: the Freelancer bears the economic risk of the engagement, including the risk of loss or reduced profit if the Services are not completed as agreed, and does not receive employee-type benefits (such as paid holiday, sick pay, pension contributions, or notice pay) from the Client.
+
+### 3.3 Freelancer Responsibilities
 
 The Freelancer is responsible for:
 - taxes and social contributions
 - insurance coverage
 - statutory obligations applicable to self-employed persons
 
-### 3.3 No Employment Relationship
+### 3.4 No Employment Relationship
 
-Nothing in this Agreement shall create an employment relationship.
+Nothing in this Agreement shall create an employment relationship. If the working relationship is later found, contrary to the Parties' intention and the indicia in Section 3.2, not to meet the requirements for independent-contractor status under mandatory Danish law, the Parties shall cooperate in good faith to address any resulting statutory obligations.
 
 ## 4. Fees and Payment
 
@@ -67,7 +76,7 @@ The Freelancer shall invoice the Client in accordance with agreed milestones or 
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[Number]** days from receipt unless otherwise agreed.
+Invoices are payable within **[Number] [Time unit]** from receipt unless otherwise agreed.
 
 ### 4.4 Late Payment
 
@@ -81,17 +90,21 @@ The Freelancer shall bear all costs related to performing the Services unless ex
 
 ### 6.1 Ownership
 
-All deliverables and work products created specifically for the Client under this Agreement (the "Work Product") shall become the Client’s property upon full payment.
+All deliverables and work products created specifically for the Client under this Agreement (the "Work Product") shall become the Client's property upon full payment.
 
-### 6.2 Assignment
+### 6.2 Assignment of Economic Rights
 
-To the extent permitted by law, the Freelancer assigns all transferable intellectual property rights in the Work Product to the Client.
+To the extent permitted by law, the Freelancer assigns to the Client all transferable economic intellectual property rights in the Work Product.
 
-### 6.3 Pre-Existing Materials
+### 6.3 Moral Rights
 
-Any pre-existing materials remain the Freelancer’s property unless expressly transferred in writing.
+Where the Work Product is protected by copyright, the Freelancer's moral rights (droit moral) under the Danish Copyright Act (Ophavsretsloven) cannot be assigned. The Freelancer agrees not to invoke such moral rights, including rights of attribution and integrity, against the Client's use of the Work Product for the purposes intended under this Agreement and Schedule 1, provided that such use does not distort or mutilate the Work Product in a manner prejudicial to the Freelancer's honour or reputation.
 
-### 6.4 Portfolio Use
+### 6.4 Pre-Existing Materials
+
+Any pre-existing materials remain the Freelancer's property unless expressly transferred in writing.
+
+### 6.5 Portfolio Use
 
 Unless otherwise agreed, the Freelancer may reference the project for portfolio purposes, provided no confidential information is disclosed.
 
@@ -107,7 +120,7 @@ This obligation continues after termination without limitation in time.
 
 ## 8. Non-Solicitation (Optional)
 
-During the term of this Agreement and for **[Number] months** thereafter, the Freelancer shall not solicit the Client’s employees or customers for competing services without prior written consent.
+During the term of this Agreement and for **[Number] [Time unit]** thereafter (such period not to exceed 12 months), the Freelancer shall not solicit the Client's employees or customers for competing services without prior written consent. The Parties agree that a restriction of up to 12 months reflects the maximum duration that Danish courts and legislation (including the principles applied under the Danish Act on Employment Clauses to comparable individual restrictions) generally regard as reasonable and proportionate for a business-to-business non-solicitation undertaking of this kind, and that any longer period risks being reduced or set aside as unreasonable.
 
 ## 9. Warranties
 
@@ -129,7 +142,7 @@ Each Party shall be liable for damages caused by breach of this Agreement.
 
 ### 10.2 Liability Cap
 
-The Freelancer’s total liability shall not exceed **[Number] amount or fee paid**, except in cases of gross negligence, fraud, or wilful misconduct.
+The Freelancer's total liability shall not exceed **[Number] amount or fee paid**, except in cases of gross negligence, fraud, or wilful misconduct.
 
 ### 10.3 Indirect Damages
 
@@ -143,7 +156,7 @@ This Agreement shall commence on the Effective Date and continue until completio
 
 ### 11.2 Termination for Convenience
 
-Either Party may terminate with **[Number] days** written notice.
+Either Party may terminate with **[Number] [Time unit]** written notice.
 
 ### 11.3 Termination for Cause
 
@@ -155,7 +168,13 @@ Upon termination, the Freelancer shall deliver completed work and invoice for wo
 
 ## 12. Data Protection
 
-If the Freelancer processes personal data on behalf of the Client, the Parties shall enter into a separate Data Processing Agreement where required.
+### 12.1 Controller and Processor Roles
+
+Where the Freelancer processes personal data on behalf of the Client in connection with the Services, the Client acts as data controller and the Freelancer acts as data processor within the meaning of the GDPR and the Danish Data Protection Act (Databeskyttelsesloven), unless the Parties expressly agree otherwise in writing.
+
+### 12.2 Data Processing Agreement as Condition Precedent
+
+The Freelancer shall not process any personal data on behalf of the Client until the Parties have executed a written Data Processing Agreement satisfying the requirements of Article 28 GDPR. Execution of such Data Processing Agreement is a condition precedent to any processing of personal data under this Agreement.
 
 ## 13. Assignment
 

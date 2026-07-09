@@ -66,11 +66,23 @@ Prices are fixed unless otherwise agreed in writing.
 
 ### 4.3 Payment Terms
 
-Invoices shall be payable within **[Number] days** from receipt, provided Deliverables comply with this Agreement.
+Invoices shall be payable within **[Number] [Time unit]** from receipt, provided Deliverables comply with this Agreement.
 
-### 4.4 Disputed Amounts
+### 4.4 VAT
+
+All prices and amounts stated in this Agreement and in Schedule 2 are exclusive of value added tax (VAT) unless expressly stated to be inclusive. VAT shall be added at the applicable rate and stated separately on invoices in accordance with Danish VAT law.
+
+### 4.5 Disputed Amounts
 
 The Customer may withhold payment for disputed amounts.
+
+### 4.6 Late Payment Interest
+
+If the Customer fails to pay any undisputed amount by its due date, interest accrues on the overdue amount from the due date until payment in full at a rate of **[Interest rate]** per annum. As the Parties are merchants, they may agree this rate between themselves; in the absence of such agreement, the default rate under the Danish Interest Act (Renteloven) applies.
+
+### 4.7 Recovery Costs
+
+In addition to interest under Section 4.6, the Vendor is entitled to the fixed compensation for debt recovery costs prescribed by the Danish Interest Act (Renteloven), implementing the EU Late Payment Directive, for each overdue invoice. Unlike the interest rate, this fixed compensation cannot be waived by the Customer in advance.
 
 ## 5. Delivery
 
@@ -94,13 +106,17 @@ The Customer may cancel orders in case of material delay.
 
 ### 6.1 Inspection
 
-The Customer may inspect Deliverables within a reasonable period after delivery.
+The Customer shall inspect Deliverables within **[Number] [Time unit]** after delivery and shall notify the Vendor in writing of any non-conformity apparent on reasonable inspection within that period.
 
-### 6.2 Rejection
+### 6.2 Latent Defects
+
+Defects that are not reasonably discoverable on inspection under Section 6.1 (latent defects) must be notified to the Vendor in writing within **[Number] [Time unit]** from delivery, after which the Customer's right to complain of such defects lapses, save for defects the Vendor knew or ought to have known of and failed to disclose.
+
+### 6.3 Rejection
 
 Non-conforming Deliverables may be rejected.
 
-### 6.3 Remedies
+### 6.4 Remedies
 
 The Vendor shall, at its own cost, repair, replace, or refund non-conforming Deliverables.
 
@@ -116,7 +132,7 @@ The Vendor warrants that Deliverables:
 
 ### 7.2 Warranty Period
 
-The warranty period shall be **[Number] months** from delivery unless otherwise agreed.
+The warranty period shall be **[Number] [Time unit]** from delivery unless otherwise agreed.
 
 ## 8. Compliance and Ethics
 
@@ -167,7 +183,7 @@ Neither Party shall be liable for indirect or consequential damages.
 
 ### 12.2 Liability Cap
 
-The Vendor’s total liability shall not exceed **[Number] amount or contract value**, except in cases of gross negligence, wilful misconduct, or product liability.
+The Vendor's total liability shall not exceed **[Number] amount or contract value**, except in cases of gross negligence, wilful misconduct, or product liability. The Vendor's indemnity for third-party intellectual property infringement claims under Section 11 is excluded from this cap and shall not be limited by it, without prejudice to the exclusion of indirect and consequential damages in Section 12.1.
 
 ## 13. Insurance
 
@@ -186,7 +202,7 @@ This Agreement shall commence on the Effective Date and continue until terminate
 
 ### 14.2 Termination for Convenience
 
-Either Party may terminate with **[Number] days/months** written notice.
+Either Party may terminate with **[Number] [Time unit]** written notice.
 
 ### 14.3 Termination for Cause
 
@@ -205,7 +221,17 @@ The Vendor may not assign this Agreement without prior written consent. The Cust
 
 ## 17. Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
+### 17.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules.
+
+### 17.2 Exclusion of the CISG
+
+The United Nations Convention on Contracts for the International Sale of Goods (CISG) shall not apply to this Agreement or to any purchase made under it. The Danish Sale of Goods Act (Købeloven) applies as background law between the Parties, to the extent not otherwise provided in this Agreement.
+
+### 17.3 Jurisdiction
+
+Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
 ## 18. Entire Agreement
 

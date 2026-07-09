@@ -60,7 +60,7 @@ Fakturaer udstedes **[Betalingsfrekvens]**.
 
 ### 4.3 Betalingsvilkår
 
-Fakturaer forfalder til betaling inden **[Nummer]** dage fra modtagelse.
+Fakturaer forfalder til betaling inden **[Nummer] [Tidsenhed]** fra modtagelse.
 
 ### 4.4 Forsinket betaling
 
@@ -80,11 +80,20 @@ Konsulenten afholder alle udgifter, medmindre de udtrykkeligt er godkendt skrift
 
 Konsulenten optræder som selvstændig erhvervsdrivende.
 
-### 6.2 Intet ansættelsesforhold
+### 6.2 Kendetegn for selvstændig virksomhed
 
-Intet i Aftalen skaber et ansættelses-, partnerskabs- eller agentforhold.
+Uanset om Konsulenten kontraherer gennem sit eget selskab, bekræfter Parterne følgende forhold for at dokumentere reel status som selvstændig erhvervsdrivende i skatte- og arbejdsretlig henseende:
+- **Substitutionsret**: Konsulenten kan lade Ydelserne udføre af kvalificeret personale eller underleverandører efter eget valg, med rimeligt forudgående varsel til Kunden og Kundens samtykke (som ikke må nægtes eller forsinkes uden rimelig grund);
+- **Ingen instruktionsbeføjelse over arbejdstid, metode eller sted**: Kunden fastsætter ikke de konkrete arbejdstimer, arbejdsmetoden eller det sted, hvorfra Ydelserne udføres; Konsulenten bestemmer selv disse forhold inden for rammerne af de aftalte tidsfrister og specifikationer i Bilag 1;
+- **Eget udstyr**: Konsulenten stiller selv det udstyr, værktøj, software og de arbejdslokaler til rådighed, der er nødvendige for at udføre Ydelserne, medmindre andet udtrykkeligt er aftalt skriftligt;
+- **Flere kunder**: Konsulenten kan frit levere ydelser til andre kunder, herunder virksomheder der konkurrerer med Kunden, jf. dog afsnit 8 (Fortrolighed);
+- **Økonomisk risiko**: Konsulenten bærer den økonomiske risiko ved opgaven, herunder risikoen for tab eller reduceret fortjeneste, hvis Ydelserne ikke gennemføres som aftalt, og modtager ikke lønmodtagerlignende goder fra Kunden, uanset graden af økonomisk afhængighed af Kunden, som opgaven måtte medføre.
 
-### 6.3 Skatter og afgifter
+### 6.3 Intet ansættelsesforhold
+
+Intet i Aftalen skaber et ansættelses-, partnerskabs- eller agentforhold. Hvis samarbejdsforholdet mod Parternes hensigt og de i afsnit 6.2 nævnte kendetegn senere måtte blive anset for ikke at opfylde betingelserne for status som selvstændig erhvervsdrivende efter ufravigelig dansk ret, skal Parterne loyalt samarbejde om at håndtere de deraf følgende lovbestemte forpligtelser.
+
+### 6.4 Skatter og afgifter
 
 Konsulenten er ansvarlig for alle skatter, sociale bidrag og øvrige lovpligtige forpligtelser.
 
@@ -94,11 +103,15 @@ Konsulenten er ansvarlig for alle skatter, sociale bidrag og øvrige lovpligtige
 
 Alle leverancer, der specifikt skabes for Kunden ("Arbejdsproduktet"), overgår til Kunden ved fuld betaling.
 
-### 7.2 Overdragelse
+### 7.2 Overdragelse af økonomiske rettigheder
 
-Konsulenten overdrager alle overdragelige immaterielle rettigheder i Arbejdsproduktet til Kunden ved betaling.
+Konsulenten overdrager alle overdragelige økonomiske immaterielle rettigheder i Arbejdsproduktet til Kunden ved betaling.
 
-### 7.3 Forudeksisterende materiale
+### 7.3 Ideelle rettigheder
+
+I det omfang Arbejdsproduktet er ophavsretligt beskyttet, kan Konsulentens (eller, hvor relevant, dennes personales) ideelle rettigheder (droit moral) efter ophavsretsloven ikke overdrages. Konsulenten accepterer, og skal sikre, at dennes personale accepterer, ikke at gøre sådanne ideelle rettigheder, herunder retten til navngivelse og retten til respekt for værkets integritet, gældende over for Kundens brug af Arbejdsproduktet til de formål, der er tilsigtet efter Aftalen og Bilag 1, forudsat at brugen ikke forvansker eller lemlæster Arbejdsproduktet på en måde, der er krænkende for ophavsmandens anseelse eller egenart.
+
+### 7.4 Forudeksisterende materiale
 
 Konsulenten bevarer ejerskabet til forudeksisterende materiale, men giver Kunden en ikke-eksklusiv, tidsubegrænset licens til brug heraf i det omfang materialet indgår i Arbejdsproduktet.
 
@@ -136,15 +149,21 @@ Konsulentens samlede ansvar i henhold til Aftalen kan ikke overstige det samlede
 
 ## 11. Skadesløsholdelse
 
+### 11.1 Skadesløsholdelse
+
 Konsulenten skal holde Kunden skadesløs mod tredjemandskrav, der udspringer af:
 - krænkelse af immaterielle rettigheder forårsaget af Arbejdsproduktet
 - misligholdelse af Aftalen
+
+### 11.2 Forhold til ansvarsloftet
+
+Skadesløsholdelsen i afsnit 11.1 er omfattet af og udgør en del af den ansvarsbegrænsning og det ansvarsloft, der fremgår af afsnit 10.2. Ansvarsloftet finder ikke anvendelse på krav om skadesløsholdelse, der skyldes svig, grov uagtsomhed eller forsæt fra Konsulentens side, i overensstemmelse med undtagelsen i afsnit 10.2.
 
 ## 12. Ophør
 
 ### 12.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[Nummer] dage** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 12.2 Ophævelse ved misligholdelse
 
@@ -158,7 +177,13 @@ Ved ophør:
 
 ## 13. Databeskyttelse
 
-Hvis Konsulenten behandler personoplysninger på vegne af Kunden, skal Parterne indgå en særskilt databehandleraftale.
+### 13.1 Dataansvarlig og databehandler
+
+Hvis Konsulenten behandler personoplysninger på vegne af Kunden i forbindelse med Ydelserne, er Kunden dataansvarlig, og Konsulenten er databehandler i databeskyttelsesforordningens (GDPR) og databeskyttelseslovens forstand, medmindre Parterne udtrykkeligt aftaler andet skriftligt.
+
+### 13.2 Databehandleraftale som suspensiv betingelse
+
+Konsulenten må ikke behandle personoplysninger på vegne af Kunden, før Parterne har indgået en skriftlig databehandleraftale, der opfylder kravene i GDPR-artikel 28. Indgåelse af en sådan databehandleraftale er en suspensiv betingelse for enhver behandling af personoplysninger i henhold til Aftalen.
 
 ## 14. Overdragelse
 

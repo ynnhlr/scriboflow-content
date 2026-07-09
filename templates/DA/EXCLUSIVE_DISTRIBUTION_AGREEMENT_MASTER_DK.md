@@ -40,19 +40,27 @@ I Aftalens løbetid må Leverandøren ikke udpege andre distributører i Område
 
 Distributøren accepterer udpegningen og forpligter sig til aktivt at markedsføre og sælge Produkterne.
 
+### 2.4 Status som selvstændig videreforhandler
+
+Distributøren køber Produkterne af Leverandøren og videresælger dem i eget navn og for egen regning. Distributøren bærer den fulde kommercielle risiko ved videresalget, herunder pris- og kreditrisikoen over for sine kunder, og har ingen bemyndigelse til at forhandle, indgå eller på anden måde forpligte Leverandøren over for tredjemand. Parterne er enige om, at forholdet mellem dem er et forhold mellem selvstændig køber og videreforhandler og ikke et handelsagentforhold omfattet af lov om handelsagenter og handelsrejsende ("Handelsagentloven"), uanset den eksklusivitet, de salgsmål og den brandkontrol, der følger af Aftalen. Intet i Aftalen skal fortolkes således, at Distributøren opnår ret til goodwillgodtgørelse eller anden godtgørelse, som en handelsagent er berettiget til efter denne lov.
+
 ## 3. Område
 
 ### 3.1 Område
 
 Det Område, som Aftalen omfatter, er **[Område]** ("Området").
 
-### 3.2 Salg uden for Området
+### 3.2 Aktivt salg uden for Området
 
-Distributøren må ikke aktivt sælge uden for Området uden skriftligt samtykke.
+Distributøren må ikke aktivt sælge Produkterne uden for Området uden Leverandørens forudgående skriftlige samtykke. Ved "aktivt salg" forstås blandt andet direkte henvendelse til individuelle kunder via direct mail, besøg eller reklame og markedsføring, der specifikt er rettet mod kunder uden for Området.
 
 ### 3.3 Passivt salg
 
-Passivt salg ind i Området fra tredjemand reguleres af gældende konkurrencelovgivning.
+Passivt salg ind i Området fra tredjemand, samt Distributørens passive salg uden for Området — det vil sige besvarelse af uopfordrede henvendelser uden specifikt målrettet markedsføring — kan aldrig begrænses, forhindres eller sanktioneres i henhold til Aftalen, uanset den eksklusivitet, Distributøren er tildelt. Begrænsning af passivt salg, eller tildeling af absolut territorial beskyttelse mod passivt salg, udgør en hardcore-begrænsning efter gældende dansk og EU-konkurrenceret og er ikke tilladt.
+
+### 3.4 Videresalgspriser
+
+Enhver prisliste, vejledende pris eller foreslået videresalgspris, som Leverandøren meddeler, er ikke bindende for Distributøren. Leverandøren må ikke fastsætte, kræve eller på anden måde søge at pålægge Distributøren minimums- eller fastsatte videresalgspriser. En sådan adfærd, sammen med ethvert forsøg på at give Distributøren absolut territorial beskyttelse mod passivt salg, udgør en hardcore-begrænsning, der kan medføre, at en eventuel konkurrenceretlig gruppefritagelse bortfalder for hele Aftalen.
 
 ## 4. Produkter
 
@@ -76,9 +84,10 @@ Distributøren skal:
 
 ### 5.2 Manglende opfyldelse af mål
 
-Manglende opfyldelse af minimumsmål kan medføre:
-- ændring til ikke-eksklusiv status, eller
-- ophør af Aftalen
+Hvis Distributøren ikke opfylder minimumskøbsmålene i Bilag 2, kan Leverandøren ændre Aftalen til ikke-eksklusiv status eller opsige Aftalen, men kun hvis:
+(a) Leverandøren forudgående har givet Distributøren skriftligt varsel med angivelse af det manglende opfyldte mål, målt efter de objektive kriterier i Bilag 2;
+(b) Distributøren har fået en afhjælpningsperiode på **[Nummer] [Tidsenhed]** til at rette op på det manglende mål eller godtgøre, at det manglende mål skyldes forhold uden for Distributørens rimelige kontrol (herunder Leverandørens egne forhold); og
+(c) det manglende mål fortsat ikke er opfyldt ved udløbet af denne afhjælpningsperiode.
 
 ## 6. Ordrer og accept
 
@@ -98,15 +107,23 @@ Distributøren skal købe Produkterne til de priser, der fremgår af Bilag 3.
 
 ### 7.2 Prisændringer
 
-Leverandøren kan justere priser med **[Nummer] dage** skriftligt varsel.
+Leverandøren kan justere priser med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 7.3 Betalingsvilkår
 
-Betalingsfristen er **[Nummer] dage** fra fakturadato.
+Betalingsfristen er **[Nummer] [Tidsenhed]** fra fakturadato.
 
-### 7.4 Forsinket betaling
+### 7.4 Morarente
 
-Ved forsinket betaling er Leverandøren berettiget til at suspendere leverancer.
+Betaler Distributøren ikke et ubestridt beløb rettidigt, påløber der rente af det forfaldne beløb fra forfaldsdatoen og indtil betaling sker fuldt ud, med en sats på **[Rentesats]** p.a.
+
+### 7.5 Kompensation for inddrivelsesomkostninger
+
+Ud over renter efter punkt 7.4 er Leverandøren berettiget til det faste kompensationsbeløb for inddrivelsesomkostninger, der følger af renteloven, som gennemfører EU's direktiv om forsinket betaling. Denne ret kan ikke fraskrives af Distributøren på forhånd.
+
+### 7.6 Suspension af leverancer
+
+Uden præjudice for punkt 7.4 og 7.5 berettiger forsinket betaling Leverandøren til at suspendere leverancer, indtil samtlige forfaldne beløb, herunder påløbne renter og kompensation for inddrivelsesomkostninger, er betalt fuldt ud.
 
 ## 8. Immaterielle rettigheder
 
@@ -130,7 +147,7 @@ Distributøren skal overholde al gældende lovgivning i Området.
 
 ### 9.2 Konkurrencelovgivning
 
-Parterne skal overholde gældende konkurrence- og antitrustlovgivning.
+Parterne skal overholde gældende konkurrence- og antitrustlovgivning, herunder reglerne om vertikale aftaler efter dansk ret og EU-ret, og navnlig reglerne om passivt salg og videresalgspriser i punkt 3.3 og 3.4.
 
 ## 10. Garantier og ansvar
 
@@ -150,20 +167,20 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader.
 
 ### 11.1 Indledende periode
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] år**.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og løber i en indledende periode på **[Nummer] [Tidsenhed]**.
 
 ### 11.2 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk for successive perioder af samme varighed, medmindre en af Parterne giver skriftligt varsel om ikke-fornyelse mindst **[Nummer] [Tidsenhed]** før udløbet af den løbende periode. Dette varsel udgør en minimumsgrænse og skal fastsættes under hensyntagen til forholdets varighed og den handelsvolumen, Distributøren har opbygget, således at Distributøren gives en rimelig mulighed for at afvikle eller omstille sin virksomhed, inden Aftalen ophører.
 
 ## 12. Ophør
 
 ### 12.1 Ophør med øjeblikkelig virkning
 
 Hver Part kan ophøre Aftalen med øjeblikkelig virkning i tilfælde af:
-- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**
+- væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] [Tidsenhed]**
 - insolvens
-- gentagen manglende opfyldelse af resultatforpligtelser
+- gentagen manglende opfyldelse af resultatforpligtelser, med forbehold for varsels- og afhjælpningsprocessen i punkt 5.2, hvor relevant
 
 ### 12.2 Virkninger
 
@@ -190,7 +207,17 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
+### 17.1 Lovvalg
+
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive internationale privatretlige regler.
+
+### 17.2 Fravalg af CISG
+
+FN's konvention om aftaler om internationale køb (CISG) finder ikke anvendelse på Aftalen eller på nogen købsaftale indgået i medfør heraf. Købeloven finder anvendelse som baggrundsret mellem Parterne, i det omfang andet ikke følger af Aftalen, og Parterne er enige om, at de som erhvervsdrivende hermed fraviger langt de fleste af lovens deklaratoriske bestemmelser.
+
+### 17.3 Værneting
+
+Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 

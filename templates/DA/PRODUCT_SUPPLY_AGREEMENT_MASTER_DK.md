@@ -48,11 +48,11 @@ Aftalen træder i kraft på Ikrafttrædelsesdatoen.
 
 ### 3.2 Indledende periode
 
-Aftalen løber i en indledende periode på **[Nummer] år**, medmindre den ophører i overensstemmelse med afsnit 13.
+Aftalen løber i en indledende periode på **[Nummer] [Tidsenhed]**, medmindre den ophører i overensstemmelse med afsnit 13.
 
 ### 3.3 Fornyelse
 
-Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] måneder** skriftligt varsel.
+Herefter fornyes Aftalen automatisk, medmindre den opsiges med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ## 4. Ordrer
 
@@ -76,10 +76,11 @@ Priser fremgår af Bilag 2.
 
 ### 5.2 Regulering
 
-Priser kan reguleres med **[Nummer] dage** skriftligt varsel som følge af:
-- ændringer i råvareomkostninger
-- valutakursudsving
-- regulatoriske ændringer
+Priser kan reguleres med **[Nummer] [Tidsenhed]** skriftligt varsel, forudsat at reguleringen:
+(a) er knyttet til et navngivet, offentligt verificerbart prisindeks eller til en dokumenteret stigning i Leverandørens underliggende omkostninger (såsom råvareomkostninger, valutakursudsving eller omkostninger til regulatorisk overholdelse); og
+(b) på Køberens anmodning understøttes af dokumentation for den underliggende omkostningsændring eller indeksudvikling, der er lagt til grund.
+
+Accepterer Køberen ikke en prisstigning, kan Køberen opsige Aftalen, eller de berørte Produkter, ved skriftligt varsel givet inden **[Nummer] [Tidsenhed]** fra varslet om prisstigning, med virkning tidligst fra det tidspunkt, hvor stigningen ellers ville træde i kraft.
 
 ### 5.3 Moms
 
@@ -89,15 +90,26 @@ Alle priser er eksklusive moms, medmindre andet er angivet.
 
 ### 6.1 Betaling
 
-Fakturaer forfalder til betaling inden **[Nummer] dage** fra fakturadato.
+Fakturaer forfalder til betaling inden **[Nummer] [Tidsenhed]** fra fakturadato.
 
-### 6.2 Forsinket betaling
+### 6.2 Morarente
 
-Ved forsinket betaling kan der påløbe lovbestemt rente.
+Ved forsinket betaling påløber der rente af det forfaldne beløb fra forfaldsdatoen og indtil betaling sker fuldt ud, med en sats på **[Rentesats]** p.a.
 
-### 6.3 Suspension
+### 6.3 Kompensation for inddrivelsesomkostninger
+
+Ud over renter efter punkt 6.2 er Leverandøren berettiget til det faste kompensationsbeløb for inddrivelsesomkostninger, der følger af renteloven, som gennemfører EU's direktiv om forsinket betaling, for hver forsinket faktura. Denne ret kan ikke fraskrives af Køberen på forhånd.
+
+### 6.4 Suspension
 
 Leverandøren kan suspendere leverancer ved forfaldne betalinger.
+
+### 6.5 Ejendomsforbehold
+
+Ejendomsretten til Produkterne overgår ikke til Køberen, før Leverandøren har modtaget fuld betaling for de pågældende Produkter. Dette ejendomsforbehold aftales mellem Parterne før eller senest ved leveringen af den enkelte forsendelse. Indtil ejendomsretten overgår:
+(a) skal Køberen holde Produkterne rimeligt identificerbare som tilhørende Leverandøren og adskilt fra Køberens egne varer og varer tilhørende tredjemand, og må ikke bearbejde, sammenblande eller indarbejde Produkterne i andre varer på en måde, der ødelægger deres identificerbarhed, medmindre Leverandøren forudgående har givet skriftligt samtykke;
+(b) kan Køberen videresælge Produkterne til egne kunder som led i sædvanlig drift inden betaling er sket, forudsat at Køberen på Leverandørens anmodning overdrager sit krav mod underkøberen som følge af et sådant videresalg til Leverandøren, i det omfang købesummen ikke er betalt; og
+(c) er ejendomsforbeholdet en sikkerhedsordning, der sikrer betaling for de konkret leverede Produkter, og skal ikke fortolkes som en camoufleret finansierings- eller leasingordning.
 
 ## 7. Levering
 
@@ -125,7 +137,7 @@ Køberen skal kontrollere Produkterne straks efter levering.
 
 ### 8.2 Reklamationsfrist
 
-Reklamationer skal fremsættes skriftligt inden **[Nummer] dage** efter levering.
+Reklamationer skal fremsættes skriftligt inden **[Nummer] [Tidsenhed]** efter levering.
 
 ### 8.3 Beføjelser
 
@@ -172,17 +184,17 @@ Ingen af Parterne er ansvarlige for indirekte tab eller følgeskader, herunder t
 
 ### 12.2 Ansvarsloft
 
-Leverandørens samlede ansvar efter Aftalen kan ikke overstige den samlede værdi af Produkter leveret i de foregående **[Nummer] måneder**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
+Leverandørens samlede ansvar efter Aftalen kan ikke overstige den samlede værdi af Produkter leveret i de foregående **[Nummer] [Tidsenhed]**, dog ikke i tilfælde af grov uagtsomhed eller forsæt.
 
 ## 13. Ophør
 
 ### 13.1 Opsigelse uden misligholdelse
 
-Hver Part kan opsige Aftalen med **[Nummer] måneder** skriftligt varsel.
+Hver Part kan opsige Aftalen med **[Nummer] [Tidsenhed]** skriftligt varsel.
 
 ### 13.2 Ophør ved misligholdelse
 
-Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] dage**.
+Hver Part kan ophøre Aftalen med øjeblikkelig virkning ved væsentlig misligholdelse, som ikke afhjælpes inden **[Nummer] [Tidsenhed]**.
 
 ### 13.3 Virkninger
 
@@ -190,7 +202,13 @@ Ved ophør forfalder alle udestående betalinger.
 
 ## 14. Force majeure
 
-Ingen af Parterne er ansvarlig for manglende opfyldelse af forpligtelser på grund af forhold uden for rimelig kontrol, herunder afbrydelser i forsyningskæder eller myndighedsindgreb.
+### 14.1 Force majeure-begivenhed
+
+Ingen af Parterne er ansvarlig for manglende opfyldelse af sine forpligtelser (bortset fra betalingsforpligtelser, som aldrig undskyldes af force majeure) som følge af forhold uden for Partens rimelige kontrol, herunder naturkatastrofer, krig, brand, myndighedsindgreb samt væsentlige og uforudseelige afbrydelser i Leverandørens egen forsyningskæde, som ikke kunne have været undgået ved rimelige beredskabsforanstaltninger. Almindelig markedsmangel, sædvanlige prisudsving eller Leverandørens egne undgåelige indkøbsvanskeligheder udgør ikke i sig selv force majeure.
+
+### 14.2 Maksimal varighed og opsigelse
+
+Forhindrer en force majeure-begivenhed Leverandøren i at levere alle eller en væsentlig del af Produkterne i en sammenhængende periode på mere end **[Nummer] [Tidsenhed]**, kan Køberen opsige Aftalen, eller de berørte ordrer, ved skriftligt varsel med øjeblikkelig virkning, uden ansvar for Leverandøren ud over betaling for allerede leverede Produkter.
 
 ## 15. Fortrolighed
 
@@ -202,7 +220,17 @@ Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, b
 
 ## 17. Lovvalg og værneting
 
-Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
+### 17.1 Lovvalg
+
+Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler.
+
+### 17.2 Fravalg af CISG
+
+FN's konvention om aftaler om internationale køb (CISG) finder ikke anvendelse på Aftalen eller på nogen indkøbsordre afgivet i medfør heraf. Købeloven finder anvendelse som baggrundsret mellem Parterne, i det omfang andet ikke følger af Aftalen.
+
+### 17.3 Værneting
+
+Enhver tvist er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
 ## 18. Hele aftalen
 

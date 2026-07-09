@@ -73,32 +73,42 @@ The Receiving Party may retain copies only to the extent required by applicable 
 
 ## 8. Duration of Confidentiality
 
-This Agreement remains in effect from the Effective Date until **[Number] [Time unit]**. The confidentiality obligations shall survive for **[Number] [Time unit]** years after the last disclosure of Confidential Information.
+This Agreement remains in effect for **[Number] [Time unit]** from the Effective Date. The confidentiality obligations shall survive for **[Number] [Time unit]** after the last disclosure of Confidential Information. Notwithstanding the foregoing, Confidential Information that constitutes a trade secret under the Danish Trade Secrets Act (lov om forretningshemmeligheder) shall remain protected under this Agreement for as long as it retains its status as a trade secret, irrespective of the survival period stated above.
 
 ## 9. Remedies
 
-The Parties agree that any violation of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages would be insufficient. Accordingly, the Disclosing Party shall be entitled to seek injunctive or other equitable relief to enforce this Agreement, without requirement of posting bond or proof of actual damages.
+The Parties agree that a breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages alone may be insufficient. Accordingly, the Disclosing Party may seek interim relief (including an injunction (forbud)) before the Danish courts in accordance with the Danish Administration of Justice Act (retsplejeloven), in addition to any other remedy available under applicable law. Nothing in this Section limits or purports to override the court's discretion regarding the grant of interim relief, the evidence required, or any security the court may require the Disclosing Party to provide.
 
-## 10. No Grant of Rights
+## 10. Liability
+
+### 10.1 Limitation
+
+To the maximum extent permitted by Danish law, neither Party shall be liable to the other for indirect or consequential damages arising out of or in connection with this Agreement. The Receiving Party's aggregate liability under this Agreement shall not exceed **[Number] [Currency]**.
+
+### 10.2 Carve-Outs
+
+The limitation in Section 10.1 does not apply to: (a) losses arising from the Receiving Party's deliberate or grossly negligent misuse or disclosure of Confidential Information; or (b) the Disclosing Party's right to seek interim or other equitable relief under Section 9 (Remedies).
+
+## 11. No Grant of Rights
 
 Except as expressly stated in this Agreement, nothing grants any license, right, title, or interest in Confidential Information to the Receiving Party or any third party.
 
-## 11. Assignment
+## 12. Assignment
 
 The Receiving Party may not assign its rights or obligations under this Agreement without the prior written consent of the Disclosing Party, except in connection with a merger, acquisition, or sale of substantially all assets.
 
-## 12. Governing Law and Jurisdiction
+## 13. Governing Law and Jurisdiction
 
 This Agreement shall be governed by and construed in accordance with the laws of Denmark, excluding conflict-of-law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of **[Location]**, unless mandatory law provides otherwise.
 
-## 13. Language
+## 14. Language
 
 This Agreement is drafted in English, and English shall be the binding and controlling language for all purposes.
 
-## 14. Entire Agreement and Amendments
+## 15. Entire Agreement and Amendments
 
 This Agreement represents the entire understanding between the Parties concerning the subject matter and supersedes all prior discussions. Any modification must be in a written instrument signed by both Parties.
 
-## 15. Counterparts and Signatures
+## 16. Counterparts and Signatures
 
 This Agreement may be executed in counterparts and by electronic signature, each of which shall be considered an original.

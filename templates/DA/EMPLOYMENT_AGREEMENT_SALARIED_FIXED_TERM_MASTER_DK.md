@@ -56,6 +56,10 @@ Udløb af den tidsbegrænsede ansættelsesperiode anses ikke som opsigelse, medm
 
 Hvis Medarbejderen fortsætter arbejdet efter slutdatoen uden en ny skriftlig aftale, kan ansættelsen anses som tidsubegrænset i overensstemmelse med gældende lovgivning.
 
+### 3.5 Flere på hinanden følgende tidsbegrænsede ansættelser og ligebehandling
+
+Følger denne Aftale efter en eller flere tidligere tidsbegrænsede ansættelsesaftaler mellem Parterne vedrørende samme eller en i det væsentlige tilsvarende stilling, skal en forlængelse være begrundet i en objektiv grund i henhold til lov om tidsbegrænset ansættelse (der gennemfører Rådets direktiv 1999/70/EF), f.eks. et reelt midlertidigt forretningsmæssigt behov, dækning for en fraværende medarbejder, eller den objektive begrundelse angivet i punkt 3.2. Foreligger en sådan objektiv begrundelse ikke, kan flere på hinanden følgende tidsbegrænsede ansættelser medføre, at ansættelsen anses for tidsubegrænset. Medarbejderen må ikke, alene fordi ansættelsen er tidsbegrænset, behandles ringere med hensyn til ansættelsesvilkår end en sammenlignelig fastansat medarbejder, medmindre forskelsbehandlingen er objektivt begrundet, jf. lovens ligebehandlingsprincip.
+
 ## 4. Arbejdstid
 
 ### 4.1 Normal arbejdstid
@@ -82,7 +86,7 @@ Enhver bonus- eller incitamentsordning reguleres af særskilte skriftlige vilkå
 
 ### 5.4 Personalegoder
 
-Medarbejderen har ret til personalegoder på niveau med sammenlignelige fastansatte medarbejdere, medmindre andet lovligt kan aftales. Nærmere oplysninger fremgår af Bilag 1.
+I overensstemmelse med ligebehandlingsprincippet i lov om tidsbegrænset ansættelse har Medarbejderen ret til personalegoder på vilkår, der ikke er ringere end for en sammenlignelig fastansat medarbejder, der udfører samme eller lignende arbejde, medmindre forskelsbehandling er objektivt begrundet. Nærmere oplysninger fremgår af Bilag 1.
 
 ## 6. Ferie og fravær
 
@@ -120,13 +124,21 @@ Medarbejderen overdrager alle overdragelige rettigheder til sådanne immateriell
 
 ## 9. Konkurrence- og kundeklausuler (hvis relevant)
 
-### 9.1 Særskilte vilkår
+### 9.1 Anvendelsesbetingelse
 
-Eventuelle efteransættelsesrestriktioner skal overholde ufravigelig ansættelsesretlig lovgivning og angives særskilt i Bilag 2, hvis relevant.
+En konkurrenceklausul og/eller kundeklausul kan alene pålægges Medarbejderen, hvis Medarbejderen indtager en særlig betroet stilling eller har adgang til oplysninger af en reelt følsom karakter for Arbejdsgiveren, jf. ansættelsesklausulloven. Hvis relevant, er den eller de konkrete klausuler, herunder grundlaget for den betroede stilling/følsomme information, angivet i Bilag 2.
 
-### 9.2 Lovpligtig kompensation
+### 9.2 Lovbestemt maksimumsvarighed
 
-Hvor der efter loven kræves kompensation for sådanne restriktioner, udbetales denne i overensstemmelse med gældende lovgivning.
+En konkurrenceklausul, og en kombineret konkurrence- og kundeklausul, der er aftalt i Bilag 2, kan ikke overstige 12 måneder fra ansættelsens ophør.
+
+### 9.3 Kundeklausulens tilbageblikstest
+
+En kundeklausul kan alene omfatte kunder, som Medarbejderen, eller personer Medarbejderen er ansvarlig for, har haft forretningsforbindelse med inden for de seneste 12 måneder før opsigelsen.
+
+### 9.4 Kompensation
+
+Hvor en restriktion efter dette punkt 9 finder anvendelse efter ansættelsens ophør, betaler Arbejdsgiveren Medarbejderen lovpligtig månedlig kompensation i restriktionens løbetid, beregnet og betalt i overensstemmelse med ansættelsesklausulloven, som nærmere angivet i Bilag 2.
 
 ## 10. Bibeskæftigelse
 
@@ -142,15 +154,32 @@ Arbejdsgiveren behandler personoplysninger om Medarbejderen i overensstemmelse m
 
 ## 13. Førtidigt ophør
 
-### 13.1 Varsel
+### 13.1 Lovbestemt minimumsvarsel
 
-Medmindre andet følger af lovgivningen, kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[Nummer] [Tidsenhed]**.
+Ethvert varsel om førtidigt ophør er underlagt de ufravigelige minimumsvarsler i funktionærlovens § 2, beregnet fra Medarbejderens startdato til datoen for opsigelsen:
 
-### 13.2 Ophør med øjeblikkelig virkning
+**Arbejdsgiverens varsel (minimum):**
+- Op til 6 måneders ansættelse: 1 måned
+- 6 måneder til 2 år og 9 måneder: 3 måneder
+- 2 år og 9 måneder til 5 år og 8 måneder: 4 måneder
+- 5 år og 8 måneder til 8 år og 7 måneder: 5 måneder
+- Mere end 8 år og 7 måneder: 6 måneder
+
+**Medarbejderens varsel (fast):** 1 måned, uanset anciennitet.
+
+### 13.2 Aftalt varsel
+
+Med forbehold for punkt 13.1 kan hver Part bringe Aftalen til ophør før udløbsdatoen med skriftligt varsel på **[Nummer] [Tidsenhed]**. Er dette varsel kortere end det lovbestemte minimum, der på det relevante tidspunkt følger af punkt 13.1, er det ugyldigt i det omfang og erstattes automatisk af det gældende lovbestemte minimum.
+
+### 13.3 Adgang til førtidigt ophør
+
+Denne Aftale giver hver Part en udtrykkelig aftalt ret til at bringe ansættelsen til ophør før udløbsdatoen ved varsel efter punkt 13.2. Parterne anerkender, at en tidsbegrænset ansættelsesaftale efter dansk ret ellers er bindende for den aftalte periode og ikke indebærer en underforstået ret til førtidig opsigelse; uden dette punkt 13.3 ville en Part, der opsagde før udløbsdatoen uden en sådan ret, kunne ifalde erstatningsansvar for den resterende del af perioden. Dette punkt 13.3 fjerner denne uklarhed ved at bekræfte, at førtidig opsigelse ved varsel er til rådighed for begge Parter i hele perioden.
+
+### 13.4 Ophør med øjeblikkelig virkning
 
 Ophør med øjeblikkelig virkning kan ske i tilfælde af væsentlig misligholdelse eller grov forsømmelse, med forbehold for gældende lovgivning.
 
-### 13.3 Optjente rettigheder
+### 13.5 Optjente rettigheder
 
 Ophør før udløb påvirker ikke rettigheder eller forpligtelser, der allerede er optjent.
 
@@ -188,6 +217,9 @@ Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvo
 
 ## Bilag 2: Efteransættelsesrestriktioner (hvis relevant)
 
-- Varighed af konkurrenceklausul: **[Nummer] [Tidsenhed]**
-- Omfang af kundeklausul: **[Omfang]**
-- Kompensation (hvis lovpligtig): **[Beskrivelse]**
+- Type af restriktion: **[Konkurrenceklausul / kundeklausul / kombineret]**
+- Grundlag for særlig betroet stilling / adgang til følsomme oplysninger (punkt 9.1): **[Beskrivelse]**
+- Varighed: **[Nummer] [Tidsenhed]** (kan ikke overstige 12 måneder fra ophør, jf. punkt 9.2)
+- Kundeomfang (hvis kundeklausul): kunder, som Medarbejderen har haft forretningsforbindelse med inden for de seneste 12 måneder før opsigelsen (punkt 9.3)
+- Månedlig kompensation: **[Nummer] [Valuta]** pr. måned i restriktionens løbetid, i overensstemmelse med ansættelsesklausulloven (punkt 9.4)
+- Modregningsregel for den valgte restriktion: **[Beskrivelse]**

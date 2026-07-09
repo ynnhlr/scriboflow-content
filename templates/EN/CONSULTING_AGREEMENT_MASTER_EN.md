@@ -60,7 +60,7 @@ Invoices shall be issued **[Payment frequency]**.
 
 ### 4.3 Payment Terms
 
-Invoices are payable within **[Number]** days from receipt.
+Invoices are payable within **[Number] [Time unit]** from receipt.
 
 ### 4.4 Late Payment
 
@@ -80,11 +80,20 @@ The Consultant shall bear all expenses unless explicitly approved in writing by 
 
 The Consultant acts as an independent contractor.
 
-### 6.2 No Employment Relationship
+### 6.2 Indicia of Independent Contractor Status
 
-Nothing in this Agreement creates an employment, partnership, or agency relationship.
+Whether or not the Consultant contracts through its own company, the Parties confirm the following facts to evidence genuine independent-contractor status for Danish tax and labour-law purposes:
+- **Right of substitution**: the Consultant may perform the Services through suitably qualified personnel or subcontractors of its choosing, subject to reasonable prior notice to the Client and the Client's consent (not to be unreasonably withheld or delayed);
+- **No control over hours, method, or location**: the Client does not direct the specific hours worked, the working method, or the location from which the Services are performed; the Consultant determines these matters at its own discretion, subject only to the agreed deadlines and specifications in Schedule 1;
+- **Own equipment**: the Consultant supplies its own equipment, tools, software, and work premises necessary to perform the Services, except to the extent otherwise expressly agreed in writing;
+- **Multiple clients**: the Consultant is free to provide services to other clients, including businesses that may compete with the Client, subject to Section 8 (Confidentiality);
+- **Economic risk**: the Consultant bears the economic risk of the engagement, including the risk of loss or reduced profit if the Services are not completed as agreed, and does not receive employee-type benefits from the Client, regardless of the degree of economic dependency on the Client that may result from the engagement.
 
-### 6.3 Taxes
+### 6.3 No Employment Relationship
+
+Nothing in this Agreement creates an employment, partnership, or agency relationship. If the working relationship is later found, contrary to the Parties' intention and the indicia in Section 6.2, not to meet the requirements for independent-contractor status under mandatory Danish law, the Parties shall cooperate in good faith to address any resulting statutory obligations.
+
+### 6.4 Taxes
 
 The Consultant is responsible for all taxes, social contributions, and statutory obligations.
 
@@ -92,13 +101,17 @@ The Consultant is responsible for all taxes, social contributions, and statutory
 
 ### 7.1 Work Product Ownership
 
-All deliverables specifically created for the Client (the "Work Product") shall become the Client’s property upon full payment.
+All deliverables specifically created for the Client (the "Work Product") shall become the Client's property upon full payment.
 
-### 7.2 Assignment
+### 7.2 Assignment of Economic Rights
 
-The Consultant assigns all transferable intellectual property rights in the Work Product to the Client upon payment.
+The Consultant assigns all transferable economic intellectual property rights in the Work Product to the Client upon payment.
 
-### 7.3 Pre-Existing Materials
+### 7.3 Moral Rights
+
+Where the Work Product is protected by copyright, the Consultant's (or, where applicable, its personnel's) moral rights (droit moral) under the Danish Copyright Act (Ophavsretsloven) cannot be assigned. The Consultant agrees, and shall procure that its personnel agree, not to invoke such moral rights, including rights of attribution and integrity, against the Client's use of the Work Product for the purposes intended under this Agreement and Schedule 1, provided that such use does not distort or mutilate the Work Product in a manner prejudicial to the author's honour or reputation.
+
+### 7.4 Pre-Existing Materials
 
 The Consultant retains ownership of pre-existing materials but grants the Client a non-exclusive, perpetual license to use such materials as integrated into the Work Product.
 
@@ -132,19 +145,25 @@ Neither Party shall be liable for indirect or consequential damages unless requi
 
 ### 10.2 Liability Cap
 
-The Consultant’s total liability under this Agreement shall not exceed the total fees paid under this Agreement, except in cases of fraud, gross negligence, or wilful misconduct.
+The Consultant's total liability under this Agreement shall not exceed the total fees paid under this Agreement, except in cases of fraud, gross negligence, or wilful misconduct.
 
 ## 11. Indemnification
+
+### 11.1 Indemnity
 
 The Consultant shall indemnify the Client against third-party claims arising from:
 - intellectual property infringement caused by the Work Product
 - breach of this Agreement
 
+### 11.2 Relationship to Liability Cap
+
+The indemnities in Section 11.1 are subject to, and form part of, the limitation of liability and liability cap set out in Section 10.2. No cap shall apply to indemnity claims arising from fraud, gross negligence, or wilful misconduct by the Consultant, consistent with the carve-out in Section 10.2.
+
 ## 12. Termination
 
 ### 12.1 Termination for Convenience
 
-Either Party may terminate this Agreement with **[Number] days** written notice.
+Either Party may terminate this Agreement with **[Number] [Time unit]** written notice.
 
 ### 12.2 Termination for Cause
 
@@ -158,7 +177,13 @@ Upon termination:
 
 ## 13. Data Protection
 
-If the Consultant processes personal data on behalf of the Client, the Parties shall enter into a separate Data Processing Agreement.
+### 13.1 Controller and Processor Roles
+
+Where the Consultant processes personal data on behalf of the Client in connection with the Services, the Client acts as data controller and the Consultant acts as data processor within the meaning of the GDPR and the Danish Data Protection Act (Databeskyttelsesloven), unless the Parties expressly agree otherwise in writing.
+
+### 13.2 Data Processing Agreement as Condition Precedent
+
+The Consultant shall not process any personal data on behalf of the Client until the Parties have executed a written Data Processing Agreement satisfying the requirements of Article 28 GDPR. Execution of such Data Processing Agreement is a condition precedent to any processing of personal data under this Agreement.
 
 ## 14. Assignment
 

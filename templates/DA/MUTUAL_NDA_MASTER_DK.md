@@ -65,36 +65,46 @@ Alle Fortrolige oplysninger forbliver den Videregivende Parts eksklusive ejendom
 
 ## 8. Løbetid og overlevelse
 
-Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[Nummer] [Tidsenhed]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[Nummer] [Tidsenhed]** år.
+Aftalen træder i kraft på Ikrafttrædelsesdatoen og forbliver gældende i **[Nummer] [Tidsenhed]**. Fortrolighedsforpligtelserne består efter ophør eller udløb i **[Nummer] [Tidsenhed]**. Uanset ovenstående skal Fortrolige oplysninger, der udgør en forretningshemmelighed efter lov om forretningshemmeligheder, forblive beskyttet efter Aftalen, så længe de bevarer deres status som forretningshemmelighed, uafhængigt af den ovenfor angivne overlevelsesperiode.
 
 ## 9. Returnering eller destruktion
 
-Ved skriftlig anmodning eller ved Aftalens ophør skal den Modtagende Part straks returnere eller destruere alle Fortrolige oplysninger (herunder kopier), medmindre opbevaring kræves ved lov.
+Ved skriftlig anmodning eller ved Aftalens ophør skal den Modtagende Part straks returnere eller destruere alle Fortrolige oplysninger (herunder kopier), medmindre opbevaring kræves ved lov. Efter anmodning fra den Videregivende Part skal den Modtagende Part fremlægge skriftlig bekræftelse på en sådan destruktion, underskrevet af en bemyndiget repræsentant for den Modtagende Part.
 
 ## 10. Retsmidler
 
 Parterne anerkender, at uautoriseret videregivelse kan medføre uoprettelig skade. Den Videregivende Part er berettiget til at søge fogedforbud eller anden rimelig retsbeskyttelse ud over øvrige retsmidler efter gældende lovgivning.
 
-## 11. Ingen garanti
+## 11. Ansvar
+
+### 11.1 Ansvarsbegrænsning
+
+I det maksimale omfang, dansk ret tillader, er ingen af Parterne ansvarlige over for den anden for indirekte tab eller følgeskader, herunder tab af fortjeneste, omsætning eller forretningsmuligheder, der udspringer af eller har sammenhæng med Aftalen. Hver Parts samlede ansvar efter Aftalen kan ikke overstige **[Nummer] [Valuta]**.
+
+### 11.2 Undtagelser
+
+Begrænsningerne i afsnit 11.1 finder ikke anvendelse på: (a) tab, der skyldes en Parts forsætlige eller groft uagtsomme misbrug eller videregivelse af Fortrolige oplysninger; eller (b) en Parts ret til at søge fogedforbud eller anden rimelig retsbeskyttelse efter afsnit 10 (Retsmidler).
+
+## 12. Ingen garanti
 
 Alle Fortrolige oplysninger stilles til rådighed "som de er". Den Videregivende Part afgiver ingen erklæringer eller garantier om oplysningerne nøjagtighed eller fuldstændighed.
 
-## 12. Overdragelse
+## 13. Overdragelse
 
 Ingen af Parterne må overdrage Aftalen uden forudgående skriftligt samtykke, bortset fra til en retsefterfølger i forbindelse med fusion, overtagelse eller salg af en væsentlig del af aktiverne.
 
-## 13. Lovvalg og værneting
+## 14. Lovvalg og værneting
 
 Aftalen er underlagt og fortolkes i overensstemmelse med dansk ret, eksklusive international privatretlige regler. Enhver tvist, der udspringer af eller har sammenhæng med Aftalen, er underlagt eksklusivt værneting ved domstolene i **[Lokation]**, medmindre ufravigelig lovgivning bestemmer andet.
 
-## 14. Sprog
+## 15. Sprog
 
 Aftalen er udfærdiget på engelsk, som har forrang i tilfælde af uoverensstemmelse.
 
-## 15. Hele aftalen
+## 16. Hele aftalen
 
 Aftalen udgør Parternes samlede aftale om det regulerede forhold og erstatter alle tidligere drøftelser eller aftaler. Enhver ændring skal være skriftlig og underskrevet af begge Parter.
 
-## 16. Underskrift
+## 17. Underskrift
 
 Aftalen kan underskrives i flere eksemplarer og ved elektronisk underskrift, hvor hvert eksemplar anses som en original.
