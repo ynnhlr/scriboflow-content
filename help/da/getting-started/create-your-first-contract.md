@@ -21,6 +21,9 @@ I Scriboflow kan du begynde med en tom kontrakt, en gemt skabelon, en Scriboflow
 
 ## Vælg et udgangspunkt
 
+<!-- help-image:image -->
+![Dashboard view, create a new contract](../../assets/create-your-first-contract/image-v3.webp)
+
 Start en ny kontrakt fra dashboardet, og vælg, hvordan du vil oprette den. En tom kontrakt åbner editoren, mens en skabelon giver dig genanvendeligt indhold, som du kan tilpasse. En PDF er praktisk, når dokumentet allerede er færdigt og kun skal gennemgås og underskrives.
 
 ## Udfyld kontraktens oplysninger

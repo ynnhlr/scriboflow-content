@@ -49,3 +49,24 @@ current article, and are displayed in the listed order.
 Content changes are normally published from `main`. The Scriboflow GitHub
 webhook invalidates the Help Center cache, and pages otherwise refresh every
 15 minutes.
+
+## Shared article images
+
+The local Help editor stores screenshots once and mirrors their placement from
+the English article into its Danish counterpart:
+
+```text
+help/assets/{article-slug}/{image-name}-v{number}.webp
+```
+
+Both articles reference the same relative asset. Keep the stable marker with
+the image Markdown so the editor can synchronize placement safely:
+
+```md
+<!-- help-image:starting-point -->
+![Localized alt text](../../assets/create-your-first-contract/starting-point-v1.webp)
+```
+
+Use versioned filenames instead of replacing an existing asset in place. The
+English and Danish image blocks may use different localized alt text while
+sharing the same source file.

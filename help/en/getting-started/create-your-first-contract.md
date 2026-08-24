@@ -21,7 +21,8 @@ Scriboflow lets you begin with a blank contract, a saved template, a Scriboflow 
 
 ## Choose a starting point
 
-From the dashboard, start a new contract and choose how you want to create it. A blank contract opens the editor, while a template gives you reusable content to adapt. A PDF is useful when the document is already final and only needs to move through review and signing.
+<!-- help-image:image -->
+![Dashboard view, create a new contract](../../assets/create-your-first-contract/image-v3.webp)From the dashboard, start a new contract and choose how you want to create it. A blank contract opens the editor, while a template gives you reusable content to adapt. A PDF is useful when the document is already final and only needs to move through review and signing.
 
 ## Complete the contract details
 
