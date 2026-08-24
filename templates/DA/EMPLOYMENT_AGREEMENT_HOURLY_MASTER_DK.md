@@ -1,5 +1,6 @@
 ---
 slug: "employment-agreement-hourly"
+language: da
 title: "Ansættelsesaftale (Timelønnet)"
 description: "Skabelon til timelønnet ansættelse, herunder arbejdstid, timeløn, overarbejde og arbejdspladsforpligtelser."
 tags:

@@ -1,11 +1,12 @@
 ---
 slug: "shareholders-agreement"
+language: da
 title: "Ejeraftale"
-description: "Skabelon til at regulere forholdet mellem ejere, herunder governance, overdragelsesbegrænsninger og beslutningsrettigheder."
+description: "Skabelon til at regulere forholdet mellem ejere, herunder selskabsledelse, overdragelsesbegrænsninger og beslutningsrettigheder."
 tags:
   - "Selskabsret"
 seoTitle: "Skabelon til ejeraftale"
-seoDescription: "Brug denne ejeraftale til at fastlægge ejerforhold, stemmerettigheder, overdragelsesbegrænsninger og governance-regler."
+seoDescription: "Brug denne ejeraftale til at fastlægge ejerforhold, stemmerettigheder, overdragelsesbegrænsninger og regler for selskabsledelse."
 ---
 
 Denne ejeraftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").

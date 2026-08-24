@@ -1,5 +1,6 @@
 ---
 slug: "shareholders-agreement"
+language: en
 title: "Shareholders' Agreement"
 description: "Template for regulating relations between shareholders, including governance, transfer restrictions, and decision rights."
 tags:

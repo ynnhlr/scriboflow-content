@@ -1,5 +1,6 @@
 ---
 slug: "non-solicitation-agreement"
+language: en
 title: "Non-Solicitation Agreement"
 description: "Template for restricting solicitation of customers, employees, or other business relationships after termination."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "distribution-agreement"
+language: da
 title: "Distributionsaftale"
 description: "Skabelon til at udpege en distributør og fastlægge territorium, salgsforpligtelser, priser og ophørsvilkår."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "partnership-agreement"
+language: en
 title: "Partnership Agreement"
 description: "Template for regulating a partnership, including contributions, profit sharing, management, and exit terms."
 tags:

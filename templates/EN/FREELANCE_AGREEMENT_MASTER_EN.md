@@ -1,5 +1,6 @@
 ---
 slug: "freelance-agreement"
+language: en
 title: "Freelance Agreement"
 description: "Template for freelance services, covering scope, fees, deliverables, confidentiality, and intellectual property rights."
 tags:

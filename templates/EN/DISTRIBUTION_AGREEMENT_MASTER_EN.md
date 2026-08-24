@@ -1,5 +1,6 @@
 ---
 slug: "distribution-agreement"
+language: en
 title: "Distribution Agreement"
 description: "Template for appointing a distributor and setting territory, sales obligations, pricing, and termination terms."
 tags:

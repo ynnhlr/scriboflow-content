@@ -1,5 +1,6 @@
 ---
 slug: "product-supply-agreement"
+language: en
 title: "Product Supply Agreement"
 description: "Template for ongoing supply of products, covering pricing, delivery, quality standards, and warranty obligations."
 tags:

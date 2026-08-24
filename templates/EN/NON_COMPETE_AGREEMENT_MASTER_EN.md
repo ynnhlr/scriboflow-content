@@ -1,5 +1,6 @@
 ---
 slug: "non-compete-agreement"
+language: en
 title: "Non-Compete Agreement"
 description: "Template for restricting competing activities after an employment or commercial relationship ends."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "non-exclusive-license-agreement"
+language: da
 title: "Ikke-eksklusiv licensaftale"
 description: "Skabelon til at give en ikke-eksklusiv licens til immaterielle rettigheder, herunder omfang, royalties, begrænsninger og ophør."
 tags:

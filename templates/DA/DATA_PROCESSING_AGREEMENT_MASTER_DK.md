@@ -1,5 +1,6 @@
 ---
 slug: "data-processing-agreement"
+language: da
 title: "Databehandleraftale (DPA)"
 description: "Skabelon til regulering af behandling af personoplysninger mellem dataansvarlig og databehandler i overensstemmelse med GDPR."
 tags:
@@ -138,7 +139,7 @@ En Overførsel kan alternativt baseres på en gældende tilstrækkelighedsafgør
 
 Databehandleren skal bistå den Dataansvarlige med besvarelse af anmodninger fra Registrerede.
 
-### 10.2 Compliance-bistand
+### 10.2 Bistand til efterlevelse
 
 Databehandleren skal bistå den Dataansvarlige med at sikre overholdelse af forpligtelser vedrørende:
 - behandlingssikkerhed

@@ -1,5 +1,6 @@
 ---
 slug: "offer-letter"
+language: en
 title: "Offer Letter"
 description: "Template for issuing a job offer that outlines role, compensation, start date, and key employment terms."
 tags:

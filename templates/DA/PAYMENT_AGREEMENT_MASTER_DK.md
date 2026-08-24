@@ -1,5 +1,6 @@
 ---
 slug: "payment-agreement"
+language: da
 title: "Betalingsaftale"
 description: "Skabelon til at fastsætte en betalingsordning for udestående beløb, herunder afdrag, frister og misligholdelse."
 tags:

@@ -1,11 +1,12 @@
 ---
 slug: "consulting-agreement"
+language: da
 title: "Konsulentaftale"
 description: "Skabelon til at definere konsulentydelser, leverancer, honorar, fortrolighed og immaterielle rettigheder."
 tags:
   - "Ydelser"
 seoTitle: "Skabelon til konsulentaftale"
-seoDescription: "Brug denne konsulentaftale til at beskrive scope, leverancer, honorar, fortrolighed og ejerskab til IP."
+seoDescription: "Brug denne konsulentaftale til at beskrive omfang, leverancer, honorar, fortrolighed og ejerskab til IP."
 ---
 
 Denne konsulentaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").
@@ -34,9 +35,9 @@ Konsulenten skal levere de ydelser, der er beskrevet i Bilag 1 ("Ydelserne").
 
 Ydelserne skal udføres med rimelig faglig omhu og i overensstemmelse med branchestandarder.
 
-### 2.3 Ændringer i scope
+### 2.3 Ændringer i omfang
 
-Enhver ændring af omfanget skal aftales skriftligt. Arbejde uden for aftalt scope kan udløse tillægsbetaling.
+Enhver ændring af omfanget skal aftales skriftligt. Arbejde uden for det aftalte omfang kan udløse tillægsbetaling.
 
 ## 3. Løbetid
 

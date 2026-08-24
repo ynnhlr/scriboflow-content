@@ -1,5 +1,6 @@
 ---
 slug: "data-processing-agreement"
+language: en
 title: "Data Processing Agreement (DPA)"
 description: "Template for governing personal data processing between controller and processor in line with GDPR requirements."
 tags:

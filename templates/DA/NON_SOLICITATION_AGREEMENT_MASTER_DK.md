@@ -1,5 +1,6 @@
 ---
 slug: "non-solicitation-agreement"
+language: da
 title: "Kunde- og medarbejderklausulaftale"
 description: "Skabelon til at begrænse hvervning af kunder, medarbejdere eller andre forretningsrelationer efter ophør."
 tags:

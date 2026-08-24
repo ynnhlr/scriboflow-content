@@ -1,5 +1,6 @@
 ---
 slug: "employment-agreement-hourly"
+language: en
 title: "Employment Agreement (Hourly Paid)"
 description: "Template for hourly paid employment, including hours, pay rate, overtime, and workplace obligations."
 tags:

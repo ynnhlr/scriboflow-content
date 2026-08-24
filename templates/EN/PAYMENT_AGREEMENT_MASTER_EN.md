@@ -1,5 +1,6 @@
 ---
 slug: "payment-agreement"
+language: en
 title: "Payment Agreement"
 description: "Template for setting a repayment plan for outstanding amounts, including instalments, deadlines, and default consequences."
 tags:

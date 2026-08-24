@@ -1,5 +1,6 @@
 ---
 slug: "partnership-agreement"
+language: da
 title: "Interessentskabsaftale"
 description: "Skabelon til at regulere et interessentskab, herunder indskud, overskudsdeling, ledelse og exitvilkår."
 tags:

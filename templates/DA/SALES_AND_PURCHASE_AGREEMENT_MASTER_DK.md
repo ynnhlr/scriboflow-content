@@ -1,5 +1,6 @@
 ---
 slug: "sales-and-purchase-agreement"
+language: da
 title: "Købs- og salgsaftale"
 description: "Skabelon til at dokumentere køb og salg af aktiver, varer eller en virksomhedsandel, herunder pris og garantier."
 tags:

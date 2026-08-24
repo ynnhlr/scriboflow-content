@@ -1,9 +1,10 @@
 {
   "locale": "en",
-  "generatedAt": "2026-07-09T09:15:14.900Z",
+  "generatedAt": "2026-08-23T16:05:46.447Z",
   "templates": [
     {
       "slug": "articles-of-association",
+      "language": "en",
       "title": "Articles of Association",
       "description": "Template for setting out a company's governing rules, share structure, and decision-making framework.",
       "tags": [
@@ -15,6 +16,7 @@
     },
     {
       "slug": "commercial-lease-agreement",
+      "language": "en",
       "title": "Commercial Lease Agreement",
       "description": "Template for leasing commercial premises, including rent, term, permitted use, and landlord-tenant responsibilities.",
       "tags": [
@@ -26,6 +28,7 @@
     },
     {
       "slug": "consignment-agreement",
+      "language": "en",
       "title": "Consignment Agreement",
       "description": "Template for placing goods on consignment, including ownership, sales reporting, pricing, and settlement terms.",
       "tags": [
@@ -37,6 +40,7 @@
     },
     {
       "slug": "consulting-agreement",
+      "language": "en",
       "title": "Consulting Agreement",
       "description": "Template for defining consulting services, deliverables, fees, confidentiality, and intellectual property terms.",
       "tags": [
@@ -48,6 +52,7 @@
     },
     {
       "slug": "data-processing-agreement",
+      "language": "en",
       "title": "Data Processing Agreement (DPA)",
       "description": "Template for governing personal data processing between controller and processor in line with GDPR requirements.",
       "tags": [
@@ -59,6 +64,7 @@
     },
     {
       "slug": "distribution-agreement",
+      "language": "en",
       "title": "Distribution Agreement",
       "description": "Template for appointing a distributor and setting territory, sales obligations, pricing, and termination terms.",
       "tags": [
@@ -70,6 +76,7 @@
     },
     {
       "slug": "employee-separation-agreement",
+      "language": "en",
       "title": "Employee Separation Agreement",
       "description": "Template for documenting employment termination terms, including notice, compensation, release, and handover obligations.",
       "tags": [
@@ -81,6 +88,7 @@
     },
     {
       "slug": "employment-agreement-fixed-payment",
+      "language": "en",
       "title": "Employment Agreement (Fixed Payment)",
       "description": "Template for fixed-salary employment terms, covering role, compensation, working hours, and core obligations.",
       "tags": [
@@ -92,6 +100,7 @@
     },
     {
       "slug": "employment-agreement-hourly",
+      "language": "en",
       "title": "Employment Agreement (Hourly Paid)",
       "description": "Template for hourly paid employment, including hours, pay rate, overtime, and workplace obligations.",
       "tags": [
@@ -103,6 +112,7 @@
     },
     {
       "slug": "employment-agreement-salaried-fixed-term",
+      "language": "en",
       "title": "Employment Agreement (Salaried - Fixed Term)",
       "description": "Template for fixed-term salaried employment, covering duration, salary, duties, and end-of-term conditions.",
       "tags": [
@@ -114,6 +124,7 @@
     },
     {
       "slug": "exclusive-distribution-agreement",
+      "language": "en",
       "title": "Exclusive Distribution Agreement",
       "description": "Template for granting exclusive distribution rights within a territory, including performance and termination terms.",
       "tags": [
@@ -125,6 +136,7 @@
     },
     {
       "slug": "exclusive-license-agreement",
+      "language": "en",
       "title": "Exclusive License Agreement",
       "description": "Template for granting an exclusive intellectual property license, including scope, royalties, restrictions, and termination.",
       "tags": [
@@ -136,6 +148,7 @@
     },
     {
       "slug": "freelance-agreement",
+      "language": "en",
       "title": "Freelance Agreement",
       "description": "Template for freelance services, covering scope, fees, deliverables, confidentiality, and intellectual property rights.",
       "tags": [
@@ -147,6 +160,7 @@
     },
     {
       "slug": "general-terms-and-conditions-of-sale",
+      "language": "en",
       "title": "General Terms and Conditions of Sale",
       "description": "Standard terms and conditions of sale template for goods and services transactions.",
       "tags": [
@@ -158,6 +172,7 @@
     },
     {
       "slug": "intellectual-property-assignment-agreement",
+      "language": "en",
       "title": "Intellectual Property Assignment Agreement",
       "description": "Template for transferring ownership of intellectual property rights, including warranties, consideration, and further assurances.",
       "tags": [
@@ -169,6 +184,7 @@
     },
     {
       "slug": "loan-agreement",
+      "language": "en",
       "title": "Loan Agreement",
       "description": "Template for documenting a loan, including principal, repayment schedule, interest, security, and default terms.",
       "tags": [
@@ -180,6 +196,7 @@
     },
     {
       "slug": "memorandum-of-understanding",
+      "language": "en",
       "title": "Memorandum of Understanding",
       "description": "Template for recording the parties' preliminary intentions, collaboration principles, and non-binding commercial understanding.",
       "tags": [
@@ -191,6 +208,7 @@
     },
     {
       "slug": "mutual-non-disclosure-agreement",
+      "language": "en",
       "title": "Mutual Non-Disclosure Agreement (NDA)",
       "description": "Template for mutual confidentiality when both parties share sensitive information during discussions or cooperation.",
       "tags": [
@@ -202,6 +220,7 @@
     },
     {
       "slug": "non-compete-agreement",
+      "language": "en",
       "title": "Non-Compete Agreement",
       "description": "Template for restricting competing activities after an employment or commercial relationship ends.",
       "tags": [
@@ -213,6 +232,7 @@
     },
     {
       "slug": "non-exclusive-license-agreement",
+      "language": "en",
       "title": "Non-Exclusive License Agreement",
       "description": "Template for granting a non-exclusive intellectual property license, including scope, royalties, restrictions, and termination.",
       "tags": [
@@ -224,6 +244,7 @@
     },
     {
       "slug": "non-solicitation-agreement",
+      "language": "en",
       "title": "Non-Solicitation Agreement",
       "description": "Template for restricting solicitation of customers, employees, or other business relationships after termination.",
       "tags": [
@@ -235,6 +256,7 @@
     },
     {
       "slug": "offer-letter",
+      "language": "en",
       "title": "Offer Letter",
       "description": "Template for issuing a job offer that outlines role, compensation, start date, and key employment terms.",
       "tags": [
@@ -246,6 +268,7 @@
     },
     {
       "slug": "partnership-agreement",
+      "language": "en",
       "title": "Partnership Agreement",
       "description": "Template for regulating a partnership, including contributions, profit sharing, management, and exit terms.",
       "tags": [
@@ -257,6 +280,7 @@
     },
     {
       "slug": "payment-agreement",
+      "language": "en",
       "title": "Payment Agreement",
       "description": "Template for setting a repayment plan for outstanding amounts, including instalments, deadlines, and default consequences.",
       "tags": [
@@ -268,6 +292,7 @@
     },
     {
       "slug": "product-supply-agreement",
+      "language": "en",
       "title": "Product Supply Agreement",
       "description": "Template for ongoing supply of products, covering pricing, delivery, quality standards, and warranty obligations.",
       "tags": [
@@ -279,6 +304,7 @@
     },
     {
       "slug": "sales-and-purchase-agreement",
+      "language": "en",
       "title": "Sales and Purchase Agreement",
       "description": "Template for documenting the sale and purchase of assets, goods, or a business interest, including price and warranties.",
       "tags": [
@@ -290,6 +316,7 @@
     },
     {
       "slug": "service-agreement",
+      "language": "en",
       "title": "Service Agreement",
       "description": "Template for a service relationship, including scope, service levels, fees, responsibilities, and termination.",
       "tags": [
@@ -301,6 +328,7 @@
     },
     {
       "slug": "share-purchase-agreement",
+      "language": "en",
       "title": "Share Purchase Agreement",
       "description": "Template for transferring shares, including purchase price, completion mechanics, warranties, and post-closing obligations.",
       "tags": [
@@ -312,6 +340,7 @@
     },
     {
       "slug": "shareholders-agreement",
+      "language": "en",
       "title": "Shareholders' Agreement",
       "description": "Template for regulating relations between shareholders, including governance, transfer restrictions, and decision rights.",
       "tags": [
@@ -323,6 +352,7 @@
     },
     {
       "slug": "unilateral-non-disclosure-agreement",
+      "language": "en",
       "title": "Unilateral Non-Disclosure Agreement (NDA)",
       "description": "Template for one-way confidentiality when only one party discloses sensitive information to the other.",
       "tags": [
@@ -334,6 +364,7 @@
     },
     {
       "slug": "vendor-agreement",
+      "language": "en",
       "title": "Vendor Agreement",
       "description": "Template for governing vendor relationships, including pricing, delivery, service standards, and supplier obligations.",
       "tags": [

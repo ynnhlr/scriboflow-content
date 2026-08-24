@@ -1,5 +1,6 @@
 ---
 slug: "consignment-agreement"
+language: da
 title: "Konsignationsaftale"
 description: "Skabelon til konsignationssalg, herunder ejerskab, salgsrapportering, prisfastsættelse og afregning."
 tags:
@@ -116,7 +117,7 @@ Kunderetur håndteres i overensstemmelse med Bilag 3. Returnerede varer forblive
 
 Ved ophør eller skriftligt krav skal usolgte Konsignationsvarer returneres til Konsignant inden **[Nummer] [Tidsenhed]** for Konsignatars regning i rimelig salgbar stand.
 
-## 9. Omsorg, forsikring og compliance
+## 9. Omsorg, forsikring og efterlevelse
 
 ### 9.1 Omsorgsstandard
 

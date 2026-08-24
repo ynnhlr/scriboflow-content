@@ -1,5 +1,6 @@
 ---
 slug: "vendor-agreement"
+language: en
 title: "Vendor Agreement"
 description: "Template for governing vendor relationships, including pricing, delivery, service standards, and supplier obligations."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "share-purchase-agreement"
+language: en
 title: "Share Purchase Agreement"
 description: "Template for transferring shares, including purchase price, completion mechanics, warranties, and post-closing obligations."
 tags:

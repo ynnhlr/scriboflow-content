@@ -1,5 +1,6 @@
 ---
 slug: "memorandum-of-understanding"
+language: da
 title: "Hensigtserklæring (Memorandum of Understanding)"
 description: "Skabelon til at dokumentere parternes foreløbige hensigter, samarbejdsprincipper og ikke-bindende kommercielle forståelse."
 tags:

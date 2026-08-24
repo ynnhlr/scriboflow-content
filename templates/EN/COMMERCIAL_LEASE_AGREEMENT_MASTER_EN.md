@@ -1,5 +1,6 @@
 ---
 slug: "commercial-lease-agreement"
+language: en
 title: "Commercial Lease Agreement"
 description: "Template for leasing commercial premises, including rent, term, permitted use, and landlord-tenant responsibilities."
 tags:

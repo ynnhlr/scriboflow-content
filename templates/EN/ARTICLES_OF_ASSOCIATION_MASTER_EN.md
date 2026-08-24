@@ -1,5 +1,6 @@
 ---
 slug: "articles-of-association"
+language: en
 title: "Articles of Association"
 description: "Template for setting out a company's governing rules, share structure, and decision-making framework."
 tags:

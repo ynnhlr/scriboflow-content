@@ -1,5 +1,6 @@
 ---
 slug: "employee-separation-agreement"
+language: da
 title: "Fratrædelsesaftale for medarbejder"
 description: "Skabelon til at aftale vilkår for medarbejderens fratrædelse, herunder opsigelse, kompensation, frigørelse og aflevering."
 tags:

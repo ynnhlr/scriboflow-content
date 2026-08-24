@@ -1,5 +1,6 @@
 ---
 slug: "exclusive-license-agreement"
+language: da
 title: "Eksklusiv licensaftale"
 description: "Skabelon til at give en eksklusiv licens til immaterielle rettigheder, herunder omfang, royalties, begrænsninger og ophør."
 tags:

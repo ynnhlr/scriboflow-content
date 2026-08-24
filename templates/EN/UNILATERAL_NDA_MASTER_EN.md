@@ -1,5 +1,6 @@
 ---
 slug: "unilateral-non-disclosure-agreement"
+language: en
 title: "Unilateral Non-Disclosure Agreement (NDA)"
 description: "Template for one-way confidentiality when only one party discloses sensitive information to the other."
 tags:

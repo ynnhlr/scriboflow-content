@@ -1,5 +1,6 @@
 ---
 slug: "product-supply-agreement"
+language: da
 title: "Aftale om levering af produkter"
 description: "Skabelon til løbende levering af produkter, herunder pris, levering, kvalitetskrav og garantiforpligtelser."
 tags:
@@ -152,7 +153,7 @@ Ved mangler kan Leverandøren efter eget valg:
 
 Leverandøren garanterer, at Produkterne opfylder gældende sikkerheds- og myndighedskrav på leveringstidspunktet.
 
-### 9.2 Compliance ved videresalg
+### 9.2 Efterlevelse ved videresalg
 
 Køberen er ansvarlig for overholdelse af regler vedrørende videresalg, mærkning og markedsføring i sit område.
 

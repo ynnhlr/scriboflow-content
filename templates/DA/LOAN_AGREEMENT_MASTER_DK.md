@@ -1,5 +1,6 @@
 ---
 slug: "loan-agreement"
+language: da
 title: "Låneaftale"
 description: "Skabelon til at dokumentere et lån, herunder hovedstol, afdragsplan, rente, sikkerhed og misligholdelse."
 tags:

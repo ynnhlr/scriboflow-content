@@ -1,5 +1,6 @@
 ---
 slug: "general-terms-and-conditions-of-sale"
+language: da
 title: "Generelle salgs- og leveringsbetingelser"
 description: "Standardskabelon til salgs- og leveringsbetingelser for salg af varer og ydelser."
 tags:

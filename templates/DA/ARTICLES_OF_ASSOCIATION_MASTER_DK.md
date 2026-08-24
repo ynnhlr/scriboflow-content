@@ -1,11 +1,12 @@
 ---
 slug: "articles-of-association"
+language: da
 title: "Vedtægter"
 description: "Skabelon til at fastlægge selskabets vedtægter, kapitalforhold og beslutningsstruktur."
 tags:
   - "Selskabsret"
 seoTitle: "Skabelon til vedtægter"
-seoDescription: "Brug denne vedtægtsskabelon til at fastlægge selskabets grundlæggende regler, kapitalforhold og governance."
+seoDescription: "Brug denne vedtægtsskabelon til at fastlægge selskabets grundlæggende regler, kapitalforhold og selskabsledelse."
 ---
 
 **Selskabsnavn:** **[Virksomhedsnavn]**

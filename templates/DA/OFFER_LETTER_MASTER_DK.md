@@ -1,5 +1,6 @@
 ---
 slug: "offer-letter"
+language: da
 title: "Tilbudsbrev"
 description: "Skabelon til at udsende et jobtilbud med stilling, vederlag, startdato og centrale ansættelsesvilkår."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "service-agreement"
+language: en
 title: "Service Agreement"
 description: "Template for a service relationship, including scope, service levels, fees, responsibilities, and termination."
 tags:

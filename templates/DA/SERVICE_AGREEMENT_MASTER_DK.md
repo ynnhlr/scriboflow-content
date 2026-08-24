@@ -1,11 +1,12 @@
 ---
 slug: "service-agreement"
+language: da
 title: "Serviceaftale"
-description: "Skabelon til et serviceforhold, herunder scope, serviceniveauer, honorar, ansvar og ophør."
+description: "Skabelon til et tjenesteforhold, herunder omfang, serviceniveauer, honorar, ansvar og ophør."
 tags:
   - "Ydelser"
 seoTitle: "Skabelon til serviceaftale"
-seoDescription: "Brug denne serviceaftale til at beskrive scope, serviceniveauer, pris, ansvarsfordeling og ophørsbestemmelser."
+seoDescription: "Brug denne serviceaftale til at beskrive omfang, serviceniveauer, pris, ansvarsfordeling og ophørsbestemmelser."
 ---
 
 Denne serviceaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").

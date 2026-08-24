@@ -1,5 +1,6 @@
 ---
 slug: "sales-and-purchase-agreement"
+language: en
 title: "Sales and Purchase Agreement"
 description: "Template for documenting the sale and purchase of assets, goods, or a business interest, including price and warranties."
 tags:

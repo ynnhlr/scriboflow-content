@@ -1,7 +1,8 @@
 ---
 slug: "freelance-agreement"
+language: da
 title: "Freelanceaftale"
-description: "Skabelon til freelanceydelser, herunder scope, honorar, leverancer, fortrolighed og immaterielle rettigheder."
+description: "Skabelon til freelanceydelser, herunder omfang, honorar, leverancer, fortrolighed og immaterielle rettigheder."
 tags:
   - "Ydelser"
 seoTitle: "Skabelon til freelanceaftale"

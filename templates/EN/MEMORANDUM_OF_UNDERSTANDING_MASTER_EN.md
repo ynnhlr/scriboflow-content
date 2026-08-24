@@ -1,5 +1,6 @@
 ---
 slug: "memorandum-of-understanding"
+language: en
 title: "Memorandum of Understanding"
 description: "Template for recording the parties' preliminary intentions, collaboration principles, and non-binding commercial understanding."
 tags:

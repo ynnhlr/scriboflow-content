@@ -1,5 +1,6 @@
 ---
 slug: "employment-agreement-fixed-payment"
+language: da
 title: "Ansættelsesaftale (Fast løn)"
 description: "Skabelon til ansættelsesvilkår med fast løn, herunder stilling, vederlag, arbejdstid og centrale forpligtelser."
 tags:

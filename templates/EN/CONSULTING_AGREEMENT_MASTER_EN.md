@@ -1,5 +1,6 @@
 ---
 slug: "consulting-agreement"
+language: en
 title: "Consulting Agreement"
 description: "Template for defining consulting services, deliverables, fees, confidentiality, and intellectual property terms."
 tags:

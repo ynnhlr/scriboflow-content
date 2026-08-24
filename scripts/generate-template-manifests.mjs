@@ -119,6 +119,10 @@ function parseTemplateFrontmatter(fileContent, sourcePath) {
     issues.push("slug must use kebab-case");
   }
 
+  if (frontmatter.language !== "en" && frontmatter.language !== "da") {
+    issues.push("language must be either en or da");
+  }
+
   if (typeof frontmatter.title !== "string" || frontmatter.title.length === 0) {
     issues.push("title is required");
   }
@@ -157,6 +161,7 @@ function parseTemplateFrontmatter(fileContent, sourcePath) {
 
   return {
     slug: frontmatter.slug,
+    language: frontmatter.language,
     title: frontmatter.title,
     description: frontmatter.description,
     tags: [...new Set(frontmatter.tags)],
@@ -214,6 +219,12 @@ async function buildLocaleManifest(localeConfig) {
       await fs.readFile(absolutePath, "utf8"),
       repositoryPath,
     );
+
+    if (frontmatter.language !== localeConfig.locale) {
+      throw new Error(
+        `Template ${repositoryPath} declares language "${frontmatter.language}" but is stored under locale "${localeConfig.locale}".`,
+      );
+    }
 
     if (slugTracker.has(frontmatter.slug)) {
       throw new Error(

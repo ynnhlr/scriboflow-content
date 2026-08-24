@@ -1,5 +1,6 @@
 ---
 slug: "exclusive-distribution-agreement"
+language: da
 title: "Eksklusiv distributionsaftale"
 description: "Skabelon til at give eksklusive distributionsrettigheder i et territorium, herunder performancekrav og ophørsvilkår."
 tags:

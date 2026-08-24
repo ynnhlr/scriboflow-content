@@ -1,5 +1,6 @@
 ---
 slug: "employment-agreement-salaried-fixed-term"
+language: en
 title: "Employment Agreement (Salaried - Fixed Term)"
 description: "Template for fixed-term salaried employment, covering duration, salary, duties, and end-of-term conditions."
 tags:

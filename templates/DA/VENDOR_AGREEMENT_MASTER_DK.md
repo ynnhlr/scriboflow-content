@@ -1,5 +1,6 @@
 ---
 slug: "vendor-agreement"
+language: da
 title: "Leverandøraftale"
 description: "Skabelon til regulering af leverandørforhold, herunder priser, levering, serviceniveauer og leverandørens forpligtelser."
 tags:
@@ -134,7 +135,7 @@ Leverandøren garanterer, at Leverancerne:
 
 Garantiperioden er **[Nummer] [Tidsenhed]** fra levering, medmindre andet er aftalt.
 
-## 8. Compliance og etik
+## 8. Efterlevelse og etik
 
 ### 8.1 Lovoverholdelse
 

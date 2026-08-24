@@ -1,5 +1,6 @@
 ---
 slug: "intellectual-property-assignment-agreement"
+language: da
 title: "Aftale om overdragelse af immaterielle rettigheder"
 description: "Skabelon til overdragelse af immaterielle rettigheder, herunder garantier, vederlag og yderligere bistand."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "employment-agreement-salaried-fixed-term"
+language: da
 title: "Ansættelsesaftale (Månedslønnet - tidsbegrænset)"
 description: "Skabelon til tidsbegrænset månedslønnet ansættelse, herunder varighed, løn, arbejdsopgaver og ophørsvilkår."
 tags:

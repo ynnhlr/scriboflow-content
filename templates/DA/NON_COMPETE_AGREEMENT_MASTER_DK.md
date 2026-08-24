@@ -1,5 +1,6 @@
 ---
 slug: "non-compete-agreement"
+language: da
 title: "Konkurrenceklausulaftale"
 description: "Skabelon til at begrænse konkurrenceaktiviteter efter ophør af et ansættelses- eller kommercielt forhold."
 tags:

@@ -1,5 +1,6 @@
 ---
 slug: "intellectual-property-assignment-agreement"
+language: en
 title: "Intellectual Property Assignment Agreement"
 description: "Template for transferring ownership of intellectual property rights, including warranties, consideration, and further assurances."
 tags:

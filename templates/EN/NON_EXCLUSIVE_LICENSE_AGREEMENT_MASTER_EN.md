@@ -1,5 +1,6 @@
 ---
 slug: "non-exclusive-license-agreement"
+language: en
 title: "Non-Exclusive License Agreement"
 description: "Template for granting a non-exclusive intellectual property license, including scope, royalties, restrictions, and termination."
 tags:

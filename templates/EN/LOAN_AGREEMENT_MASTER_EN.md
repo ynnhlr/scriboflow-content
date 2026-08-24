@@ -1,5 +1,6 @@
 ---
 slug: "loan-agreement"
+language: en
 title: "Loan Agreement"
 description: "Template for documenting a loan, including principal, repayment schedule, interest, security, and default terms."
 tags:

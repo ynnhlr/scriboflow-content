@@ -1,11 +1,12 @@
 ---
 slug: "share-purchase-agreement"
+language: da
 title: "Aktieoverdragelsesaftale"
-description: "Skabelon til overdragelse af aktier, herunder købesum, gennemførelsesmekanik, garantier og forpligtelser efter closing."
+description: "Skabelon til overdragelse af aktier, herunder købesum, gennemførelsesmekanik, garantier og forpligtelser efter gennemførelsen."
 tags:
   - "Selskabsret"
 seoTitle: "Skabelon til aktieoverdragelsesaftale"
-seoDescription: "Brug denne aktieoverdragelsesaftale til at fastlægge købesum, gennemførelsestrin, garantier og forpligtelser efter closing."
+seoDescription: "Brug denne aktieoverdragelsesaftale til at fastlægge købesum, gennemførelsestrin, garantier og forpligtelser efter gennemførelsen."
 ---
 
 Denne aktieoverdragelsesaftale ("Aftalen") er indgået den **[Dato]** ("Ikrafttrædelsesdatoen").

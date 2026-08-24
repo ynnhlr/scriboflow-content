@@ -1,5 +1,6 @@
 ---
 slug: "consignment-agreement"
+language: en
 title: "Consignment Agreement"
 description: "Template for placing goods on consignment, including ownership, sales reporting, pricing, and settlement terms."
 tags:

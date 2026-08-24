@@ -1,5 +1,6 @@
 ---
 slug: "unilateral-non-disclosure-agreement"
+language: da
 title: "Ensidig fortrolighedsaftale (NDA)"
 description: "Skabelon til ensidig fortrolighed, når kun den ene part videregiver følsomme oplysninger til den anden."
 tags:
