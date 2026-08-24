@@ -1,6 +1,9 @@
 ---
 slug: "partnership-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Interessentskabsaftale"
 description: "Skabelon til at regulere et interessentskab, herunder indskud, overskudsdeling, ledelse og exitvilkår."
 tags:

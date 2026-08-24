@@ -13,6 +13,8 @@ const localeConfigs = [
 
 const checkMode = process.argv.includes("--check");
 const slugPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const updatedAtPattern = /^\d{4}-\d{2}-\d{2}$/;
+const versionPattern = /^\d+\.\d+$/;
 const frontmatterBlockPattern = /^---\s*\r?\n([\s\S]*?)\r?\n---\s*(?:\r?\n|$)/;
 const maxTemplateTagsPerLocale = 10;
 
@@ -123,6 +125,24 @@ function parseTemplateFrontmatter(fileContent, sourcePath) {
     issues.push("language must be either en or da");
   }
 
+  if (frontmatter.primaryJurisdiction !== "DK") {
+    issues.push("primaryJurisdiction must be DK");
+  }
+
+  if (
+    typeof frontmatter.updatedAt !== "string" ||
+    !updatedAtPattern.test(frontmatter.updatedAt)
+  ) {
+    issues.push("updatedAt must use YYYY-MM-DD format");
+  }
+
+  if (
+    typeof frontmatter.version !== "string" ||
+    !versionPattern.test(frontmatter.version)
+  ) {
+    issues.push("version must use major.minor format");
+  }
+
   if (typeof frontmatter.title !== "string" || frontmatter.title.length === 0) {
     issues.push("title is required");
   }
@@ -162,6 +182,9 @@ function parseTemplateFrontmatter(fileContent, sourcePath) {
   return {
     slug: frontmatter.slug,
     language: frontmatter.language,
+    primaryJurisdiction: frontmatter.primaryJurisdiction,
+    updatedAt: frontmatter.updatedAt,
+    version: frontmatter.version,
     title: frontmatter.title,
     description: frontmatter.description,
     tags: [...new Set(frontmatter.tags)],

@@ -1,6 +1,9 @@
 ---
 slug: "employment-agreement-fixed-payment"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Employment Agreement (Fixed Payment)"
 description: "Template for fixed-salary employment terms, covering role, compensation, working hours, and core obligations."
 tags:

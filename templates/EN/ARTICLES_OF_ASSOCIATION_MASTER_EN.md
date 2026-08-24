@@ -1,6 +1,9 @@
 ---
 slug: "articles-of-association"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Articles of Association"
 description: "Template for setting out a company's governing rules, share structure, and decision-making framework."
 tags:

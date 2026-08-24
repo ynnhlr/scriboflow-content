@@ -11,6 +11,14 @@ The generated files are:
 Each manifest is generated from markdown frontmatter and contains listing/detail
 metadata only. It does not include full template body content.
 
+Every template must include canonical publication metadata in its frontmatter:
+
+```yaml
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
+```
+
 Run this after adding or editing templates:
 
 ```bash

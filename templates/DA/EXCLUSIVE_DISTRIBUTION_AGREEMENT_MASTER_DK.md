@@ -1,6 +1,9 @@
 ---
 slug: "exclusive-distribution-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Eksklusiv distributionsaftale"
 description: "Skabelon til at give eksklusive distributionsrettigheder i et territorium, herunder performancekrav og ophørsvilkår."
 tags:

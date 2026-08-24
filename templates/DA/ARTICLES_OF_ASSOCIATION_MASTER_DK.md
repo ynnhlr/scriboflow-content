@@ -1,6 +1,9 @@
 ---
 slug: "articles-of-association"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Vedtægter"
 description: "Skabelon til at fastlægge selskabets vedtægter, kapitalforhold og beslutningsstruktur."
 tags:

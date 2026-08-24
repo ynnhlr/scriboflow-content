@@ -1,6 +1,9 @@
 ---
 slug: "payment-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Payment Agreement"
 description: "Template for setting a repayment plan for outstanding amounts, including instalments, deadlines, and default consequences."
 tags:

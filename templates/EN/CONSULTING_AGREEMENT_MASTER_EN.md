@@ -1,6 +1,9 @@
 ---
 slug: "consulting-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Consulting Agreement"
 description: "Template for defining consulting services, deliverables, fees, confidentiality, and intellectual property terms."
 tags:

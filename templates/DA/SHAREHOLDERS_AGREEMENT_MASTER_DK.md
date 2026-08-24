@@ -1,6 +1,9 @@
 ---
 slug: "shareholders-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Ejeraftale"
 description: "Skabelon til at regulere forholdet mellem ejere, herunder selskabsledelse, overdragelsesbegrænsninger og beslutningsrettigheder."
 tags:

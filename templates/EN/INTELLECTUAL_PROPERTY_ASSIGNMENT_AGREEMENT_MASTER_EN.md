@@ -1,6 +1,9 @@
 ---
 slug: "intellectual-property-assignment-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Intellectual Property Assignment Agreement"
 description: "Template for transferring ownership of intellectual property rights, including warranties, consideration, and further assurances."
 tags:

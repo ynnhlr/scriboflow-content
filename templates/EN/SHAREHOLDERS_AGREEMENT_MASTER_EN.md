@@ -1,6 +1,9 @@
 ---
 slug: "shareholders-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Shareholders' Agreement"
 description: "Template for regulating relations between shareholders, including governance, transfer restrictions, and decision rights."
 tags:

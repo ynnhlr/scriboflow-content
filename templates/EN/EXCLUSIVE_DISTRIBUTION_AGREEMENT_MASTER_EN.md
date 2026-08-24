@@ -1,6 +1,9 @@
 ---
 slug: "exclusive-distribution-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Exclusive Distribution Agreement"
 description: "Template for granting exclusive distribution rights within a territory, including performance and termination terms."
 tags:

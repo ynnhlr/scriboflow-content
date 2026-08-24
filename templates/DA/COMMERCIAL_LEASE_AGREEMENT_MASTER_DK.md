@@ -1,6 +1,9 @@
 ---
 slug: "commercial-lease-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Erhvervslejekontrakt"
 description: "Skabelon til leje af erhvervslokaler, herunder leje, løbetid, anvendelse og parternes ansvar."
 tags:

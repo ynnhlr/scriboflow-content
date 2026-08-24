@@ -1,6 +1,9 @@
 ---
 slug: "consignment-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Consignment Agreement"
 description: "Template for placing goods on consignment, including ownership, sales reporting, pricing, and settlement terms."
 tags:

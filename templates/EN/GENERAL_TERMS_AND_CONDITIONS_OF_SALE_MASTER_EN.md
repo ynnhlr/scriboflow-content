@@ -1,6 +1,9 @@
 ---
 slug: "general-terms-and-conditions-of-sale"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "General Terms and Conditions of Sale"
 description: "Standard terms and conditions of sale template for goods and services transactions."
 tags:

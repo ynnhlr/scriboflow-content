@@ -1,6 +1,9 @@
 ---
 slug: "vendor-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Leverandøraftale"
 description: "Skabelon til regulering af leverandørforhold, herunder priser, levering, serviceniveauer og leverandørens forpligtelser."
 tags:

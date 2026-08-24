@@ -1,6 +1,9 @@
 ---
 slug: "non-solicitation-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Non-Solicitation Agreement"
 description: "Template for restricting solicitation of customers, employees, or other business relationships after termination."
 tags:

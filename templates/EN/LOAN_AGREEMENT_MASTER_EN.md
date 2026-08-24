@@ -1,6 +1,9 @@
 ---
 slug: "loan-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Loan Agreement"
 description: "Template for documenting a loan, including principal, repayment schedule, interest, security, and default terms."
 tags:

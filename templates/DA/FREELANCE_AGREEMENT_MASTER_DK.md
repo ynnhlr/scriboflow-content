@@ -1,6 +1,9 @@
 ---
 slug: "freelance-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Freelanceaftale"
 description: "Skabelon til freelanceydelser, herunder omfang, honorar, leverancer, fortrolighed og immaterielle rettigheder."
 tags:

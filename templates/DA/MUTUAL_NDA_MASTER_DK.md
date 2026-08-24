@@ -1,6 +1,9 @@
 ---
 slug: "mutual-non-disclosure-agreement"
 language: da
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Gensidig fortrolighedsaftale (NDA)"
 description: "Skabelon til gensidig fortrolighed, når begge parter deler følsomme oplysninger under drøftelser eller samarbejde."
 tags:

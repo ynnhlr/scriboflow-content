@@ -1,6 +1,9 @@
 ---
 slug: "non-compete-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Non-Compete Agreement"
 description: "Template for restricting competing activities after an employment or commercial relationship ends."
 tags:

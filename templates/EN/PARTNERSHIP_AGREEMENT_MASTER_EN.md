@@ -1,6 +1,9 @@
 ---
 slug: "partnership-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Partnership Agreement"
 description: "Template for regulating a partnership, including contributions, profit sharing, management, and exit terms."
 tags:

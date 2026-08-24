@@ -1,6 +1,9 @@
 ---
 slug: "offer-letter"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Offer Letter"
 description: "Template for issuing a job offer that outlines role, compensation, start date, and key employment terms."
 tags:

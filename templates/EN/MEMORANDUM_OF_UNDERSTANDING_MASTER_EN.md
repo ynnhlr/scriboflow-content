@@ -1,6 +1,9 @@
 ---
 slug: "memorandum-of-understanding"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Memorandum of Understanding"
 description: "Template for recording the parties' preliminary intentions, collaboration principles, and non-binding commercial understanding."
 tags:

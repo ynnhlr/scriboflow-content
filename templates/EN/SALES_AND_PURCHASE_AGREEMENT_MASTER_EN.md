@@ -1,6 +1,9 @@
 ---
 slug: "sales-and-purchase-agreement"
 language: en
+primaryJurisdiction: DK
+updatedAt: "2026-08-01"
+version: "1.1"
 title: "Sales and Purchase Agreement"
 description: "Template for documenting the sale and purchase of assets, goods, or a business interest, including price and warranties."
 tags:
