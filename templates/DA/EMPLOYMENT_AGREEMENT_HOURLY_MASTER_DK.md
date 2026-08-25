@@ -2,8 +2,8 @@
 slug: "employment-agreement-hourly"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Ansættelsesaftale (Timelønnet)"
 description: "Skabelon til timelønnet ansættelse, herunder arbejdstid, timeløn, overarbejde og arbejdspladsforpligtelser."
 tags:

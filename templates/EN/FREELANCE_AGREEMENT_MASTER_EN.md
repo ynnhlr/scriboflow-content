@@ -2,8 +2,8 @@
 slug: "freelance-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Freelance Agreement"
 description: "Template for freelance services, covering scope, fees, deliverables, confidentiality, and intellectual property rights."
 tags:

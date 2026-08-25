@@ -2,8 +2,8 @@
 slug: "data-processing-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Databehandleraftale (DPA)"
 description: "Skabelon til regulering af behandling af personoplysninger mellem dataansvarlig og databehandler i overensstemmelse med GDPR."
 tags:

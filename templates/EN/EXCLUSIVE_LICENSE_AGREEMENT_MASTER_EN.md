@@ -2,8 +2,8 @@
 slug: "exclusive-license-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Exclusive License Agreement"
 description: "Template for granting an exclusive intellectual property license, including scope, royalties, restrictions, and termination."
 tags:

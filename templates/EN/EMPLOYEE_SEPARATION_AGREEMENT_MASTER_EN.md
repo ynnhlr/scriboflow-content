@@ -2,8 +2,8 @@
 slug: "employee-separation-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Employee Separation Agreement"
 description: "Template for documenting employment termination terms, including notice, compensation, release, and handover obligations."
 tags:

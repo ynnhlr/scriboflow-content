@@ -2,8 +2,8 @@
 slug: "mutual-non-disclosure-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Mutual Non-Disclosure Agreement (NDA)"
 description: "Template for mutual confidentiality when both parties share sensitive information during discussions or cooperation."
 tags:

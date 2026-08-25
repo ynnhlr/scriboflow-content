@@ -2,8 +2,8 @@
 slug: "share-purchase-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Aktieoverdragelsesaftale"
 description: "Skabelon til overdragelse af aktier, herunder købesum, gennemførelsesmekanik, garantier og forpligtelser efter gennemførelsen."
 tags:

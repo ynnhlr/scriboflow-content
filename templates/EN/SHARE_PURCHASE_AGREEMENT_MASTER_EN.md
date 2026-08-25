@@ -2,8 +2,8 @@
 slug: "share-purchase-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Share Purchase Agreement"
 description: "Template for transferring shares, including purchase price, completion mechanics, warranties, and post-closing obligations."
 tags:

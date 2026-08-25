@@ -2,8 +2,8 @@
 slug: "non-compete-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Konkurrenceklausulaftale"
 description: "Skabelon til at begrænse konkurrenceaktiviteter efter ophør af et ansættelses- eller kommercielt forhold."
 tags:

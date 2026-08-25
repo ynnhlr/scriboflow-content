@@ -2,8 +2,8 @@
 slug: "distribution-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Distributionsaftale"
 description: "Skabelon til at udpege en distributør og fastlægge territorium, salgsforpligtelser, priser og ophørsvilkår."
 tags:

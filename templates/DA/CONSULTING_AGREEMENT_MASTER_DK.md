@@ -2,8 +2,8 @@
 slug: "consulting-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Konsulentaftale"
 description: "Skabelon til at definere konsulentydelser, leverancer, honorar, fortrolighed og immaterielle rettigheder."
 tags:

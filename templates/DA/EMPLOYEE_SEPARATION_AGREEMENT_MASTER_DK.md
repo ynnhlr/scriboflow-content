@@ -2,8 +2,8 @@
 slug: "employee-separation-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Fratrædelsesaftale for medarbejder"
 description: "Skabelon til at aftale vilkår for medarbejderens fratrædelse, herunder opsigelse, kompensation, frigørelse og aflevering."
 tags:

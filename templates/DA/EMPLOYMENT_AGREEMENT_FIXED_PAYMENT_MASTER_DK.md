@@ -2,8 +2,8 @@
 slug: "employment-agreement-fixed-payment"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Ansættelsesaftale (Fast løn)"
 description: "Skabelon til ansættelsesvilkår med fast løn, herunder stilling, vederlag, arbejdstid og centrale forpligtelser."
 tags:

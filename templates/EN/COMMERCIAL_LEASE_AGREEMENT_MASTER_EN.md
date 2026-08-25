@@ -2,8 +2,8 @@
 slug: "commercial-lease-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Commercial Lease Agreement"
 description: "Template for leasing commercial premises, including rent, term, permitted use, and landlord-tenant responsibilities."
 tags:

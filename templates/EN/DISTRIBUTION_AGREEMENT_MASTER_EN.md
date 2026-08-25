@@ -2,8 +2,8 @@
 slug: "distribution-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Distribution Agreement"
 description: "Template for appointing a distributor and setting territory, sales obligations, pricing, and termination terms."
 tags:

@@ -2,8 +2,8 @@
 slug: "service-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Serviceaftale"
 description: "Skabelon til et tjenesteforhold, herunder omfang, serviceniveauer, honorar, ansvar og ophør."
 tags:

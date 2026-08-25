@@ -2,8 +2,8 @@
 slug: "product-supply-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Product Supply Agreement"
 description: "Template for ongoing supply of products, covering pricing, delivery, quality standards, and warranty obligations."
 tags:

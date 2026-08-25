@@ -2,8 +2,8 @@
 slug: "exclusive-license-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Eksklusiv licensaftale"
 description: "Skabelon til at give en eksklusiv licens til immaterielle rettigheder, herunder omfang, royalties, begrænsninger og ophør."
 tags:

@@ -2,8 +2,8 @@
 slug: "payment-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Betalingsaftale"
 description: "Skabelon til at fastsætte en betalingsordning for udestående beløb, herunder afdrag, frister og misligholdelse."
 tags:

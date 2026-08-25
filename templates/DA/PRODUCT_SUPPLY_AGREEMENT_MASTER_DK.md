@@ -2,8 +2,8 @@
 slug: "product-supply-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Aftale om levering af produkter"
 description: "Skabelon til løbende levering af produkter, herunder pris, levering, kvalitetskrav og garantiforpligtelser."
 tags:

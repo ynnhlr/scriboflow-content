@@ -2,8 +2,8 @@
 slug: "offer-letter"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Tilbudsbrev"
 description: "Skabelon til at udsende et jobtilbud med stilling, vederlag, startdato og centrale ansættelsesvilkår."
 tags:

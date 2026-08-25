@@ -2,8 +2,8 @@
 slug: "intellectual-property-assignment-agreement"
 language: da
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Aftale om overdragelse af immaterielle rettigheder"
 description: "Skabelon til overdragelse af immaterielle rettigheder, herunder garantier, vederlag og yderligere bistand."
 tags:

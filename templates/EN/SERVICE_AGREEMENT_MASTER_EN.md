@@ -2,8 +2,8 @@
 slug: "service-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Service Agreement"
 description: "Template for a service relationship, including scope, service levels, fees, responsibilities, and termination."
 tags:

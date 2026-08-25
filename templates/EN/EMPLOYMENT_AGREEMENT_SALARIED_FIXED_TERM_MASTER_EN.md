@@ -2,8 +2,8 @@
 slug: "employment-agreement-salaried-fixed-term"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Employment Agreement (Salaried - Fixed Term)"
 description: "Template for fixed-term salaried employment, covering duration, salary, duties, and end-of-term conditions."
 tags:

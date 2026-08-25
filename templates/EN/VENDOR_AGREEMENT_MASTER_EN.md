@@ -2,8 +2,8 @@
 slug: "vendor-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Vendor Agreement"
 description: "Template for governing vendor relationships, including pricing, delivery, service standards, and supplier obligations."
 tags:

@@ -2,8 +2,8 @@
 slug: "data-processing-agreement"
 language: en
 primaryJurisdiction: DK
-updatedAt: "2026-08-01"
-version: "1.1"
+updatedAt: "2026-08-24"
+version: "1.2"
 title: "Data Processing Agreement (DPA)"
 description: "Template for governing personal data processing between controller and processor in line with GDPR requirements."
 tags:
