@@ -10,9 +10,10 @@ keywords:
   - "recent activity"
   - "needs attention"
   - "navigation"
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 relatedArticles:
   - "what-is-scriboflow"
+  - "create-your-first-contract"
 ---
 
 # Understand the Scriboflow dashboard

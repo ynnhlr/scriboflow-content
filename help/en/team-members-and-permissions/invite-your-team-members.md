@@ -9,9 +9,10 @@ keywords:
   - "invite colleague"
   - "organisation members"
   - "pending invitations"
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 relatedArticles:
-  - "what-is-scriboflow"
+  - "accept-an-organisation-invitation"
+  - "understand-owner-admin-and-member-roles"
 ---
 
 # Invite your team members

@@ -9,8 +9,10 @@ keywords:
   - "opret kontrakter"
   - "elektronisk underskrift"
   - "kontraktarkiv"
-lastUpdated: "2026-08-24"
-relatedArticles: []
+lastUpdated: "2026-08-26"
+relatedArticles:
+  - "understand-the-scriboflow-dashboard"
+  - "create-your-first-contract"
 ---
 
 # Hvad er Scriboflow?

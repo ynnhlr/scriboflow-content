@@ -10,9 +10,10 @@ keywords:
   - "seneste aktivitet"
   - "kræver handling"
   - "navigation"
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 relatedArticles:
   - "what-is-scriboflow"
+  - "create-your-first-contract"
 ---
 
 # Forstå Scriboflow-dashboardet

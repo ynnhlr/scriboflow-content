@@ -9,9 +9,10 @@ keywords:
   - "inviter kollega"
   - "organisationsmedlemmer"
   - "ventende invitationer"
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 relatedArticles:
-  - "what-is-scriboflow"
+  - "accept-an-organisation-invitation"
+  - "understand-owner-admin-and-member-roles"
 ---
 
 # Inviter dine teammedlemmer
